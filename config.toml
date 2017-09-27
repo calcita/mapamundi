@@ -1,8 +1,8 @@
-baseurl = "https://example.org/"
+baseurl = "/"
 languageCode = "en-us"
-title = "Strata"
+title = "Mapa Mundi"
 theme = "hugo-strata-theme"
-disqusShortname = "spf13"
+disqusShortname = ""
 # Enable Google Analytics by inserting your tracking code
 googleAnalytics = ""
 # Define how many posts should appear on a site
@@ -11,7 +11,7 @@ paginate = 10
 [params]
 	# To provide some metadata for search engines feel free to add a few
     # information about you and your website.
-	name = "Your name"
+	name = "Mapa Mundi"
 	description = "Describe your website"
 
 	# Format dates with Go's time formatting
@@ -36,10 +36,11 @@ paginate = 10
 		gitlab = ""
 		dribbble = ""
 		flickr = ""
+		vimeo = " "
 		linkedin = ""
 
 		copyright = [
-			 "This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) License. Some rights reserved by calcita"
+			 "Los contenidos de este sitio están publicados bajo la licencia libre [Creative Commons - Atribución - Compartir Igual 4.0 Internacional](//https://creativecommons.org/licenses/by-sa/4.0/deed.es) (CC BY-SA 4.0)."
 		]
 
 
@@ -107,7 +108,6 @@ paginate = 10
 			"Nashville, TN 00000",
 			"United States"
 		]
-		phone = "000-000-0000"
 
 		# Since this template is static, the contact form uses www.formspree.io as a
 		# proxy. The form makes a POST request to their servers to send the actual
@@ -120,7 +120,7 @@ paginate = 10
 	    # - send a dummy email yourself to confirm your account
 	    # - click the confirm link in the email from www.formspree.io
 	    # - you're done. Happy mailing!
-		email = "hello@example.com"
+		email = "mapamundi@gmx.com"
 
 		[params.contact.form]
 			# Set custom strings for the form if your native
