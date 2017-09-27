@@ -39,9 +39,7 @@ paginate = 10
 		linkedin = ""
 
 		copyright = [
-			"&copy; John Doe",
-			"Design: [HTML5 UP](//html5up.net)",
-			"Demo Images: [Unsplash](//unsplash.com/)"
+			 "This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) License. Some rights reserved by calcita"
 		]
 
 
