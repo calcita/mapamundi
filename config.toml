@@ -27,9 +27,9 @@ paginate = 10
 
 	[params.sidebar]
 		# Replace the avatar with a picture of your own under static/images
-		avatar = "avatar.jpg"
+		avatar = "avatar2_lzn.jpg"
 		# Use Markdown to format the string. This works nearly all over the theme
-		bio = "'Por un mundo donde seamos socialmente iguales, humanamente diferentes y totalmente libres'.  (Rosa Luxemburg)"
+		bio = "'Por un mundo donde seamos socialmente iguales, humanamente diferentes y totalmente libres'.  ([Rosa Luxemburg] (https://es.wikipedia.org/wiki/Rosa_Luxemburgo))"
 		# The icons will be shown if you enter your username
 		twitter = "calcita3"
 		github = "calcita"
@@ -46,7 +46,7 @@ paginate = 10
 	[params.about]
 		hide  = false
 		title = "Mapa Mundi"
-		content = "Acá no encontrarás una lista de los lugares imperdibles para ver en tal o cual ciudad. Mostraré lo que llamó mi atención o fui buscando."
+		content = "Acá no encontrarás una lista de los lugares imperdibles para ver en tal o cual ciudad. Mostraré lo que llamó mi atención o fui buscando. Para buscar los artículos o fotos sobre determinada ciudad, tenés que buscarla en Tags."
 
 
 	[params.portfolio]
@@ -138,4 +138,19 @@ paginate = 10
 [[menu.main]]
 	name = "Blog"
 	url  = "post/"
+	weight = 0
+	
+[[menu.main]]
+	name = "Mapa"
+	url  = "post/"
+	weight = 0
+	
+[[menu.main]]
+	name = "Tags"
+	url  = "tags/"
+	weight = 0
+	
+[[menu.main]]
+	name = "About"
+	url  = "about/"
 	weight = 0
