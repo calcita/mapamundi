@@ -10,8 +10,8 @@ tags: []
 
 Probando
 ```{r, echo=FALSE}
-  library(leaflet)
-city=read.csv("/home/calcita/myblog/Insumos_blog/city_latlon.csv")  
+#library(leaflet)
+#city=read.csv("/home/calcita/myblog/Insumos_blog/city_latlon.csv")  
 # m <- leaflet() %>%
 #     addTiles() %>%  # Add default OpenStreetMap map tiles
 # addMarkers(lng=13.3886, lat=52.5172,
@@ -20,16 +20,16 @@ city=read.csv("/home/calcita/myblog/Insumos_blog/city_latlon.csv")
   
 #### hacer un gif
 #probar esto  
-m<-leaflet() %>% 
-  addTiles()%>% 
-  addMarkers(lng=city$Longitude,lat=city$Latitude, data=city,popup=~City) %>% 
-    setView(m,lng=city$Longitude[5],lat=city$Latitude[5],zoom=4.5)%>% 
-      addPolylines(lng = city$Longitude, lat =city$Latitude, layerId = NULL, group = NULL,
-      stroke = TRUE, color = "#03F", weight = 2.5, opacity = 0.5,
-      fill = FALSE, fillColor = "blue", fillOpacity = 0.2, dashArray = NULL,
-      smoothFactor = 1, noClip = FALSE, popup = NULL, popupOptions = NULL,
-      label = NULL, labelOptions = NULL, options = pathOptions(),
-      highlightOptions = NULL, data = getMapData(m))
-m
+#m<-leaflet() %>% 
+#  addTiles()%>% 
+#  addMarkers(lng=city$Longitude,lat=city$Latitude, data=city,popup=~City) %>% 
+#    setView(m,lng=city$Longitude[5],lat=city$Latitude[5],zoom=4.5)%>% 
+#      addPolylines(lng = city$Longitude, lat =city$Latitude, layerId = NULL, group = NULL,
+#      stroke = TRUE, color = "#03F", weight = 2.5, opacity = 0.5,
+#      fill = FALSE, fillColor = "blue", fillOpacity = 0.2, dashArray = NULL,
+#      smoothFactor = 1, noClip = FALSE, popup = NULL, popupOptions = NULL,
+#      label = NULL, labelOptions = NULL, options = pathOptions(),
+#      highlightOptions = NULL, data = getMapData(m))
+#m
 ```
 
