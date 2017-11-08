@@ -11,8 +11,8 @@ paginate = 10
 [params]
 	# To provide some metadata for search engines feel free to add a few
     # information about you and your website.
-	name = "Mapa Mundi"
-	description = "Mapa Mundi"
+	name = "Mapamundi"
+	description = "Mapamundi"
 
 	# Format dates with Go's time formatting
 	date_format = "2006-01-02"
@@ -40,13 +40,13 @@ paginate = 10
 		linkedin = ""
 
 		copyright = [
-			 "Los contenidos de este sitio están publicados bajo la licencia libre (CC BY-SA 4.0) [Creative Commons - Atribución - Compartir Igual 4.0 Internacional](//https://creativecommons.org/licenses/by-sa/4.0/deed.es). El sitio está construido utilizando el software libre [R] (https://www.r-project.org/)"
+			 "El sitio está construido utilizando el software libre [R] (https://www.r-project.org/) y su contenido está realizado por Gabriela Mathieu y publicado bajo la licencia libre (CC BY-SA 4.0) [Creative Commons - Atribución - Compartir Igual 4.0 Internacional](//https://creativecommons.org/licenses/by-sa/4.0/deed.es). ![CC](/images/cc-by-sa.png)"
 			 ]
 
 	[params.about]
 		hide  = false
-		title = "Mapa Mundi"
-		content = "dober dan - hvala - faleminderit - blagodarya - merci - thank you - grazie - obrigado - danke - gràcies - efcharistó. Cómo decir gracias en el idioma del país que visito es una de las cosas que trato de aprender antes de ir. A veces lo logro y otras veces recién logro aprenderla al irme."
+		title = "Mapamundi"
+		content = "**dober dan** - hvala - **faleminderit** - blagodarya - **efcharistó** - gràcies -**merci**- thank you - **grazie** - obrigado - **danke** . Mi lista de cómo decir gracias en el idioma de los países que he visitado. Intento de aprenderla antes de llegar pero a veces me voy sin saber decir 'gracias'."
 
 
 	[params.portfolio]
@@ -59,37 +59,37 @@ paginate = 10
 			image = "fulls/01.jpg"
 			thumb = "thumbs/01.jpg"
 			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
+			description = "[Álbum de fotos](https://www.flickr.com/people/mapa_mundi/)"
 
 		[[params.portfolio.gallery]]
 			image = "fulls/02.jpg"
 			thumb = "thumbs/02.jpg"
 			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
+			description = "[Álbum de fotos](https://www.flickr.com/people/mapa_mundi/)"
 
 		[[params.portfolio.gallery]]
 			image = "fulls/03.jpg"
 			thumb = "thumbs/03.jpg"
 			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
+			description = "[Álbum de fotos](https://www.flickr.com/people/mapa_mundi/)"
 
 		[[params.portfolio.gallery]]
 			image = "fulls/04.jpg"
 			thumb = "thumbs/04.jpg"
 			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
+			description = "[Álbum de fotos](https://www.flickr.com/people/mapa_mundi/)"
 
 		[[params.portfolio.gallery]]
 			image = "fulls/05.jpg"
 			thumb = "thumbs/05.jpg"
 			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
+			description = "[Álbum de fotos](https://www.flickr.com/people/mapa_mundi/)"
 
 		[[params.portfolio.gallery]]
 			image = "fulls/06.jpg"
 			thumb = "thumbs/06.jpg"
 			title = "Lorem ipsum dolor."
-			description = "Lorem ipsum dolor sit amet."
+			description = "[Álbum de fotos](https://www.flickr.com/people/mapa_mundi/)"
 
 	[params.recentposts]
 		hide  = false
