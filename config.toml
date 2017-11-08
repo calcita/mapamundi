@@ -93,7 +93,7 @@ paginate = 10
 
 	[params.recentposts]
 		hide  = false
-		title = "Recent blog posts"
+		title = "Artículos recientes"
 
 	[params.contact]
 		hide  = false
@@ -104,7 +104,7 @@ paginate = 10
 		gmaps_address = "-56,-33"
 		address = [
 
-			"Uruguay"
+		
 		]
 
 		# Since this template is static, the contact form uses www.formspree.io as a
@@ -138,11 +138,6 @@ paginate = 10
 [[menu.main]]
 	name = "Blog"
 	url  = "post/"
-	weight = 0
-	
-[[menu.main]]
-	name = "Mapa"
-	url  = "mapa/"
 	weight = 0
 	
 [[menu.main]]
