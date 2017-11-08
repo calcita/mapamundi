@@ -40,13 +40,14 @@ paginate = 10
 		linkedin = ""
 
 		copyright = [
-			 "Los contenidos de este sitio están publicados bajo la licencia libre (CC BY-SA 4.0) [Creative Commons - Atribución - Compartir Igual 4.0 Internacional](//https://creativecommons.org/licenses/by-sa/4.0/deed.es). El sitio está construido utilizando el software libre [R] (https://www.r-project.org/) y usando el tema ['Hugo Strata'] (https://themes.gohugo.io/strata/)"
+			 "Los contenidos de este sitio están publicados bajo la licencia libre (CC BY-SA 4.0) [Creative Commons - Atribución - Compartir Igual 4.0 Internacional](//https://creativecommons.org/licenses/by-sa/4.0/deed.es). El sitio está construido utilizando el software libre [R] (https://www.r-project.org/)"
 			 ]
 
 	[params.about]
 		hide  = false
 		title = "Mapa Mundi"
-		content = "Acá no encontrarás una lista de los lugares imperdibles para ver en tal o cual ciudad. Mostraré lo que llamó mi atención o fui buscando. Para buscar los artículos o fotos sobre determinada ciudad, tenés que buscarla en Tags."
+		content = "dober dan - hvala - faleminderit - blagodarya - merci - thank you - grazie - obrigado - danke - gràcies - efcharistó 
+Cómo decir gracias en el idioma del país que visito es una de las cosas que trato de aprender antes de ir. A veces lo logro y otras veces recién logro aprenderla al irme."
 
 
 	[params.portfolio]
