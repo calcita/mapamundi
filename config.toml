@@ -46,13 +46,12 @@ paginate = 10
 	[params.about]
 		hide  = false
 		title = "Mapa Mundi"
-		content = "dober dan - hvala - faleminderit - blagodarya - merci - thank you - grazie - obrigado - danke - gràcies - efcharistó 
-Cómo decir gracias en el idioma del país que visito es una de las cosas que trato de aprender antes de ir. A veces lo logro y otras veces recién logro aprenderla al irme."
+		content = "dober dan - hvala - faleminderit - blagodarya - merci - thank you - grazie - obrigado - danke - gràcies - efcharistó. Cómo decir gracias en el idioma del país que visito es una de las cosas que trato de aprender antes de ir. A veces lo logro y otras veces recién logro aprenderla al irme."
 
 
 	[params.portfolio]
 		hide  = false
-		title = "Recent Work"
+		title = "Fotos recientes"
 
 		# The images and thumbnails are stored under static/images
 		# Create and change subfolders as you like
