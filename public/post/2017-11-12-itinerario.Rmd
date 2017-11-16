@@ -19,6 +19,22 @@ Kilómetros recorridos en cada medio de transporte:
 
 ![CC](/images/car.png) 3929 kilómetros
 
+```{r, echo=FALSE}
+library(leaflet)
+city=read.csv("/home/calcita/myblog/Insumos_blog/city_latlon.csv")  
+m<-leaflet() %>%
+   addTiles()%>% 
+   setView(m,lng=9.168,lat=48.803,zoom=4)%>% 
+   #setMaxBounds(m,lng1=-12.041,lng2=46.770,lat1=60.436,lat2=35.317)%>%
+    addMarkers(lng=city$Longitude,lat=city$Latitude, data=city,popup=~Label) %>% 
+   addPolylines(lng = city$Longitude, lat =city$Latitude, layerId = NULL, group = NULL,
+                stroke = TRUE, color = c("blue","red"), weight = 2.5, opacity = 0.5,
+                fill = FALSE, fillColor = c("blue"), fillOpacity = 0.2, dashArray = NULL,
+                smoothFactor = 1, noClip = FALSE, popup = NULL, popupOptions = NULL,
+                label = NULL, labelOptions = NULL, options = pathOptions(),
+                highlightOptions = NULL, data = getMapData(m))
+m
+```
 Días por ciudad
 ```{r, echo=FALSE}
 library(leaflet)
