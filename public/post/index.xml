@@ -6,34 +6,10 @@
     <description>Recent content in Posts on Mapa Mundi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 12 Nov 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Oct 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Itinerario</title>
-      <link>/post/itinerario/</link>
-      <pubDate>Sun, 12 Nov 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/post/itinerario/</guid>
-      <description>X horas viajando de una ciudad a otra.
-Kilómetros recorridos en cada medio de transporte:
-3929 kilómetros
-3929 kilómetros
-3929 kilómetros
-3929 kilómetros
-Días por ciudad  {&#34;x&#34;:{&#34;options&#34;:{&#34;crs&#34;:{&#34;crsClass&#34;:&#34;L.CRS.EPSG3857&#34;,&#34;code&#34;:null,&#34;proj4def&#34;:null,&#34;projectedBounds&#34;:null,&#34;options&#34;:{}}},&#34;calls&#34;:[{&#34;method&#34;:&#34;addTiles&#34;,&#34;args&#34;:[&#34;//{s}.tile.openstreetmap.org/{z}/{x}/{y}.png&#34;,null,null,{&#34;minZoom&#34;:0,&#34;maxZoom&#34;:18,&#34;maxNativeZoom&#34;:null,&#34;tileSize&#34;:256,&#34;subdomains&#34;:&#34;abc&#34;,&#34;errorTileUrl&#34;:&#34;&#34;,&#34;tms&#34;:false,&#34;continuousWorld&#34;:false,&#34;noWrap&#34;:false,&#34;zoomOffset&#34;:0,&#34;zoomReverse&#34;:false,&#34;opacity&#34;:1,&#34;zIndex&#34;:null,&#34;unloadInvisibleTiles&#34;:null,&#34;updateWhenIdle&#34;:null,&#34;detectRetina&#34;:false,&#34;reuseTiles&#34;:false,&#34;attribution&#34;:&#34;&amp;copy; OpenStreetMap contributors, CC-BY-SA&#34;}]},{&#34;method&#34;:&#34;addCircles&#34;,&#34;args&#34;:[[48.366512,41.385064,52.520008,52.520008,42.510578,46.81595,46.81595,51.050407,42.650661,47.008797,47.076668,47.070714,49.39875,40.103472,42.424662,46.056946,46.056946,40.416775,46.55465,39.859212,42.698334,42.698334,43.508133,40.736851,41.327953,41.327953,43.516387,43.204666,45.440847,40.466067,45.815399],[10.894446,2.173403,13.404954,13.404954,27.461014,15.21338,15.21338,13.737262,18.094424,16.202751,15.421371,15.439504,8.672434,19.750238,18.771234,14.505751,14.505751,-3.70379,15.645881,20.0271,23.319941,23.319941,16.440193,22.920227,19.819025,19.819025,16.250189,27.910543,12.315515,19.491356,15.966568],[10000,20000,15000,15000,10000,30000,30000,20000,10000,15000,20000,20000,15000,15000,15000,15000,15000,20000,15000,15000,15000,15000,10000,15000,15000,15000,15000,15000,10000,15000,20000],null,null,{&#34;lineCap&#34;:null,&#34;lineJoin&#34;:null,&#34;clickable&#34;:true,&#34;pointerEvents&#34;:null,&#34;className&#34;:&#34;&#34;,&#34;stroke&#34;:true,&#34;color&#34;:&#34;red&#34;,&#34;weight&#34;:1,&#34;opacity&#34;:0.5,&#34;fill&#34;:true,&#34;fillColor&#34;:&#34;red&#34;,&#34;fillOpacity&#34;:0.2,&#34;dashArray&#34;:null},null,null,null,null,null,null]},{&#34;method&#34;:&#34;addMarkers&#34;,&#34;args&#34;:[[48.366512,41.385064,52.520008,52.520008,42.510578,46.81595,46.81595,51.050407,42.650661,47.008797,47.076668,47.070714,49.39875,40.103472,42.424662,46.056946,46.056946,40.416775,46.55465,39.859212,42.698334,42.698334,43.508133,40.736851,41.327953,41.327953,43.516387,43.204666,45.440847,40.466067,45.815399],[10.894446,2.173403,13.404954,13.404954,27.461014,15.21338,15.21338,13.737262,18.094424,16.202751,15.421371,15.439504,8.672434,19.750238,18.771234,14.505751,14.505751,-3.70379,15.645881,20.0271,23.319941,23.319941,16.440193,22.920227,19.819025,19.819025,16.250189,27.910543,12.315515,19.491356,15.966568],null,null,null,{&#34;clickable&#34;:true,&#34;draggable&#34;:false,&#34;keyboard&#34;:true,&#34;title&#34;:&#34;&#34;,&#34;alt&#34;:&#34;&#34;,&#34;zIndexOffset&#34;:0,&#34;opacity&#34;:1,&#34;riseOnHover&#34;:false,&#34;riseOffset&#34;:250},[&#34;Augsburg: 1 días&#34;,&#34;Barcelona: 5 días&#34;,&#34;Berlin: 38 días&#34;,&#34;Berlin: 38 días&#34;,&#34;Burgas: 1 días&#34;,&#34;Deutschlandsberg: 19 días&#34;,&#34;Deutschlandsberg: 19 días&#34;,&#34;Dresde: 5 días&#34;,&#34;Dubrovnik: 1 días&#34;,&#34;Eltendorf: 22 días&#34;,&#34;Graz: 5 días&#34;,&#34;Graz: 5 días&#34;,&#34;Heidelberg: 2 días&#34;,&#34;Himara: 3 días&#34;,&#34;Kotor: 3 días&#34;,&#34;Ljubljana: 4 días&#34;,&#34;Ljubljana: 4 días&#34;</description>
-    </item>
-    
-    <item>
-      <title>Recorrido</title>
-      <link>/post/recorrido/</link>
-      <pubDate>Wed, 11 Oct 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/post/recorrido/</guid>
-      <description>Probando</description>
-    </item>
     
     <item>
       <title>Otoño en Berlin</title>
