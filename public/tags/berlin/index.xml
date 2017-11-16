@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Berlin on Mapa Mundi</title>
+    <link>/tags/berlin/</link>
+    <description>Recent content in Berlin on Mapa Mundi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 25 Sep 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/berlin/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Otoño en Berlin</title>
+      <link>/post/oto%C3%B1o-en-berlin/</link>
+      <pubDate>Mon, 25 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/oto%C3%B1o-en-berlin/</guid>
+      <description>Reportando desde Berlin vale para todo el mes de octubre </description>
+    </item>
+    
+  </channel>
+</rss>

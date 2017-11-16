@@ -6,10 +6,19 @@
     <description>Recent content on Mapa Mundi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 05 May 2017 21:48:51 -0700</lastBuildDate>
+    <lastBuildDate>Mon, 25 Sep 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Otoño en Berlin</title>
+      <link>/post/oto%C3%B1o-en-berlin/</link>
+      <pubDate>Mon, 25 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/oto%C3%B1o-en-berlin/</guid>
+      <description>Reportando desde Berlin vale para todo el mes de octubre </description>
+    </item>
     
     <item>
       <title>About</title>
