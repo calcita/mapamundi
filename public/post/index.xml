@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Mapa Mundi</title>
-    <link>http://mapamundi.me/post/</link>
+    <link>/post/</link>
     <description>Recent content in Posts on Mapa Mundi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 25 Sep 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://mapamundi.me/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Otoño en Berlin</title>
-      <link>http://mapamundi.me/post/oto%C3%B1o-en-berlin/</link>
+      <link>/post/oto%C3%B1o-en-berlin/</link>
       <pubDate>Mon, 25 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://mapamundi.me/post/oto%C3%B1o-en-berlin/</guid>
+      <guid>/post/oto%C3%B1o-en-berlin/</guid>
       <description>Reportando desde Berlin vale para todo el mes de octubre</description>
     </item>
     
