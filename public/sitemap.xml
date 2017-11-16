@@ -3,45 +3,45 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/post/oto%C3%B1o-en-berlin/</loc>
+    <loc>http://mapamundi.me/post/oto%C3%B1o-en-berlin/</loc>
     <lastmod>2017-09-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/about/</loc>
+    <loc>http://mapamundi.me/about/</loc>
     <lastmod>2017-05-05T21:48:51-07:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>http://mapamundi.me/tags/</loc>
     <lastmod>2017-05-05T21:48:51-07:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/berlin/</loc>
+    <loc>http://mapamundi.me/tags/berlin/</loc>
     <lastmod>2017-09-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>http://mapamundi.me/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>http://mapamundi.me/</loc>
     <lastmod>2017-09-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/post/</loc>
+    <loc>http://mapamundi.me/post/</loc>
     <lastmod>2017-09-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>http://mapamundi.me/tags/</loc>
     <lastmod>2017-09-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
