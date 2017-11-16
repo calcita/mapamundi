@@ -6,37 +6,10 @@
     <description>Recent content on Mapa Mundi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 Oct 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 May 2017 21:48:51 -0700</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Otoño en Berlin</title>
-      <link>/post/oto%C3%B1o-en-berlin/</link>
-      <pubDate>Tue, 10 Oct 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/post/oto%C3%B1o-en-berlin/</guid>
-      <description>Reportando desde Berlin vale para todo el mes de octubre </description>
-    </item>
-    
-    <item>
-      <title>Otoño en Berlin</title>
-      <link>/post/oto%C3%B1oenberlin/</link>
-      <pubDate>Tue, 10 Oct 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/post/oto%C3%B1oenberlin/</guid>
-      <description>Reportando desde Berlin vale para todo el mes de octubre </description>
-    </item>
-    
-    <item>
-      <title>otoñoberlin_20171010</title>
-      <link>/post/oto%C3%B1oberlin-20171010/</link>
-      <pubDate>Tue, 10 Oct 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/post/oto%C3%B1oberlin-20171010/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>About</title>
@@ -54,24 +27,6 @@
       
       <guid>/tags/</guid>
       <description>[Berlin]() [Dresde]() [Munich]() [Augsburgo]() [Sofia]() [Varna]() [Burgas]() [Zagreb]() [Dubrovnik]()</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/post/2017-10-10-oto%C3%B1oberlin-20171010/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2017-10-10-oto%C3%B1oberlin-20171010/</guid>
-      <description>otoñoberlin_20171010       code{white-space: pre;} pre:not([class]) { background-color: white; }  if (window.hljs &amp;&amp; document.readyState &amp;&amp; document.readyState === &#34;complete&#34;) { window.setTimeout(function() { hljs.initHighlighting(); }, 0); }  h1 { font-size: 34px; } h1.title { font-size: 38px; } h2 { font-size: 30px; } h3 { font-size: 24px; } h4 { font-size: 18px; } h5 { font-size: 16px; } h6 { font-size: 12px; } .table th:not([align]) { text-align: left; }    .</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/post/2017-10-10-oto%C3%B1oenberlin/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2017-10-10-oto%C3%B1oenberlin/</guid>
-      <description>Otoño en Berlin       code{white-space: pre;} pre:not([class]) { background-color: white; }  if (window.hljs &amp;&amp; document.readyState &amp;&amp; document.readyState === &#34;complete&#34;) { window.setTimeout(function() { hljs.initHighlighting(); }, 0); }  h1 { font-size: 34px; } h1.title { font-size: 38px; } h2 { font-size: 30px; } h3 { font-size: 24px; } h4 { font-size: 18px; } h5 { font-size: 16px; } h6 { font-size: 12px; } .table th:not([align]) { text-align: left; }    .</description>
     </item>
     
   </channel>
