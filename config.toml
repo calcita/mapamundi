@@ -56,7 +56,7 @@ paginate = 10
 		# The images and thumbnails are stored under static/images
 		# Create and change subfolders as you like
 		[[params.portfolio.gallery]]
-			image = "fulls/201709_Berlin_0005.jpg"
+			image = "fulls/201709_Berlin_0005.jpg" 
 			thumb = "thumbs/201709_Berlin_0005.jpg"
 			title = "Rosa Luxemburg, estación de metro"
 			description = "[Álbum de fotos](https://www.flickr.com/people/mapa_mundi/)"
