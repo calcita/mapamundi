@@ -69,7 +69,7 @@ paginate = 10
 
 		[[params.portfolio.gallery]]
 			image = "fulls/201709_Berlin_0048.jpg"
-			thumb = "thumbs/05.jpg"
+			thumb = "thumbs/201709_Berlin_0048.jpg"
 			title = "Stop wars"
 			description = "[Álbum de fotos](https://www.flickr.com/people/mapa_mundi/)"
 
