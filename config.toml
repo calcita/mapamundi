@@ -56,39 +56,39 @@ paginate = 10
 		# The images and thumbnails are stored under static/images
 		# Create and change subfolders as you like
 		[[params.portfolio.gallery]]
-			image = "fulls/201709_Berlin_0008.jpg"
-			thumb = "thumbs/201709_Berlin_0008.jpg"
-			title = "Transporte"
-			description = "[Álbum de fotos](https://www.flickr.com/people/mapa_mundi/)"
-
-		[[params.portfolio.gallery]]
-			image = "fulls/201709_Berlin_0221.jpg"
-			thumb = "thumbs/201709_Berlin_0221.jpg"
+			image = "fulls/201709_Berlin_0005.jpg"
+			thumb = "thumbs/201709_Berlin_0005.jpg"
 			title = "Rosa Luxemburg, estación de metro"
 			description = "[Álbum de fotos](https://www.flickr.com/people/mapa_mundi/)"
 
 		[[params.portfolio.gallery]]
-			image = "fulls/201709_Berlin_0222.jpg"
-			thumb = "thumbs/201709_Berlin_0222.jpg"
+			image = "fulls/201709_Berlin_0012.jpg"
+			thumb = "thumbs/201709_Berlin_0012.jpg"
+			title = "Transporte"
+			description = "[Álbum de fotos](https://www.flickr.com/people/mapa_mundi/)"
+
+		[[params.portfolio.gallery]]
+			image = "fulls/201709_Berlin_0048.jpg"
+			thumb = "thumbs/201709_Berlin_0048.jpg"
 			title = "Stop wars"
 			description = "[Álbum de fotos](https://www.flickr.com/people/mapa_mundi/)"
 
 		[[params.portfolio.gallery]]
-			image = "fulls/201709_Berlin_0162.jpg"
-			thumb = "thumbs/201709_Berlin_0162.jpg"
+			image = "fulls/201709_Berlin_0186.jpg"
+			thumb = "thumbs/201709_Berlin_0186.jpg"
 			title = "Mi vida"
 			description = "[Álbum de fotos](https://www.flickr.com/people/mapa_mundi/)"
 
 		[[params.portfolio.gallery]]
-			image = "fulls/05.jpg"
-			thumb = "thumbs/05.jpg"
-			title = "Lorem ipsum dolor."
+			image = "fulls/201709_Berlin_0050.jpg"
+			thumb = "thumbs/201709_Berlin_0050.jpg"
+			title = "The future is female"
 			description = "[Álbum de fotos](https://www.flickr.com/people/mapa_mundi/)"
 
 		[[params.portfolio.gallery]]
-			image = "fulls/06.jpg"
-			thumb = "thumbs/06.jpg"
-			title = "Lorem ipsum dolor."
+			image = "fulls/201709_Berlin_0716.jpg"
+			thumb = "thumbs/201709_Berlin_0716.jpg"
+			title = ""
 			description = "[Álbum de fotos](https://www.flickr.com/people/mapa_mundi/)"
 
 	[params.recentposts]
