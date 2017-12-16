@@ -13,5 +13,8 @@ El blog está hecho completamente con el software libre R. Uso el tema Hugo Stra
 
 ![gif](/images/recorrido.gif)
 
+
 jaja
 ![](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+
+<iframe src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="900" height="780" style="border: none;"></iframe>
