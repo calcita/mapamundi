@@ -31,8 +31,8 @@ paginate = 10
 		# Use Markdown to format the string. This works nearly all over the theme
 		bio = "'Por un mundo donde seamos socialmente iguales, humanamente diferentes y totalmente libres'.  ([Rosa Luxemburg] (https://es.wikipedia.org/wiki/Rosa_Luxemburgo))"
 		# The icons will be shown if you enter your username
-		twitter = "calcita3"
-		github = "calcita"
+		twitter = ""
+		github = "gmathieux"
 		gitlab = ""
 		dribbble = ""
 		vimeo = "mapamundi"

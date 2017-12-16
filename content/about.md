@@ -12,18 +12,11 @@ La estructura del blog intenta ser sencilla y evitando el uso de un menú desple
 El blog está hecho completamente con el software libre R. Uso el tema Hugo Strata. Todo el contenido - texto, fotos, videos, mapas y gráficos- está hecho por mí -salvo que se especifique lo contrario- y bajo licencia [Creative Commons 4.0 Atribución-CompartirIgual](https://creativecommons.org/licenses/by-sa/4.0/deed.es) ![BY](/images/by.png)![SA](/images/sa.png). Esta licencia implica que:  podés compartir y/o reutilizar parte o todo el contenido de este blog, siempre y cuando, reconozcas mi autoría de la obra original y las obras derivadas sean licenciadas bajo esta misma licencia. 
 
 ![gif](/images/recorrido.gif)
-<<<<<<< HEAD
+
 
 
 jaja
 ![](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 <iframe src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="900" height="780" style="border: none;"></iframe>
-=======
-<<<<<<< HEAD
 
-jaja
-![](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
-=======
->>>>>>> 5ca53105d5324a8c749aa635bd6ad66098e500ee
->>>>>>> e4ebc065fb75cb53ad186624400319baa8787acc
