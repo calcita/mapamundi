@@ -3,28 +3,33 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/about/</loc>
+    <loc>http://mapamundi.me/about/</loc>
     <lastmod>2017-05-05T21:48:51-07:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>http://mapamundi.me/tags/</loc>
     <lastmod>2017-05-05T21:48:51-07:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>http://mapamundi.me/archives/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>http://mapamundi.me/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://mapamundi.me/</loc>
     <lastmod>2017-05-05T21:48:51-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>http://mapamundi.me/tags/</loc>
     <priority>0</priority>
   </url>
   
