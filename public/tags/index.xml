@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Mapa Mundi</title>
-    <link>/tags/</link>
+    <link>http://mapamundi.me/tags/</link>
     <description>Recent content in Tags on Mapa Mundi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 23 Jul 2015 21:13:14 -0500</lastBuildDate>
     
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://mapamundi.me/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
