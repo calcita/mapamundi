@@ -1,7 +1,10 @@
 # Site settings
 baseurl = "http://mapamundi.me/"
-languageCode = "en-us"
+
 title = "MAPA MUNDI"
+
+defaultContentLanguage = "en-us"
+title = "Mapa Mundi"
 theme = "hugo-artists-theme"
 
 [params]
@@ -115,4 +118,5 @@ theme = "hugo-artists-theme"
 
 
 	[params.footer]
+
 copyright = "Los contenidos de este sitio están publicados bajo la licencia libre Creative Commons - Atribución - Compartir Igual 4.0 Internacional"
