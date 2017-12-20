@@ -1,7 +1,7 @@
 # Site settings
 baseurl = "http://mapamundi.me/"
 languageCode = "en-us"
-title = "MAPA MUNDI"
+title = "Mapa Mundi"
 theme = "hugo-artists-theme"
 
 [params]
@@ -35,7 +35,7 @@ theme = "hugo-artists-theme"
 	# But keep the original filename!
 	[params.header]
 		title = "Mapa Mundi"
-		shortBio = "'Por un mundo donde seamos socialmente iguales, humanamente diferentes y totalmente libres. (Rosa Luxemburg)' "
+		shortBio = "'Por un mundo donde seamos socialmente iguales, humanamente diferentes y totalmente libres. (Rosa Luxemburg)'"
 
 
 	# About section
@@ -115,5 +115,4 @@ theme = "hugo-artists-theme"
 
 
 	[params.footer]
-copyright = "Los contenidos de este sitio están publicados bajo la licencia libre Creative Commons - Atribución - Compartir Igual 4.0 Internacional"
-
+copyright = "Los contenidos de este sitio están publicados bajo la licencia libre Creative Commons - Atribución - Compartir Igual 4.0 Internacional."
