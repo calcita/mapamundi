@@ -35,7 +35,7 @@ theme = "hugo-artists-theme"
 	# But keep the original filename!
 	[params.header]
 		title = "Mapa Mundi"
-		shortBio = "'Por un mundo donde seamos socialmente iguales, humanamente diferentes y totalmente libres. (Rosa Luxemburg)'"
+		shortBio = "'Por un mundo donde seamos socialmente iguales, humanamente diferentes y totalmente libres. (Rosa Luxemburg)' "
 
 
 	# About section
