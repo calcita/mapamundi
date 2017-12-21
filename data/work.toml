@@ -1,20 +1,20 @@
 # Section title
-title = "Post"
+title = "Posts"
 
 [[projects]]
-    name = "TYPO International Design Talks"
+    name = "Berlin: un museo a cielo abierto"
     folder = "proj-1"
 
 [[projects]]
-    name = "City-IN website concept"
+    name = "Sofia"
     folder = "proj-2"
 
 [[projects]]
-    name = "Crispy Icons"
+    name = "Thessaloniki"
     folder = "proj-3"
 
 [[projects]]
-    name = "Flat Mobile UI/UX Concept"
+    name = "London"
     folder = "proj-4"
 
 [[projects]]
@@ -32,3 +32,7 @@ title = "Post"
 [[projects]]
     name = "Stripes & Co"
     folder = "proj-8"
+    
+[[projects]]
+    name = "Stripes & Co"
+    folder = "proj-9"
