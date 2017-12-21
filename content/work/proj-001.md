@@ -1,4 +1,4 @@
-![Berlin: un museo a cielo abierto](img/work/proj-1/img1.jpg)
+![Berlin: un museo a cielo abierto](img/work/proj-1/201709_Berlin_0200_lzn.jpg)
 
 Berlin: un museo a cielo abierto
 
