@@ -25,7 +25,7 @@ theme = "hugo-artists-theme"
     # - send a dummy email yourself to confirm your account
     # - click the confirm link in the email from www.formspree.io
     # - you're done. Happy mailing!
-	email = "mapamundi@gmx.com"
+	email = "mapamundi@gmx.li"
 
 
 	# Header an navigation
@@ -77,7 +77,7 @@ theme = "hugo-artists-theme"
 		#	name = "Programming"
 		#	value = 6
 
-	# Contact secion
+ 	# Contact secion
 	[params.contact]
 		title = "Contact"
 
@@ -89,32 +89,34 @@ theme = "hugo-artists-theme"
 			link = "//github.com/gmathieux"
 
 		[[params.contact.social]]
-			icon = "tumblr"
-			link = "//tumblr.com/blog/calcitathings"
-
-		[[params.contact.social]]
-			icon = "vimeo"
-			link = "//www.vimeo.com/mapamundi"
-
-		[[params.contact.social]]
-			icon = "flickr"
-			link = "//www.flickr.com/people/mapa_mundi"
-
-		[[params.contact.social]]
 			icon = "linkedin"
 			link = "//www.linkedin.com/in/mathieugabriela"
 
+		[[params.contact.social]]
+			icon = "twitter"
+			link = "//twitter.com/calcita3"
+
+		#[[params.contact.social]]
+		#	icon = "vimeo"
+		#	link = "//www.vimeo.com/mapamundi"
+
+		#[[params.contact.social]]
+		#	icon = "flickr"
+		#	link = "//www.flickr.com/people/mapa_mundi"
+
+		
 
 	[params.form]
-		title = "Let's work together"
+		title = "Escribime"
 		# Form fields
-		name = "Your Name"
-		email = "Your Email"
-		message = "Tell me about your project"
-		buttonText = "Send"
+		name = "Nombre"
+		email = "Email"
+		message = "Mensaje"
+		buttonText = "Enviar"
 
 
 	[params.footer]
-copyright = "El sitio está construido utilizando el software libre R y su contenido está realizado por Gabriela Mathieu y publicado bajo la licencia libre Creative Commons - Atribución - Compartir Igual 4.0 Internacional. Con excepción de los íconos"
+copyright = "El sitio está construido utilizando el software libre R y su contenido está realizado por Gabriela Mathieu y publicado bajo la licencia libre Creative Commons - Atribución - Compartir Igual 4.0 Internacional. El tema utilizado es artists Con excepción de los íconos"
+
 
 #"El sitio está construido utilizando el software libre [R] (https://www.r-project.org/) y su contenido está #realizado por Gabriela Mathieu y publicado bajo la licencia libre (CC BY-SA 4.0) [Creative Commons - #Atribución - Compartir Igual 4.0 Internacional](//https://creativecommons.org/licenses/by-sa/4.0/deed.es). #![CC](static/img/cc-by-sa.png)"
