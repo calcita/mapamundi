@@ -43,7 +43,7 @@ theme = "hugo-artists-theme"
 	# Replace the 'avatar.jpg' under 'static/img' with your own image.
 	[params.about]
 		title = "About me"
-		bio = "**dober dan** - hvala - **faleminderit** - blagodarya - **efcharistó** - gràcies -**merci**- thank you - **grazie** - obrigado - **danke** . Mi lista de cómo decir gracias en el idioma de los países que he visitado. Intento de aprenderla antes de llegar pero a veces me voy sin saber decir 'gracias'."
+		bio = "**dober dan** - hvala - **faleminderit** - blagodarya - **efcharistó** - gràcies -**merci**- thank you - **grazie** - gracias - **obrigada** - obrigado - **danke** . Mi lista de cómo decir gracias en el idioma de los países que he visitado. Intento de aprenderla antes de llegar pero a veces me voy sin saber decir 'gracias'."
 
 		#[[params.about.skills]]
 		#	name = "Communication"
@@ -115,4 +115,4 @@ theme = "hugo-artists-theme"
 
 
 	[params.footer]
-copyright = "Los contenidos de este sitio están publicados bajo la licencia libre Creative Commons - Atribución - Compartir Igual 4.0 Internacional."
+copyright = "El sitio está construido utilizando el software libre [R] (https://www.r-project.org/) y su contenido está realizado por Gabriela Mathieu y publicado bajo la licencia libre (CC BY-SA 4.0) [Creative Commons - Atribución - Compartir Igual 4.0 Internacional](//https://creativecommons.org/licenses/by-sa/4.0/deed.es). ![CC](/images/cc-by-sa.png)"
