@@ -2,7 +2,7 @@
 
 Berlin: un museo a cielo abierto
 
-![Typo International](img/work/proj-1/img2.jpg)
-![Typo International](img/work/proj-1/img3.jpg)
-![Typo International](img/work/proj-1/img4.jpg)
-![Typo International](img/work/proj-1/img5.jpg)
+![Typo International](img/work/proj-1/201709_Berlin_0200_lzn.jpg)
+![Typo International](img/work/proj-1/201709_Berlin_0005_lzn.jpg)
+![Typo International](img/work/proj-1/201709_Berlin_0008_lzn.jpg)
+![Typo International](img/work/proj-1/201709_Berlin_0100_lzn.jpg)
