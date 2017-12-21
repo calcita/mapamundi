@@ -3,7 +3,11 @@ title = "Posts"
 
 [[projects]]
     name = "Berlin: un museo a cielo abierto"
-    folder = "proj-1"
+    folder = "proj-001"
+    
+[[projects]]
+    name = "Berlin: un museo a cielo abierto"
+    folder = "proj-002"
 
 [[projects]]
     name = "Sofia"
@@ -35,4 +39,4 @@ title = "Posts"
     
 [[projects]]
     name = "Stripes & Co"
-    folder = "proj-001"
+    folder = "proj-1"
