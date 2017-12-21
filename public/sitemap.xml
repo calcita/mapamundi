@@ -3,7 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-<<<<<<< HEAD
     <loc>/post/2015-07-23-r-rmarkdown/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
@@ -38,34 +37,20 @@
   
   <url>
     <loc>/work/proj-8/</loc>
-=======
-    <loc>http://mapamundi.me/about/</loc>
-    <lastmod>2017-05-05T21:48:51-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://mapamundi.me/tags/</loc>
-    <lastmod>2017-05-05T21:48:51-07:00</lastmod>
->>>>>>> 8996c96f4e716ca6ef47769874623a04263e7400
-  </url>
-  
-  <url>
-    <loc>http://mapamundi.me/archives/</loc>
+    <loc>/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-<<<<<<< HEAD
     <loc>/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-=======
-    <loc>http://mapamundi.me/categories/</loc>
->>>>>>> 8996c96f4e716ca6ef47769874623a04263e7400
     <priority>0</priority>
   </url>
   
   <url>
-<<<<<<< HEAD
     <loc>/tags/plot/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <priority>0</priority>
@@ -92,15 +77,10 @@
   <url>
     <loc>/tags/regression/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-=======
-    <loc>http://mapamundi.me/</loc>
-    <lastmod>2017-05-05T21:48:51-07:00</lastmod>
->>>>>>> 8996c96f4e716ca6ef47769874623a04263e7400
     <priority>0</priority>
   </url>
   
   <url>
-<<<<<<< HEAD
     <loc>/tags/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <priority>0</priority>
@@ -108,9 +88,6 @@
   
   <url>
     <loc>/work/</loc>
-=======
-    <loc>http://mapamundi.me/tags/</loc>
->>>>>>> 8996c96f4e716ca6ef47769874623a04263e7400
     <priority>0</priority>
   </url>
   
