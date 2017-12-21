@@ -1,4 +1,4 @@
-# Section title
+# Section title 
 title = "Notes"
 
 [[list]]
@@ -9,7 +9,7 @@ title = "Notes"
     logo   = "recorrido.gif"
 
 [[list]]
-   avatar = "Area_Chart.svg"
+   avatar = "Adventure.svg"
    name   = ""
    title  = ""
    quote  = "**países** Albania, Austria, Montenegro, Croacia, Eslovenia, España, Portugal, Inglaterra, \"Alemania\"  Bulgaria."
