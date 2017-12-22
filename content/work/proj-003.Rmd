@@ -5,39 +5,44 @@ output: html_document
 ![Mapa](img/work/proj-003/thumb.jpg)
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
+
 ```
 
 ## Ciudades Visitadas
 
 Algo
 
-```{r echo=FALSE}
-setwd("/home/calcita/myblog/mapamundi/mapamundi/public/img/work/proj-003/")
-library(leaflet)
-citys=read.csv("city_latlon.csv")  
-citys=citys[-1,]
 
+
+ffdg 
+```{r}
+#setwd("/home/calcita/myblog/mapamundi/mapamundi/public/img/work/proj-003/")
+#library(leaflet)
+#citys=read.csv("city_latlon.csv")  
+#citys=citys[-1,]
+
+#table(citys$City)
 #### Mapa ciudades visitadas por bimestre ####
-ikono <- iconList(makeIcon("amarillo.png", iconWidth = 16, iconHeight =20),
-                  makeIcon("verde.png", iconWidth = 16, iconHeight =20),
-                  makeIcon("rojo.png", iconWidth = 16, iconHeight =20))
+#ikono <- iconList(makeIcon("amarillo.png", iconWidth = 16, iconHeight =20),
+#                  makeIcon("verde.png", iconWidth = 16, iconHeight =20),
+#                  makeIcon("rojo.png", iconWidth = 16, iconHeight =20))
 
-m<-leaflet() %>%
-  addTiles()%>%
-  #setView(m,lng=8.5508,lat=45.9223,zoom=4)%>%
-  #setMaxBounds(m,lng1=-12.041,lng2=46.770,lat1=60.436,lat2=35.317)%>%
+#m<-leaflet() %>%
+#  addTiles()%>%
+#  #setView(m,lng=8.5508,lat=45.9223,zoom=4)%>%
+#  #setMaxBounds(m,lng1=-12.041,lng2=46.770,lat1=60.436,lat2=35.317)%>%
   
-  addMarkers(lng=citys$Longitude[1:20],lat=citys$Latitude[1:20], data=citys,popup=~City[1:20], icon=ikono[1], group = "jun-jul") %>%
-  addMarkers(lng=citys$Longitude[21:33],lat=citys$Latitude[21:33], data=citys,popup=~City[21:33], icon=ikono[2], group = "ago-set") %>%
-  addMarkers(lng=citys$Longitude[34:nrow(citys)],lat=citys$Latitude[34:nrow(citys)], data=citys,popup=~City[34:nrow(citys)], icon=ikono[3], group = "oct-nov") %>%
+#  addMarkers(lng=citys$Longitude[1:20],lat=citys$Latitude[1:20], data=citys,popup=~City[1:20], icon=ikono[1], #group = "jun-jul") %>%
+#  addMarkers(lng=citys$Longitude[21:33],lat=citys$Latitude[21:33], data=citys,popup=~City[21:33], #icon=ikono[2], group = "ago-set") %>%
+#  addMarkers(lng=citys$Longitude[34:nrow(citys)],lat=citys$Latitude[34:nrow(citys)], #data=citys,popup=~City[34:nrow(citys)], icon=ikono[3], group = "oct-nov") %>%
 
-  addLegend("bottomleft",colors = c("red","green","#feb24c"), labels = c("jun-jul","ago-set","oct-nov"), opacity = 1) %>%
+#  addLegend("bottomleft",colors = c("red","green","#feb24c"), labels = c("jun-jul","ago-set","oct-nov"), #opacity = 1) %>%
   
-  addLayersControl(
-    overlayGroups =  c("jun-jul","ago-set","oct-nov"),
-    options = layersControlOptions(collapsed = FALSE)
-  )
+#  addLayersControl(
+#    overlayGroups =  c("jun-jul","ago-set","oct-nov"),
+#    options = layersControlOptions(collapsed = FALSE)
+#  )
 
-m
+#m
 ```
 
