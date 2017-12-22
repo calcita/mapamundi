@@ -8,9 +8,16 @@ title = "Notes"
     quote  = "El viaje comenzó en Madrid luego de volar 13 horas desde Montevideo. En Austria realicé dos voluntariados de Wwoof, en Berlin me quedé 6 semanas. No pensaba ir a Bulgaria y Grecia pero terminé yendo."
     logo   = "recorrido.gif"
 
+#[[list]]
+#   avatar = "Area_Chart.svg"
+#   name   = ""
+#  title  = ""
+#   quote  = "**países** Albania, Austria, Montenegro, Croacia, Eslovenia, España, Portugal, Inglaterra, #Alemania#, Bulgaria."
+#  logo   = "flagif.gif"
+
 [[list]]
-   avatar = "Adventure.svg"
-   name   = ""
-   title  = ""
-   quote  = "**países** Albania, Austria, Montenegro, Croacia, Eslovenia, España, Portugal, Inglaterra, \"Alemania\"  Bulgaria."
-    logo   = "flagif.gif"
+    avatar = "Adventure.svg"
+    name   = ""
+    title  = ""
+    quote  = "El viaje comenzó en Madrid luego de volar 13 horas desde Montevideo. En Austria realicé dos voluntariados de Wwoof, en Berlin me quedé 6 semanas. No pensaba ir a Bulgaria y Grecia pero terminé yendo."
+    logo   = ""
