@@ -2,7 +2,7 @@
 title: "recorrido"
 output: html_document
 ---
-
+![Mapa](img/work/proj-003/thumb.jpg)
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
