@@ -118,8 +118,8 @@ summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 2
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/work/proj-003/</guid>
-      <description>Mapa
- Ciudades Visitadas Algo
+      <description>
+Ciudades Visitadas Algo
 ffdg
 #setwd(&amp;quot;/home/calcita/myblog/mapamundi/mapamundi/public/img/work/proj-003/&amp;quot;) #library(leaflet) #citys=read.csv(&amp;quot;city_latlon.csv&amp;quot;) #citys=citys[-1,] #table(citys$City) #### Mapa ciudades visitadas por bimestre #### #ikono &amp;lt;- iconList(makeIcon(&amp;quot;amarillo.png&amp;quot;, iconWidth = 16, iconHeight =20), # makeIcon(&amp;quot;verde.png&amp;quot;, iconWidth = 16, iconHeight =20), # makeIcon(&amp;quot;rojo.png&amp;quot;, iconWidth = 16, iconHeight =20)) #m&amp;lt;-leaflet() %&amp;gt;% # addTiles()%&amp;gt;% # #setView(m,lng=8.5508,lat=45.9223,zoom=4)%&amp;gt;% # #setMaxBounds(m,lng1=-12.041,lng2=46.770,lat1=60.436,lat2=35.317)%&amp;gt;% # addMarkers(lng=citys$Longitude[1:20],lat=citys$Latitude[1:20], data=citys,popup=~City[1:20], icon=ikono[1], #group = &amp;quot;jun-jul&amp;quot;) %&amp;gt;% # addMarkers(lng=citys$Longitude[21:33],lat=citys$Latitude[21:33], data=citys,popup=~City[21:33], #icon=ikono[2], group = &amp;quot;ago-set&amp;quot;) %&amp;gt;% # addMarkers(lng=citys$Longitude[34:nrow(citys)],lat=citys$Latitude[34:nrow(citys)], #data=citys,popup=~City[34:nrow(citys)], icon=ikono[3], group = &amp;quot;oct-nov&amp;quot;) %&amp;gt;% # addLegend(&amp;quot;bottomleft&amp;quot;,colors = c(&amp;quot;red&amp;quot;,&amp;quot;green&amp;quot;,&amp;quot;#feb24c&amp;quot;), labels = c(&amp;quot;jun-jul&amp;quot;,&amp;quot;ago-set&amp;quot;,&amp;quot;oct-nov&amp;quot;), #opacity = 1) %&amp;gt;% # addLayersControl( # overlayGroups = c(&amp;quot;jun-jul&amp;quot;,&amp;quot;ago-set&amp;quot;,&amp;quot;oct-nov&amp;quot;), # options = layersControlOptions(collapsed = FALSE) # ) #m  </description>
     </item>

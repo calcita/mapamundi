@@ -1,11 +1,47 @@
 ---
 title: "recorrido"
 output: html_document
+runtime: shiny
 ---
 ![Mapa](img/work/proj-003/thumb.jpg)
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+```{r, echo=FALSE}
 
+City=c("Augsburgo","Barcelona","Berlin","Burgas","Coimbra","Deutschlandsberg","Dresde","Dubrovnik","Eltendorf","Graz","Heidelberg","Himara","Kotor","Lisboa","Liubliana","Londres","Madrid","Maribor","Múnich","Porto","Saranda","Sofia","Split","Tesalónica","Tirana","Trogir","Varna","Viena","Vlora","Zagreb")
+
+days_city=c(1,3,38,1,3,17,5,1,22,4,2,3,3,17,5,18,5,2,3,5,3,3,1,4,2,3,2,3,2,5)
+
+Latitude=c(48.366512,41.385064,52.520008,42.510578,40.2098,46.81595,51.050407,42.650661,47.008797,47.076668,49.39875,40.103472,42.424662,38.7086,46.056946,51.5073509,40.416775,46.55465,48.137154,41.1579438,39.859212,42.698334,43.508133,40.736851,41.327953,43.516387,43.204666,48.210033,40.466067,45.815399)
+
+Longitude=c(10.894446,2.173403,13.404954,27.461014,-8.4303,15.21338,13.737262,18.094424,16.202751,15.421371,8.672434,19.750238,18.771234,-9.1351,14.505751,-0.1277583,-3.70379,15.645881,11.576124,-8.6291053,20.0271,23.319941,16.440193,22.920227,19.819025,16.250189,27.910543,16.363449,19.491356,15.966568)
+
+radio=c(5000,5000,10000,5000,5000,8000,7000,5000,8000,5000,5000,5000,5000,8000,7000,8000,7000,5000,5000,7000,5000,5000,5000,5000,5000,5000,5000,5000,5000,7000)
+
+city=data.frame(cbind(City,days_city,Latitude,Longitude,radio))
+
+#city=read.csv("city_circulo.csv")
+#table(city$City)
+ library(shiny)
+ library(leaflet)
+  
+  
+ ui <- fluidPage(  titlePanel(""),
+                        mainPanel(
+                       leafletOutput("mymap")
+                    ))
+  
+  server <- function(input, output, session) {
+            output$mymap <- renderLeaflet({
+      
+  m <- leaflet() %>% 
+       addTiles()# %>%
+  
+      addCircleMarkers(lng=city$Longitude,lat=city$Latitude, radius =city$days_city/2,popup=paste0(city$City,": ",city$days_city," días"),color="green")
+  
+
+ })
+  }
+
+shinyApp(ui, server)
 ```
 
 ## Ciudades Visitadas
