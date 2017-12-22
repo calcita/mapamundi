@@ -33,7 +33,7 @@ city=data.frame(cbind(City,days_city,Latitude,Longitude,radio))
             output$mymap <- renderLeaflet({
       
   m <- leaflet() %>% 
-       addTiles()# %>%
+       addTiles() %>%
   
       addCircleMarkers(lng=city$Longitude,lat=city$Latitude, radius =city$days_city/2,popup=paste0(city$City,": ",city$days_city," días"),color="green")
   
@@ -48,10 +48,41 @@ shinyApp(ui, server)
 
 Algo
 
+```{r, echo=FALSE}
+library(dplyr)
+library(plotly)
+categories=c("Alojamiento","Comida","Seguro de viaje","Transporte inter-ciudades","Transporte Urbano")
+porcentaje=c(32.5,25.9,6.9,28.7,6.0)
+averageww=c(13.5,10.8,NA,NA,NA)
+average=c(10.8,8.6,2.3,9.5,2.0)
+tab=data.frame(cbind(categories,porcentaje,averageww,average))
+tab=tab[order(tab$porcentaje,decreasing=F),]
+verdoso=c("#66c2a4","#2ca25f","#006d2c","#b2e2e2","99d8c8")
+
+p <- plot_ly(tab, labels= ~categories,values=~porcentaje,type="pie",
+             textposition = 'inside',
+             textinfo = 'label+percent',
+             insidetextfont = list(color = '#FFFFFF'),
+             hoverinfo = 'text',
+             text = ~paste(average, 'euros, promedio diario.'),
+             marker = list(colors = verdoso,
+                           line = list(color = '#FFFFFF', width = 1)),
+             showlegend = FALSE) %>%
+  layout(title = 'Porcentaje de gastos según categorías y promedio diario en euros',
+         xaxis = list(showgrid = FALSE, zeroline = FALSE, showticklabels = FALSE),
+         yaxis = list(showgrid = FALSE, zeroline = FALSE, showticklabels = FALSE))
+ 
+print(p)
+```
 
 
 ffdg 
-```{r}
+
+
+```{r, echo=FALSE}
+# m <- leaflet() %>% 
+ #      addTiles() %>%
+ #m
 #setwd("/home/calcita/myblog/mapamundi/mapamundi/public/img/work/proj-003/")
 #library(leaflet)
 #citys=read.csv("city_latlon.csv")  
@@ -61,7 +92,8 @@ ffdg
 #### Mapa ciudades visitadas por bimestre ####
 #ikono <- iconList(makeIcon("amarillo.png", iconWidth = 16, iconHeight =20),
 #                  makeIcon("verde.png", iconWidth = 16, iconHeight =20),
-#                  makeIcon("rojo.png", iconWidth = 16, iconHeight =20))
+#
+#makeIcon("rojo.png", iconWidth = 16, iconHeight =20))
 
 #m<-leaflet() %>%
 #  addTiles()%>%
