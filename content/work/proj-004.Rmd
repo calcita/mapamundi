@@ -18,7 +18,12 @@ tags: ["R", "Germany", "Statistics"]
 #  <body>
 #    <div>
        
-<iframe src="https://github.com/calcita/mapamundi/blob/master/content/work/sitesmap2.html" width="480" height="255" frameBorder="0"></iframe>
+<iframe width="480" 
+        height="255" 
+        frameBorder="0"
+        src="https://github.com/calcita/mapamundi/blob/master/content/work/sitesmap2.html" 
+        allowfullscreen>
+        </iframe>
 
 #    </div>
 #  </body>
