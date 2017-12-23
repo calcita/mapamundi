@@ -16,18 +16,18 @@ city=data.frame(cbind(City,days_city,Latitude,Longitude,radio))
 #city=read.csv("city_circulo.csv")
 #table(city$City)
  library(shiny)
- library(leaflet)
- library(dplyr)  
-library(htmlwidgets)
-library(htmltools)
-page <- tagList(
-  leaflet()%>% addTiles(),
-  onStaticRenderComplete(
-    "HTMLWidgets.find('.leaflet').setZoom(4);"
-    )
-)
-print(page,browse=FALSE)  
-
+  library(leaflet)
+  library(dplyr)  
+ library(htmlwidgets)
+ library(htmltools)
+ page <- tagList(
+   leaflet()%>% addTiles(),
+   onStaticRenderComplete(
+     "HTMLWidgets.find('.leaflet').setZoom(4);"
+     )
+ )
+ print(page,browse=FALSE)  
+###
 # ui <- fluidPage(  titlePanel(""),
  #                       mainPanel(
   #                     leafletOutput("mymap")

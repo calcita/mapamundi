@@ -17,7 +17,9 @@ tags: ["R", "Germany", "Statistics"]
 #  </head>
 #  <body>
 #    <div>
-        <iframe src="http://leaflet.github.io/Leaflet.fullscreen/" width="100%" height="400" scrolling="no" frameborder="0" id="share-demo-iframe" allowfullscreen></iframe>
+       
+<iframe src="https://github.com/calcita/mapamundi/blob/master/content/work/sitesmap2.html",width="100%"></iframe>
+
 #    </div>
 #  </body>
 #</html>
