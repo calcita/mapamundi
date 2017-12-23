@@ -26,4 +26,4 @@ tags: ["R", "Germany", "Statistics"]
 
 no se ve
 
-<iframe src="home/calcita/myblog/mapamundi/mapamundi/static/sitesmap2.html",width="100%"></iframe>
+<iframe src="/static/sitesmap2.html",width="100%"></iframe>
