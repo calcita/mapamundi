@@ -41,6 +41,10 @@ title = "Posts"
     name = "Stripes & Co"
     folder = "proj-1"
 
+#[[projects]]
+#    name = "Mapa"
+#    folder = "proj-003"
+    
 [[projects]]
     name = "Mapa"
-    folder = "proj-003"
+    folder = "proj-004"
