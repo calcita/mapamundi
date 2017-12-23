@@ -19,6 +19,14 @@ city=data.frame(cbind(City,days_city,Latitude,Longitude,radio))
  library(leaflet)
  library(dplyr)  
 library(htmlwidgets)
+library(htmltools)
+page <- tagList(
+  leaflet()%>% addTiles(),
+  onStaticRenderComplete(
+    "HTMLWidgets.find('.leaflet').setZoom(4);"
+    )
+)
+print(page,browse=FALSE)  
 
 # ui <- fluidPage(  titlePanel(""),
  #                       mainPanel(
@@ -28,13 +36,12 @@ library(htmlwidgets)
  #server <- function(input, output, session) {
   #         output$mymap <- renderLeaflet({
       
- m <- leaflet() %>% 
-      addTiles() %>%
-
-     addCircleMarkers(lng=city$Longitude,lat=city$Latitude, radius =city$days_city/2,popup=paste0(city$City,": ",city$days_city," días"),color="green")
-  
-print(m)
-saveWidget(m, file="sitesmap2.html", selfcontained = TRUE)
+#  m <- leaflet() %>% 
+#       addTiles() %>%
+#      addCircleMarkers(lng=city$Longitude,lat=city$Latitude, radius =city$days_city/2,popup=paste0(city$City,":",city$days_city," días"),color="green")
+#   
+# print(m)
+# saveWidget(m, file="sitesmap2.html", selfcontained = TRUE)
 #)
 #}
 
