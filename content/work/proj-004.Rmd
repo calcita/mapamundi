@@ -6,15 +6,18 @@ categories: ["R"]
 tags: ["R", "Germany", "Statistics"]
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(collapse = TRUE)
-```
-
-```{r, echo = FALSE}
-library(leaflet)
-
-m <- leaflet() %>%
-  addTiles() %>%  # Add default OpenStreetMap map tiles
-  addMarkers(lng=174.768, lat=-36.852, popup="The birthplace of R")
-m  # Print the map
-```
+#<html lang="en">
+#  <head>
+#    <meta charset="utf-8">
+#    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+#    <meta name="viewport" content="initial-scale=1,user-scalable=no,maximum-scale=1,width=device-width">
+#    <meta name="mobile-web-app-capable" content="yes">
+#    <meta name="apple-mobile-web-app-capable" content="yes">
+#    <title>Leaflet Fullscreen Iframe</title>
+#  </head>
+#  <body>
+#    <div>
+        <iframe src="http://leaflet.github.io/Leaflet.fullscreen/" width="100%" height="400" scrolling="no" frameborder="0" id="share-demo-iframe" allowfullscreen></iframe>
+#    </div>
+#  </body>
+#</html>
