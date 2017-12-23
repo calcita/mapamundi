@@ -26,4 +26,4 @@ tags: ["R", "Germany", "Statistics"]
 
 no se ve
 
-<iframe src="/static/sitesmap2.html",width="100%"></iframe>
+<iframe src="/static/sitesmap2/index.html",width="100%"></iframe>
