@@ -23,3 +23,7 @@ tags: ["R", "Germany", "Statistics"]
 #    </div>
 #  </body>
 #</html>
+
+no se ve
+
+<iframe src="home/calcita/myblog/mapamundi/mapamundi/static/sitesmap2.html",width="100%"></iframe>
