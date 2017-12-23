@@ -31,7 +31,9 @@ tags: ["R", "Germany", "Statistics"]
 
 no se ve
 
-<iframe src="/static/sitesmap2/index.html",width="100%"></iframe>
+<iframe src="/public/work/proj-004_files/sitesmap2/index.html"
+        width="100%">
+</iframe>
 
 nada
 <div class='embed video-player'><iframe src='https://player.vimeo.com/video/1234567' width='100%' height='385' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
