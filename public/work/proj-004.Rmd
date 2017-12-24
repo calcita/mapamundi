@@ -46,3 +46,38 @@ responsive
  non responsive 
  
 <iframe src="https://giphy.com/embed/3o7aDfKl6G6QRWrs9W" width="480" height="255" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/bestfriends-best-friends-adopt-3o7aDfKl6G6QRWrs9W">via GIPHY</a></p>
+
+
+```{r, echo=FALSE}
+# library(dataRetrieval)
+# pCode <- c("00665")
+# phos.wi <- readNWISdata(stateCd="WI", parameterCd=pCode,
+#                      service="site", seriesCatalogOutput=TRUE)
+# 
+# library(dplyr)
+# phos.wi <- filter(phos.wi, parm_cd %in% pCode) %>%
+#             filter(count_nu > 50) %>%
+#             mutate(period = as.Date(end_date) - as.Date(begin_date)) %>%
+#             filter(period > 15*365)
+# 
+# #Plot the sites on a map:
+# 
+# library(leaflet)
+# leafMap <- leaflet(data=phos.wi) %>% 
+#   addProviderTiles("CartoDB.Positron") %>%
+#   addCircleMarkers(~dec_long_va,~dec_lat_va,
+#                    color = "red", radius=3, stroke=FALSE,
+#                    fillOpacity = 0.8, opacity = 0.8,
+#                    popup=~station_nm)
+# 
+# #Next, we use the htmlwidgets package to save a self-contained html file. The following code could be generally hid from the reader using echo=FALSE.
+# 
+# library(htmlwidgets)
+# library(htmltools)
+# 
+# currentWD <- getwd()
+# dir.create("static/leaflet", showWarnings = FALSE)
+# setwd("static/leaflet")
+# saveWidget(leafMap, "leafMap.html")
+# setwd(currentWD)
+```
