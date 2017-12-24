@@ -5,4 +5,4 @@ Berlin: un museo a cielo abierto
 
 
 
-<iframe src="https://shiny.rstudio.com/gallery/bus-dashboard.html" width="100%"></iframe>
+<iframe src="https://shiny.rstudio.com/gallery/bus-dashboard.html" width="600"></iframe>
