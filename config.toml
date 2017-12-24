@@ -14,6 +14,17 @@ theme = "hugo-artists-theme"
 	name = "Mapa Mundi"
 	description = "Your description"
 
+##inicio
+    # options for highlight.js (version, additional languages, and theme)
+    highlightjsVersion = "9.11.0"
+    highlightjsCDN = "//cdn.bootcss.com"
+    highlightjsLang = ["r", "yaml"]
+    highlightjsTheme = "github"
+
+    MathJaxCDN = "//cdn.bootcss.com"
+    MathJaxVersion = "2.7.1"
+##fin
+
 	# Since this template is static, the contact form uses www.formspree.io as a
 	# proxy. The form makes a POST request to their servers to send the actual
 	# email. Visitors can send up to a 1000 emails each month for free.
