@@ -10,6 +10,10 @@ title = "Posts"
     folder = "proj-002"
 
 [[projects]]
+    name = "Datos"
+    folder = "proj-000"
+
+[[projects]]
     name = "Sofia"
     folder = "proj-2"
 
