@@ -13,7 +13,7 @@ title = "Notes"
    name   = ""
   title  = ""
    quote  = "**Me tomé** mal un tren en Barcelona y casi quedó en medio de un pueblo fantasma sin llegar al aeropuerto que me llevaría a Venecia y de allí a mi primera granja. Me olvidé la mochila grande en un bus en Graz pero a los 5 minutos me di cucenta y volvía al bus donde me esperaba el chofer con mi mochila. Mientras recorría la costa croata iba huyendo del calor y el turismo exacerbado para volver a la tranquilidad y los atardeceres cautivantes de una granja al sur de Austria."
-  logo   = "201708_Burgenland_049_lzn.jpg"
+  #logo   = "201708_Burgenland_049_lzn.jpg"
 
 [[list]]
     avatar = "bubbles.svg"
