@@ -5,9 +5,6 @@ title = "Posts"
     name = "Berlin: un museo a cielo abierto"
     folder = "proj-001"
     
-#[[projects]]
- #   name = "Berlin: un museo a cielo abierto"
-  #  folder = "proj-002"
 
 [[projects]]
     name = "Datos"
@@ -29,3 +26,7 @@ title = "Posts"
 #[[projects]]
 #    name = "capa"
 #    folder = "proj-004"
+
+#[[projects]]
+ #   name = "Berlin: un museo a cielo abierto"
+  #  folder = "proj-002"

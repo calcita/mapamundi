@@ -55,7 +55,7 @@ theme = "hugo-artists-theme"
 	[params.about]
 		title = "About me"
 		bio = "dober dan - hvala - faleminderit - blagodarya - efcharistó - gràcies -merci- thank you - grazie - obrigada - obrigado - danke. Mi lista de cómo decir gracias en el idioma de los países que he visitado. Intento de aprenderla antes de llegar pero a veces me voy sin saber decir 'gracias'."
- link =  <iframe src="https://giphy.com/embed/3o7aDfKl6G6QRWrs9W"></iframe> 
+ 
 		#[[params.about.skills]]
 		#	name = "Communication"
 		#	value = 9

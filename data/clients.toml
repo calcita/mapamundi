@@ -5,7 +5,7 @@ title = "Notes"
     avatar = "tux.svg"
     name   = ""
     title  = ""
-    quote  = "**El viaje** comenzó en Madrid luego de volar 13 horas desde Montevideo. Visité países que no había planificado ir los primeros meses de viaje: Albania, Bulgaria y Grecia.  En Austria realicé dos voluntariados en granjas orgánicas y esta forma de conocer un lugar y su gente me gustaría volver a repetir. Berlin me atrapó de nuevo y me quedé 6 semanas. **Fui a** un pueblito en Alemania solo a comprarme la laptop con Linux porque era el único lugar que encontré vendían."
+    quote  = "**El viaje** comenzó en Madrid luego de volar 13 horas desde Montevideo. Visité países que no había planificado ir los primeros meses de viaje: Albania, Bulgaria y Grecia.  En Austria realicé dos voluntariados en granjas orgánicas y esta forma de conocer un lugar y su gente me gustaría volver a repetir. Berlin me atrapó de nuevo y me quedé 6 semanas. Fui a un pueblito en Alemania solo a comprarme la laptop con Linux porque era el único lugar que encontré vendían."
    logo  = "201706_Deutschlandsberg_001_lzn.jpg"
 
 [[list]]
@@ -13,18 +13,18 @@ title = "Notes"
    name   = ""
   title  = ""
    quote  = "**Me tomé** mal un tren en Barcelona y casi quedó en medio de un pueblo fantasma sin llegar al aeropuerto que me llevaría a Venecia y de allí a mi primera granja. Me olvidé la mochila grande en un bus en Graz pero a los 5 minutos me di cucenta y volvía al bus donde me esperaba el chofer con mi mochila. Mientras recorría la costa croata iba huyendo del calor y el turismo exacerbado para volver a la tranquilidad y los atardeceres cautivantes de una granja al sur de Austria."
-  #logo   = "201708_Burgenland_049_lzn.jpg"
+  logo   = "201708_Burgenland_049_lzn.jpg"
 
 [[list]]
     avatar = "bubbles.svg"
     name   = ""
     title  = ""
     quote  = "**Conocí gente** de todas partes del mundo -a pesar de mi timidez-, algunas personas se *sorprendían* que viajara sola, otras que lo hiciera sin prisa y casi sin rumbo, que me fuera a trabajar a una granja en un país lejano y más pequeño que el mío -Uruguay- como lo es Austria. "
-    #logo   = ""
+    logo   = "IMG_20170713_184050_lzn.jpg" 
     
     [[list]]
     avatar = "bullhornn.svg"
     name   = ""
     title  = ""
     quote  = "**Viajo porque** puedo. Reconozco mis privilegios -por no ser pobre, ser blanca, cisgénero y no tener ninguna discapacidad según la OMS- que me han permitido realizar una carrera universitaria, trabajar, independizarme y soñar con viajar. Hay personas que viajan con mucho menos dinero que yo y otras con muchísimo más. Espero ir hacia el lugar donde ni el dinero ni los miedos ni los mandatos sociales sean un impedimento para viajar."
-    #logo   = ""
+    logo   = "201707_Varna_069_lzn.jpg"
