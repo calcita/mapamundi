@@ -6,7 +6,8 @@ title = "Notes"
     name   = ""
     title  = ""
     quote  = "El viaje comenzó en Madrid luego de volar 13 horas desde Montevideo. En Austria realicé dos voluntariados de Wwoof, en Berlin me quedé 6 semanas. No pensaba ir a Bulgaria y Grecia pero terminé yendo."
-    logo   = "recorrido.gif"
+   logo  = "recorrido.gif"
+
 
 #[[list]]
 #   avatar = "Area_Chart.svg"
