@@ -676,7 +676,7 @@ header {
     header h1 {
       padding-top: 0px; } }
 footer {
-  background-image: url(../img/cc-by-sa.svg), url(../img/hero-bg.jpg); }
+  background-image: url(../img/cc.svg), url(../img/hero-bg.jpg); }
   footer .lockup {
     padding: 50px 30px; }
     footer .lockup:after {
@@ -1403,7 +1403,7 @@ footer {
   font-size: 32px;
   font-weight: 300;
   line-height: 1;
-  width: 90%;
+  width: 40%;
   margin: 0 auto; }
 
 form {
