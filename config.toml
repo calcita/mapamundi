@@ -54,7 +54,7 @@ theme = "hugo-artists-theme"
 	# Replace the 'avatar.jpg' under 'static/img' with your own image.
 	[params.about]
 		title = "About me"
-		bio = "dober dan - hvala - faleminderit - blagodarya - efcharistó - gràcies -merci- thank you - grazie - obrigada - obrigado - danke. Mi lista de cómo decir gracias en el idioma de los países que he visitado. Intento de aprenderla antes de llegar pero a veces me voy sin saber decir 'gracias'."
+		bio = "El contenido de este blog, las fotos, videos, mapas, gráficos y texto están elaborados por [mi](//linkedin.com/in/mathieugabriela) -salvo que mencione lo contrario- y publicado bajo una licencia [*Creative Commons - Atribución - Compartir Igual 4.0 Internacional* (CC BY-SA 4.0)](//creativecommons.org/licenses/by/4.0/deed.es_ES). El sitio lo elaboré usando el software libre  [*R*](//r-project.org/) utilizando el tema de [Hugo](//gohugo.io/) ['Artists'](//github.com/digitalcraftsman/hugo-artists-theme/). Las fotos las alojé en [Flickr](//flickr.com/photos/mapa_mundi/) y los videos en [Vimeo](//vimeo.com/user71114775/)."
  
 		#[[params.about.skills]]
 		#	name = "Communication"
@@ -131,4 +131,4 @@ theme = "hugo-artists-theme"
 copyright = "El sitio está construido utilizando el software libre R y su contenido está realizado por Gabriela Mathieu y publicado bajo la licencia libre Creative Commons - Atribución - Compartir Igual 4.0 Internacional."
 
 
-#"El sitio está construido utilizando el software libre [R] (https://www.r-project.org/) y su contenido está #realizado por Gabriela Mathieu y publicado bajo la licencia libre (CC BY-SA 4.0) [Creative Commons - #Atribución - Compartir Igual 4.0 Internacional](//https://creativecommons.org/licenses/by-sa/4.0/deed.es). #![CC](static/img/cc-by-sa.png)"
+#"El sitio está construido utilizando el software libre [R] (https://www.r-project.org/) y su contenido está #realizado por Gabriela Mathieu y publicado bajo la licencia libre (CC BY-SA 4.0) [Creative Commons - #Atribución - Compartir Igual 4.0 Internacional](//https:). #![CC](static/img/cc-by-sa.png)"
