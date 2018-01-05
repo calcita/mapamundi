@@ -14,19 +14,16 @@ title = "Posts"
     name = "Recorrido"
     folder = "proj-002"
 
-#[[projects]]
-#    name = "Sofia"
-#    folder = "proj-003"
+[[projects]]
+    name = "Sofia"
+    folder = "proj-003"
 
-#[[projects]]
-#    name = "Londres"
-#    folder = "proj-004"
+[[projects]]
+    name = "London"
+    folder = "proj-004"
 
     
-#[[projects]]
-#    name = "Tesalónica"
-#    folder = "proj-005"
+[[projects]]
+    name = "Thessaloniki & Posidi"
+    folder = "proj-005"
 
-#[[projects]]
- #   name = "Berlin: un museo a cielo abierto"
-  #  folder = "proj-002"
