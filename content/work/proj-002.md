@@ -1,6 +1,9 @@
 ![Recorrido](img/work/proj-002/thumb.jpg)
 
-Berlin: un museo a cielo abierto
+![](img/work/proj-001/wrench.svg)
+
+
+
 
 ![Recorrido](img/work/proj-002/recorrido.gif)
    
