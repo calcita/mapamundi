@@ -53,7 +53,7 @@ theme = "hugo-artists-theme"
 	#
 	# Replace the 'avatar.jpg' under 'static/img' with your own image.
 	[params.about]
-		title = "About me"
+		title = "About"
 		bio = "El contenido de este blog, las fotos, videos, mapas, gráficos y textos están elaborados por [mi](//linkedin.com/in/mathieugabriela) -salvo que mencione lo contrario- y publicado bajo una licencia [*Creative Commons - Atribución - Compartir Igual 4.0 Internacional* (CC BY-SA 4.0)](//creativecommons.org/licenses/by/4.0/deed.es_ES). El sitio lo elaboré utilizando el software libre  [*R*](//r-project.org/) y el tema de [Hugo](//gohugo.io/) ['Artists'](//github.com/digitalcraftsman/hugo-artists-theme/). Las fotos las alojé en [Flickr](//flickr.com/photos/mapa_mundi/) y los videos en [Vimeo](//vimeo.com/user71114775/). Utilizo un lenguaje no sexista porque lo que no se nombra no existe -incluyo una 'x' siempre que sea necesario-. ![](img/cc-by-sa.png)"
  
 		#[[params.about.skills]]
