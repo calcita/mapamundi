@@ -20,6 +20,10 @@ title = "Posts"
     folder = "proj-005"
 
 [[projects]]
+    name = "Bundesliga"
+    folder = "proj-006"
+
+[[projects]]
     name = "Datos"
     folder = "proj-000"
 

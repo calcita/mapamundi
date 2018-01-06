@@ -10,5 +10,14 @@
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>Berlin Alemania Fútbol</title>
+      <link>/tags/berlin-alemania-f%C3%BAtbol/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/berlin-alemania-f%C3%BAtbol/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
