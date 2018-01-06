@@ -2,18 +2,19 @@
 tags: Berlin, Alemania, fútbol
 ---
 ![Olympiastadion](img/work/proj-006/thumb.jpg)
+##### Un partido de la Bundesliga
+
 ![](img/work/proj-006/wrench.svg)
+
 
 Estaba en Múnich -Müenchen, en alemán- cuando leí la noticia de que por primera vez una mujer arbitraría a hombres en un partido oficial de primera división en la Bundesliga. Bibiana Steinhaus sería la jueza principal del partido entre Hertha Berlin y Werden Bremen y yo sin saberlo había reservado un hostel para ese domingo en Berlin. Por lo que me apuré a sacar una entrada por internet -nunca había ido a un partido de fútbol en Alemania, pero imaginaba sería fácil y lo fue- había desde 15 euros en adelante y con la posibilidad de imprimir el ticket sin necesidad de ir a buscarlo o que te lo envíen.
 
 El partido se jugó en el Estadio Olímpico de Berlin -Olympiastadion-, el mismo que fuera sede de los JJOO de 1936 y de las Copa del Mundo 1974 y 2006 -para lo que fue totalmente remodelado-. El estadio es hermoso, moderno, con baños limpios e inclusivos para personas con discapacidad. Estaba en un 85% de la capacidad colmado -alberga a 76.000 espectadorxs-. 
 El partido no fue muy entretenido y para colmo el primer gol -terminó empatado a 1- me lo perdí por distraerme con vaya a saber qué. Respecto al trato a la jueza no percaté de insultos por parte de la tribuna -porque básicamente el único insulto que conozco es scheibe que significa mierda-, y dentro de la cancha todo transcurrió bastante tranquilo. 
 
-##### Un partido de la Bundesliga
-
 
 ![Llegando a la cancha](img/work/proj-006/IMG_20170910_135706_lzn.jpg)
-La venta de cerveza, comida y merchandising del equipo local está perfectamente organizada en las inmediaciones del estadio. 
+Con la entrada del partido se puede usar de forma gratuita el transporte público -metro, bus y tranvía- para ir y volver del estadio. La venta de cerveza, comida y merchandising del equipo local está perfectamente organizada en las inmediaciones del estadio. 
 
 ![Recolectorxs de botellas](img/work/proj-006/IMG_20170910_140244_lzn.jpg)
 
@@ -32,6 +33,4 @@ Sería ~~fácil~~ viable de implementar algo así en Uruguay en todo espectácul
 
 
 
-![Retorno](img/work/proj-006/IMG_20170910_164947_1CS_lzn.jpg)
-Con la entrada del partido se puede usar de forma gratuita el transporte público -metro, bus y tranvía- para ir y volver del estadio. 
 
