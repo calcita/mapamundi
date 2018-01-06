@@ -2,11 +2,11 @@
 ![](img/work/proj-001/wrench.svg)
 Mientras estuve en Berlin en Uruguay pasaron muchas cosas: 
 
-* Otra vez un tipo asesinó a su pareja, otra vez un tipo asesinó a su pareja, otra vez un tipo asesinó a su ex-pareja, otra vez un tipo asesinó a su ex-pareja, otra vez un tipo mató a una mujer solo por el hecho de ser mujer. Solo estuve 6 semanas en Berlin pero durante ese corto tiempo hubieron 5 feminicidios en Uruguay. Una y otra vez, hubo [alerta feminista](//flickr.com/photos/159443955@N07/albums/72157687438755794) porque "si tocan a una, tocan a todas".
+* Otra vez un tipo asesinó a su pareja, otra vez un tipo asesinó a su pareja, otra vez un tipo asesinó a su ex-pareja, otra vez un tipo asesinó a su ex-pareja, otra vez un hombre mató a una mujer solo por el hecho de ser mujer. Solo estuve 6 semanas en Berlin pero durante ese corto tiempo hubieron 5 feminicidios en Uruguay. Una y otra vez, hubo [alerta feminista](//flickr.com/photos/159443955@N07/albums/72157687438755794) porque "si tocan a una, tocan a todas".
 
 * Hubo marchas por la diversidad en varias ciudades. 
 
-* La selección uruguaya -hombres- clasificó al mundial de fútbol de Rusia 2018, sin necesidad de ir al repechaje y casi sin sufrimiento y haciendo 6 goles contra Bolivia -dos en contra- en el último partido.
+* La Selección Uruguaya -hombres- clasificó al mundial de fútbol de Rusia 2018, sin necesidad de ir al repechaje y casi sin sufrimiento haciendo 6 goles contra Bolivia -dos en contra- en el último partido.
 
 * Se descubrió petróleo en Paysandú. No sé si creer, pero en caso de creer no sé si reír o llorar.
 
