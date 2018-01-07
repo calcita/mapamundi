@@ -23,9 +23,9 @@ Llegando a las inmediaciones del estadio y sobre todo alrededor del mismo se jun
 ![Consigna para las mochilas](img/work/proj-006/IMG_20170910_142957_lzn.jpg)
 No se puede entrar al estadio con cámara de fotos ni una mochila o bolso grande. Esto último no lo sabía y cuando estaba por presentar mi entrada en el escáner y pasar el molinete, un guardia me mandó a dejar la mochila en un locker. Así fue como perdí 4 euros y casi me pierdo el comienzo del partido. 
 
-![Cerveza en vaso retornable](img/work/proj-006/IMG_20170910_162522_lzn.jpg)
+![Cerveza en jarra retornable](img/work/proj-006/IMG_20170910_162522_lzn.jpg)
 
-A diferencia de Uruguay en que ya no se puede tomar cerveza en los estadios, en Alemania nunca podría llegarse a tomar esa medida. La cerveza te la sirven en un vaso de plástico grueso con manija y al devolverlo se te reintegra 1 Euro. Por supuesto, muchísima gente -sino todxs- los devuelven. En el entretiempo me compré una cerveza porque ir a un partido de fútbol en Alemania y no tomar cerveza es casi como no haber ido. No sabía que el vaso era retornable pero cuando finalizó el partido observé como varias personas llevaban varios vasos hacia los puestos de venta y recibian un dinero. Así que me acerqué con mi vasito y se lo entregué -sin mediar una palabra- a la señora que me atendió y recibí mi euro de vuelta. Gol!
+A diferencia de Uruguay en que ya no se puede tomar cerveza en los estadios, en Alemania nunca podría llegarse a tomar esa medida. La cerveza te la sirven en una jarra de un plástico grueso y al devolverlo se te reintegra 1 Euro. Por supuesto, muchísima gente -sino todxs- los devuelven. En el entretiempo me compré una cerveza porque ir a un partido de fútbol en Alemania y no tomar cerveza es casi como no haber ido. No sabía que la jarra era retornable pero cuando finalizó el partido observé como varias personas llevaban jarras hacia los puestos de venta. Así que me acerqué con mi vasito y se lo entregué -sin mediar una palabra- a la señora que me atendió y recibí un euro. Gol!
 
 
 Creo que sería ~~fácil~~ viable de implementar algo así en Uruguay en todo espectáculo masivo y con el incentivo económico la gente devolvería su vaso y hasta habría quiénes juntarían los que queden tirados para recibir el dinero. 
