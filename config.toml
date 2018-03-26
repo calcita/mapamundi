@@ -116,7 +116,8 @@ theme = "hugo-artists-theme"
 		#	icon = "flickr"
 		#	link = "//www.flickr.com/people/mapa_mundi"
 
-		
+[permalinks]
+page = "/:slug/"		
 
 	[params.form]
 		title = "Escribime"
