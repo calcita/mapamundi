@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rusia on Mapa Mundi</title>
+    <link>/tags/rusia/</link>
+    <description>Recent content in Rusia on Mapa Mundi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Tue, 01 May 2018 07:39:12 +1000</lastBuildDate>
+    
+	<atom:link href="/tags/rusia/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Equipaje</title>
+      <link>/posts/proj-101-equipaje-wc/</link>
+      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
+      
+      <guid>/posts/proj-101-equipaje-wc/</guid>
+      <description>Viajar lo más liviana posible ha sido mi lema, no siempre logré porque con el objetivo de ahorrar y comer sano la mayoría de las veces me
+ condimentos: un churna, romero, hojas de laurel un puñadito de algas marinas: son un gran alimento y super livianas y ocupan muy poco espacio frutos secos yerba mate café aceite de oliva* algún producto no perecedero que no termino de comer en una ciudad y me lo llevo a la siguiente: arroz o fideos.</description>
+    </item>
+    
+  </channel>
+</rss>

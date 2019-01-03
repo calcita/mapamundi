@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Berlin on Mapa Mundi</title>
+    <link>/tags/berlin/</link>
+    <description>Recent content in Berlin on Mapa Mundi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Tue, 01 May 2018 07:39:12 +1000</lastBuildDate>
+    
+	<atom:link href="/tags/berlin/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Berlin: un museo a cielo abierto</title>
+      <link>/alemania/proj-07301-museo-abierto-berlin/</link>
+      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
+      
+      <guid>/alemania/proj-07301-museo-abierto-berlin/</guid>
+      <description>Mientras estuve en Berlin en Uruguay pasaron muchas cosas:
+ Otra vez un tipo asesinó a su pareja, otra vez un tipo asesinó a su pareja, otra vez un tipo asesinó a su ex-pareja, otra vez un tipo asesinó a su ex-pareja, otra vez un hombre mató a una mujer solo por el hecho de ser mujer. Solo estuve 6 semanas en Berlin pero durante ese corto tiempo hubieron 5 feminicidios en Uruguay.</description>
+    </item>
+    
+    <item>
+      <title>Olympiastadion</title>
+      <link>/alemania/proj-07302-olympiastadion/</link>
+      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
+      
+      <guid>/alemania/proj-07302-olympiastadion/</guid>
+      <description>Un partido de la Bundesliga Estaba en Múnich -Müenchen, en alemán- cuando leí la noticia de que por primera vez una mujer arbitraría a hombres en un partido oficial de primera división en la Bundesliga. &amp;ndash;Bibiana Steinhaus&amp;ndash; sería la jueza principal del partido entre Hertha Berlin y Werden Bremen y yo sin saberlo había reservado un hostel para ese domingo en Berlin. Por lo que me apuré a sacar una entrada por internet -nunca había ido a un partido de fútbol en Alemania, pero imaginaba sería fácil y lo fue- había desde 15 euros en adelante y con la posibilidad de imprimir el ticket sin necesidad de ir a buscarlo o que te lo envíen.</description>
+    </item>
+    
+    <item>
+      <title>El transporte en Berlin</title>
+      <link>/alemania/proj-07303-transporte-berlin/</link>
+      <pubDate>Mon, 26 Mar 2018 07:39:12 +1000</pubDate>
+      
+      <guid>/alemania/proj-07303-transporte-berlin/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

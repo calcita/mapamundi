@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fútbol on Mapa Mundi</title>
+    <link>/tags/f%C3%BAtbol/</link>
+    <description>Recent content in Fútbol on Mapa Mundi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Tue, 01 May 2018 07:39:12 +1000</lastBuildDate>
+    
+	<atom:link href="/tags/f%C3%BAtbol/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Copa del mundo</title>
+      <link>/mapas/mapa-copadelmundo/</link>
+      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
+      
+      <guid>/mapas/mapa-copadelmundo/</guid>
+      <description>64 días, 20 ciudades -algunas repetidas-, 6 países, gran parte en ex-países soviéticos. Hacé click sobre las ciudades enumeradas para más información y zoom en el mapa para más detalle.
+Recorrido
+ Destinos
+ </description>
+    </item>
+    
+    <item>
+      <title>Olympiastadion</title>
+      <link>/alemania/proj-07302-olympiastadion/</link>
+      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
+      
+      <guid>/alemania/proj-07302-olympiastadion/</guid>
+      <description>Un partido de la Bundesliga Estaba en Múnich -Müenchen, en alemán- cuando leí la noticia de que por primera vez una mujer arbitraría a hombres en un partido oficial de primera división en la Bundesliga. &amp;ndash;Bibiana Steinhaus&amp;ndash; sería la jueza principal del partido entre Hertha Berlin y Werden Bremen y yo sin saberlo había reservado un hostel para ese domingo en Berlin. Por lo que me apuré a sacar una entrada por internet -nunca había ido a un partido de fútbol en Alemania, pero imaginaba sería fácil y lo fue- había desde 15 euros en adelante y con la posibilidad de imprimir el ticket sin necesidad de ir a buscarlo o que te lo envíen.</description>
+    </item>
+    
+    <item>
+      <title>Preparativos para ir a Rusia ⚽</title>
+      <link>/posts/proj-100-preparativos-wc/</link>
+      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
+      
+      <guid>/posts/proj-100-preparativos-wc/</guid>
+      <description>A unos 5 meses de haber desempacado la mochila luego de recorrer parte de Europa, estoy armando la lista de que llevar a un viaje de dos meses por Polonia, Ucrania, Bielorrusia, Lituania, Letonia, Estonia y finalmente Rusia para vivir la Copa del Mundo. Por lo que además de lo propio de un viaje tiene el agregado de los trámites que hay que hacer para ir al Mundial como espectadora y que ya me han dado más de un dolor de cabeza, cosa que contaré en otro post.</description>
+    </item>
+    
+  </channel>
+</rss>

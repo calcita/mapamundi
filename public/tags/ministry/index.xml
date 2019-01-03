@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ministry on Mapa Mundi</title>
+    <link>/tags/ministry/</link>
+    <description>Recent content in Ministry on Mapa Mundi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Tue, 01 May 2018 07:39:12 +1000</lastBuildDate>
+    
+	<atom:link href="/tags/ministry/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Aveiro</title>
+      <link>/portugal/proj-11302-aveiro/</link>
+      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
+      
+      <guid>/portugal/proj-11302-aveiro/</guid>
+      <description>Álbum de fotos</description>
+    </item>
+    
+    <item>
+      <title>Barcelona</title>
+      <link>/espana/proj-04302-barcelona/</link>
+      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
+      
+      <guid>/espana/proj-04302-barcelona/</guid>
+      <description>Álbum de fotos</description>
+    </item>
+    
+    <item>
+      <title>Berlin: un museo a cielo abierto</title>
+      <link>/alemania/proj-07301-museo-abierto-berlin/</link>
+      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
+      
+      <guid>/alemania/proj-07301-museo-abierto-berlin/</guid>
+      <description>Mientras estuve en Berlin en Uruguay pasaron muchas cosas:
+ Otra vez un tipo asesinó a su pareja, otra vez un tipo asesinó a su pareja, otra vez un tipo asesinó a su ex-pareja, otra vez un tipo asesinó a su ex-pareja, otra vez un hombre mató a una mujer solo por el hecho de ser mujer. Solo estuve 6 semanas en Berlin pero durante ese corto tiempo hubieron 5 feminicidios en Uruguay.</description>
+    </item>
+    
+    <item>
+      <title>Coimbra</title>
+      <link>/portugal/proj-11303-coimbra/</link>
+      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
+      
+      <guid>/portugal/proj-11303-coimbra/</guid>
+      <description>Álbum de fotos</description>
+    </item>
+    
+    <item>
+      <title>Datos</title>
+      <link>/posts/proj-000-datos/</link>
+      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
+      
+      <guid>/posts/proj-000-datos/</guid>
+      <description> </description>
+    </item>
+    
+  </channel>
+</rss>

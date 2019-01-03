@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Two_column on Mapa Mundi</title>
+    <link>/tags/two_column/</link>
+    <description>Recent content in Two_column on Mapa Mundi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Tue, 01 May 2018 07:39:12 +1000</lastBuildDate>
+    
+	<atom:link href="/tags/two_column/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Barcelona</title>
+      <link>/espana/proj-04302-barcelona/</link>
+      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
+      
+      <guid>/espana/proj-04302-barcelona/</guid>
+      <description>Álbum de fotos</description>
+    </item>
+    
+    <item>
+      <title>Datos</title>
+      <link>/posts/proj-000-datos/</link>
+      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
+      
+      <guid>/posts/proj-000-datos/</guid>
+      <description> </description>
+    </item>
+    
+    <item>
+      <title>Fan ID y entradas</title>
+      <link>/posts/proj-102-fanid-wc/</link>
+      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
+      
+      <guid>/posts/proj-102-fanid-wc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>London</title>
+      <link>/inglaterra/proj-25301-london/</link>
+      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
+      
+      <guid>/inglaterra/proj-25301-london/</guid>
+      <description>Álbum de fotos</description>
+    </item>
+    
+    <item>
+      <title>Recorrido</title>
+      <link>/posts/proj-002-recorrido/</link>
+      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
+      
+      <guid>/posts/proj-002-recorrido/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

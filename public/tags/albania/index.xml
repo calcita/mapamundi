@@ -1,58 +1,58 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Mapa Mundi</title>
-    <link>/tags/</link>
-    <description>Recent content in Tags on Mapa Mundi</description>
+    <title>Albania on Mapa Mundi</title>
+    <link>/tags/albania/</link>
+    <description>Recent content in Albania on Mapa Mundi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
     <lastBuildDate>Tue, 01 May 2018 07:39:12 +1000</lastBuildDate>
     
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/albania/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Albania</title>
-      <link>/tags/albania/</link>
+      <title>Augsburg</title>
+      <link>/alemania/proj-07305-augsburg/</link>
       <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
       
-      <guid>/tags/albania/</guid>
+      <guid>/alemania/proj-07305-augsburg/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Alemania</title>
-      <link>/tags/alemania/</link>
+      <title>Deutschlandsberg</title>
+      <link>/austria/proj-13302-deutschlandsberg/</link>
       <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
       
-      <guid>/tags/alemania/</guid>
+      <guid>/austria/proj-13302-deutschlandsberg/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Austria</title>
-      <link>/tags/austria/</link>
+      <title>Eltendorf</title>
+      <link>/austria/proj-13303-eltendorf/</link>
       <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
       
-      <guid>/tags/austria/</guid>
+      <guid>/austria/proj-13303-eltendorf/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Aveiro</title>
-      <link>/tags/aveiro/</link>
+      <title>Heidelberg</title>
+      <link>/alemania/proj-07307-heidelberg/</link>
       <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
       
-      <guid>/tags/aveiro/</guid>
+      <guid>/alemania/proj-07307-heidelberg/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Berlin</title>
-      <link>/tags/berlin/</link>
+      <title>Himarë</title>
+      <link>/albania/proj-22302-himara/</link>
       <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
       
-      <guid>/tags/berlin/</guid>
+      <guid>/albania/proj-22302-himara/</guid>
       <description></description>
     </item>
     
