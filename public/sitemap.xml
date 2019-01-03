@@ -3,71 +3,568 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/post/el-transporte-en-berlin/</loc>
-    <lastmod>2018-03-26T00:00:00+00:00</lastmod>
+    <loc>/alemania/proj-07305-augsburg/</loc>
+    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/2018-03-26-el-transporte-en-berlin/</loc>
+    <loc>/portugal/proj-11302-aveiro/</loc>
+    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
   </url>
   
   <url>
-    <loc>/work/proj-000/</loc>
+    <loc>/espana/proj-04302-barcelona/</loc>
+    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
   </url>
   
   <url>
-    <loc>/work/proj-001/</loc>
+    <loc>/alemania/proj-07301-museo-abierto-berlin/</loc>
+    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
   </url>
   
   <url>
-    <loc>/work/proj-002/</loc>
+    <loc>/bulgaria/proj-23003-burgas/</loc>
+    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
   </url>
   
   <url>
-    <loc>/work/proj-003/</loc>
+    <loc>/portugal/proj-11303-coimbra/</loc>
+    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
   </url>
   
   <url>
-    <loc>/work/proj-004/</loc>
+    <loc>/mapas/mapa-copadelmundo/</loc>
+    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
   </url>
   
   <url>
-    <loc>/work/proj-005/</loc>
+    <loc>/posts/proj-000-datos/</loc>
+    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
   </url>
   
   <url>
-    <loc>/work/proj-006/</loc>
+    <loc>/austria/proj-13302-deutschlandsberg/</loc>
+    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/berlin-alemania-f%C3%BAtbol/</loc>
+    <loc>/alemania/proj-07306-dresde/</loc>
+    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/croacia/proj-21303-dubrovnik/</loc>
+    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/mapas/mapa-esteeuropa/</loc>
+    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/austria/proj-13303-eltendorf/</loc>
+    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/proj-101-equipaje-wc/</loc>
+    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/proj-102-fanid-wc/</loc>
+    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/austria/proj-13301-graz/</loc>
+    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/alemania/proj-07307-heidelberg/</loc>
+    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/albania/proj-22302-himara/</loc>
+    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/montenegro/proj-23301-kotor/</loc>
+    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/portugal/proj-11304-lisboa/</loc>
+    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/eslovenia/proj-20301-ljubljana/</loc>
+    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/inglaterra/proj-25301-london/</loc>
+    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/espana/proj-04301-madrid/</loc>
+    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/eslovenia/proj-20302-maribor/</loc>
+    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/alemania/proj-07304-munchen/</loc>
+    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/alemania/proj-07302-olympiastadion/</loc>
+    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/portugal/proj-11301-porto/</loc>
+    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/proj-100-preparativos-wc/</loc>
+    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/proj-002-recorrido/</loc>
+    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/albania/proj-22303-saranda/</loc>
+    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/bulgaria/proj-23001-sofia/</loc>
+    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/estonia/proj-27401-tartu/</loc>
+    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/estonia/proj-27402-tallin/</loc>
+    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/letonia/proj-26401-riga/</loc>
+    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/lituania/proj-25401-vilnus/</loc>
+    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/polonia/proj-15401-warszawa/</loc>
+    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/portugal/proj-11305-cascais/</loc>
+    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/portugal/proj-11306-sintra/</loc>
+    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/portugal/proj-11307-cabodaroca/</loc>
+    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/rusia/proj-30302-moscu/</loc>
+    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/rusia/proj-30401-petersburgo/</loc>
+    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/ucrania/proj-29401-lviv/</loc>
+    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/ucrania/proj-29402-kyiv/</loc>
+    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/croacia/proj-21302-split/</loc>
+    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/grecia/proj-12301-thessaloniki/</loc>
+    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/albania/proj-22301-tirana/</loc>
+    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/croacia/proj-21304-trogir/</loc>
+    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/bulgaria/proj-23002-varna/</loc>
+    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/albania/proj-22304-vlora/</loc>
+    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/austria/proj-13304-wien/</loc>
+    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/croacia/proj-21301-zagreb/</loc>
+    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/alemania/proj-07303-transporte-berlin/</loc>
+    <lastmod>2018-03-26T07:39:12+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/albania/</loc>
+    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>/tags/albania/</loc>
+    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/alemania/</loc>
+    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/alemania/</loc>
+    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/austria/</loc>
+    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/austria/</loc>
+    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/aveiro/</loc>
+    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/berlin/</loc>
+    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/bulgaria/</loc>
+    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/burgas/</loc>
+    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/coimbra/</loc>
+    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/croacia/</loc>
+    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/dubrovnik/</loc>
+    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/eslovenia/</loc>
+    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/espana/</loc>
+    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/estonia/</loc>
+    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/europa/</loc>
+    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/f%C3%BAtbol/</loc>
+    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/grecia/</loc>
+    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/grecia/</loc>
+    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/inglaterra/</loc>
+    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/kotor/</loc>
+    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/letonia/</loc>
+    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/lisboa/</loc>
+    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/lituania/</loc>
+    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/liubliana/</loc>
+    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/madrid/</loc>
+    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/mapa/</loc>
+    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/</loc>
-    <lastmod>2018-03-26T00:00:00+00:00</lastmod>
+    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/post/</loc>
-    <lastmod>2018-03-26T00:00:00+00:00</lastmod>
+    <loc>/mapas/</loc>
+    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/mar-negro/</loc>
+    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/maribor/</loc>
+    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/ministry/</loc>
+    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/montenegro/</loc>
+    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/playa/</loc>
+    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/polonia/</loc>
+    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/porto/</loc>
+    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/portugal/</loc>
+    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/posts/</loc>
+    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/rusia/</loc>
+    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/rusia/</loc>
+    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/split/</loc>
+    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/</loc>
+    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/work/</loc>
+    <loc>/tags/transporte/</loc>
+    <lastmod>2018-03-26T07:39:12+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/trogir/</loc>
+    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/two_column/</loc>
+    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/ucrania/</loc>
+    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/varna/</loc>
+    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/wc2018/</loc>
+    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/yugoslavia/</loc>
+    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/zagreb/</loc>
+    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
     <priority>0</priority>
   </url>
   
