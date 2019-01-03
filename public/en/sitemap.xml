@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/post/el-transporte-en-berlin/</loc>
+    <lastmod>2018-03-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2018-03-26-el-transporte-en-berlin/</loc>
+  </url>
+  
+  <url>
+    <loc>/work/proj-000/</loc>
+  </url>
+  
+  <url>
+    <loc>/work/proj-001/</loc>
+  </url>
+  
+  <url>
+    <loc>/work/proj-002/</loc>
+  </url>
+  
+  <url>
+    <loc>/work/proj-003/</loc>
+  </url>
+  
+  <url>
+    <loc>/work/proj-004/</loc>
+  </url>
+  
+  <url>
+    <loc>/work/proj-005/</loc>
+  </url>
+  
+  <url>
+    <loc>/work/proj-006/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/berlin-alemania-f%C3%BAtbol/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2018-03-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/"
+                />
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2018-03-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>/work/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

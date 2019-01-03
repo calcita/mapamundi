@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Eslovenia on Mapa Mundi</title>
+    <link>/eslovenia/</link>
+    <description>Recent content in Eslovenia on Mapa Mundi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Tue, 01 May 2018 07:39:12 +1000</lastBuildDate>
+    
+	<atom:link href="/eslovenia/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ljubljana</title>
+      <link>/eslovenia/proj-20301-ljubljana/</link>
+      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
+      
+      <guid>/eslovenia/proj-20301-ljubljana/</guid>
+      <description>Álbum de fotos</description>
+    </item>
+    
+    <item>
+      <title>Maribor</title>
+      <link>/eslovenia/proj-20302-maribor/</link>
+      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
+      
+      <guid>/eslovenia/proj-20302-maribor/</guid>
+      <description>Álbum de fotos</description>
+    </item>
+    
+  </channel>
+</rss>

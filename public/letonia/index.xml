@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Letonia on Mapa Mundi</title>
+    <link>/letonia/</link>
+    <description>Recent content in Letonia on Mapa Mundi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Tue, 01 May 2018 07:39:12 +1000</lastBuildDate>
+    
+	<atom:link href="/letonia/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sofia</title>
+      <link>/letonia/proj-26401-riga/</link>
+      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
+      
+      <guid>/letonia/proj-26401-riga/</guid>
+      <description>Álbum de fotos</description>
+    </item>
+    
+  </channel>
+</rss>
