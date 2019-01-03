@@ -153,6 +153,11 @@
   </url>
   
   <url>
+    <loc>/about/about/</loc>
+    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/bulgaria/proj-23001-sofia/</loc>
     <lastmod>2018-05-01T07:39:12+10:00</lastmod>
   </url>
@@ -260,6 +265,12 @@
   <url>
     <loc>/alemania/proj-07303-transporte-berlin/</loc>
     <lastmod>2018-03-26T07:39:12+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/about/</loc>
+    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
