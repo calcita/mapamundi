@@ -2,8 +2,8 @@
 title: "Kotor"
 subtitle: "Ministry with Children"
 date: 2018-05-01T07:39:12+10:00
-images: [/img/freely-10057.jpg]
-tags: ["kotor","ministry"]
+images: [/img/proj/kotor/201708_Kotor_038_lzn.jpg]
+tags: ["kotor","ex-yugoslavia"]
 draft: false
 ---
 

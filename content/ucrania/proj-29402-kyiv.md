@@ -1,15 +1,13 @@
 ---
-title: "Sofia"
+title: "Kyiv"
 subtitle: "Ministry with Children"
 date: 2018-05-01T07:39:12+10:00
 images: [/img/freely-10057.jpg]
-tags: ["two_column","ministry"]
+tags: ["kiev","ex-urss"]
 draft: false
 ---
 
-![Sofia](img/work/proj-003/thumb.jpg)
-![](img/work/proj-001/wrench.svg)
 
 **Álbum de fotos**
 
-<a data-flickr-embed="true" data-header="true" data-footer="true"  href="https://www.flickr.com/gp/mapa_mundi/TM6P4t" title="Sofia"><img src="https://farm5.staticflickr.com/4598/27363634919_0ef183689b_z.jpg" width="640" height="427" alt="Sofia"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" data-header="true" data-footer="true"  href="https://www.flickr.com/photos/161428820@N02/albums/72157703897272321" title="Kyiv"><img src="https://farm5.staticflickr.com/4869/39638620423_ac623d5cb0_o.jpg" width="683" height="1024" alt="Kyiv"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
