@@ -181,10 +181,18 @@ googleAnalytics = ""
     parent = "Temas"
     weight = 6
     
-[[menu.main]]
-    name = "Mapas"
-    url = "/mapas"
+    [[menu.main]]
+    name = "Idiomas"
+    url = "/temas"
+    parent = "Temas"
     weight = 7
+
+[[menu.main]]
+    name = "Ex-URSS"
+    url = "#ex-urss"
+    parent = "Lugares"
+    weight = 7
+
     
     #[[menu.main]]
     #name = "Europa del Este + Wwoofing"
@@ -230,10 +238,16 @@ googleAnalytics = ""
     weight = 5
 
 [[menu.main]]
-    name = "Idiomas"
-    url = "/lugares"
+    name = "Ex-URSS"
+    url = "#ex-urss"
     parent = "Lugares"
     weight = 6
+
+[[menu.main]]
+    name = "Ex-Yugoslavia"
+    url = "#ex-yugoslavia"
+    parent = "Lugares"
+    weight = 7
     
   [[menu.main]]
     name = "Contacto"
