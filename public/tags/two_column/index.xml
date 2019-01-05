@@ -12,15 +12,6 @@
     
     
     <item>
-      <title>Barcelona</title>
-      <link>/espana/proj-04302-barcelona/</link>
-      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
-      
-      <guid>/espana/proj-04302-barcelona/</guid>
-      <description>Álbum de fotos</description>
-    </item>
-    
-    <item>
       <title>Datos</title>
       <link>/posts/proj-000-datos/</link>
       <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
@@ -54,6 +45,15 @@
       
       <guid>/posts/proj-002-recorrido/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Sofia</title>
+      <link>/bulgaria/proj-23001-sofia/</link>
+      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
+      
+      <guid>/bulgaria/proj-23001-sofia/</guid>
+      <description>Álbum de fotos</description>
     </item>
     
   </channel>
