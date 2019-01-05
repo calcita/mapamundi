@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Montenegros on Mapa Mundi</title>
+    <title>Montenegro on Mapa Mundi</title>
     <link>/montenegro/</link>
-    <description>Recent content in Montenegros on Mapa Mundi</description>
+    <description>Recent content in Montenegro on Mapa Mundi</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>es-es</language>
+    <language>es-ES</language>
     <lastBuildDate>Tue, 01 May 2018 07:39:12 +1000</lastBuildDate>
     
 	<atom:link href="/montenegro/index.xml" rel="self" type="application/rss+xml" />

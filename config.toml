@@ -1,9 +1,11 @@
 # Site settings
 baseurl = "http://mapamundi.me/"
-languageCode = "es-es"
+languageCode = "es-ES"
 title = "Mapa Mundi"
 theme = "alpha-church"
 themesDir = "themes"
+pluralizeListTitles = false
+disableKinds = ["section","taxonomy", "taxonomyTerm"]
 
 rssLimit = 5
 
@@ -13,7 +15,7 @@ enableEmoji = true
 googleAnalytics = ""
 
 [taxonomies]
-  tag = "tags"
+ # tag = "tags"
   
 #This theme can generate a multi-level menu.
 #Use weight= to specify the order of menu items, and parent= to create a submenu item.
@@ -299,10 +301,10 @@ googleAnalytics = ""
     [params.landing.banner]
       image = "img/banner.jpg"
 
-     # [[params.landing.banner.button]]
-      #  url = "/contact"
-      #  text = "Get in touch"
-      #  type = "special"
+    [[params.landing.banner.button]]
+       url = "/contact"
+       text = "Get in touch"
+       type = "special"
 
        # [[params.landing.banner.button]]
       #  url = "#feature-icons"
@@ -444,7 +446,7 @@ googleAnalytics = ""
     [params.footer]
       copyright = ["[CC-SA-BY 4.0 Internacional](//creativecommons.org/publicdomain/zero/1.0/)",
                    "Design: [HTML5 UP](//html5up.net/alpha)",
-                   "[Hugo Port](//gohugo.io) by [Gabriela Mathieu](//github.com/funkydan2)"
+                   "[Hugo Port](//gohugo.io) by [Gabriela Mathieu](//github.com/calcita)"
                   ]
 
     [[params.links]]
