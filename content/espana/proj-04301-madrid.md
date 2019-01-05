@@ -2,7 +2,7 @@
 title: "Madrid"
 subtitle: "Ministry with Children"
 date: 2018-05-01T07:39:12+10:00
-images: [/img/freely-10057.jpg]
+images: [/img/proj/madrid/201705_Madrid_137_lzn.jpg]
 tags: ["madrid","ministry"]
 draft: false
 ---

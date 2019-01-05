@@ -2,8 +2,8 @@
 title: "Barcelona"
 subtitle: "Ministry with Children"
 date: 2018-05-01T07:39:12+10:00
-images: [/img/freely-10057.jpg]
-tags: ["two_column","ministry"]
+images: [/img/proj/barcelona/201706_Barcelona_040_lzn.jpg]
+tags: ["barcelona","ministry"]
 draft: false
 ---
 

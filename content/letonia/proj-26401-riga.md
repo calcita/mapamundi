@@ -2,7 +2,7 @@
 title: "Rīga"
 subtitle: "Riga"
 date: 2018-05-01T07:39:12+10:00
-images: [/img/freely-10057.jpg]
+images: [/img/proj/riga/201806_Riga_0006_lzn.jpg]
 tags: ["riga","ministry"]
 draft: false
 ---

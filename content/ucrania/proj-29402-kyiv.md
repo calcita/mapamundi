@@ -1,8 +1,8 @@
 ---
 title: "Kyiv"
-subtitle: "Ministry with Children"
+subtitle: "Kiev"
 date: 2018-05-01T07:39:12+10:00
-images: [/img/freely-10057.jpg]
+images: [/img/proj/kyiv/201805_Kiev_0191_lzn.jpg]
 tags: ["kiev","ex-urss"]
 draft: false
 ---
