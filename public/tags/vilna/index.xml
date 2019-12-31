@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Vilna on Mapa Mundi</title>
+    <title>vilna on Mapa Mundi</title>
     <link>/tags/vilna/</link>
-    <description>Recent content in Vilna on Mapa Mundi</description>
+    <description>Recent content in vilna on Mapa Mundi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-ES</language>
     <lastBuildDate>Tue, 01 May 2018 07:39:12 +1000</lastBuildDate>
@@ -13,10 +13,10 @@
     
     <item>
       <title>Vilnius</title>
-      <link>/lituania/proj-25401-vilnus/</link>
+      <link>/proj-25401-vilnus/</link>
       <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
       
-      <guid>/lituania/proj-25401-vilnus/</guid>
+      <guid>/proj-25401-vilnus/</guid>
       <description>Álbum de fotos</description>
     </item>
     

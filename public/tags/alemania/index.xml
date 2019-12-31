@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Alemania on Mapa Mundi</title>
+    <title>alemania on Mapa Mundi</title>
     <link>/tags/alemania/</link>
-    <description>Recent content in Alemania on Mapa Mundi</description>
+    <description>Recent content in alemania on Mapa Mundi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-ES</language>
     <lastBuildDate>Tue, 01 May 2018 07:39:12 +1000</lastBuildDate>
@@ -13,10 +13,10 @@
     
     <item>
       <title>Dresde</title>
-      <link>/alemania/proj-07306-dresde/</link>
+      <link>/proj-07306-dresde/</link>
       <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
       
-      <guid>/alemania/proj-07306-dresde/</guid>
+      <guid>/proj-07306-dresde/</guid>
       <description>Más parecida a Berlin que a Múnich.</description>
     </item>
     

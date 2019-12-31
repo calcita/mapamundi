@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ministry on Mapa Mundi</title>
+    <title>ministry on Mapa Mundi</title>
     <link>/tags/ministry/</link>
-    <description>Recent content in Ministry on Mapa Mundi</description>
+    <description>Recent content in ministry on Mapa Mundi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-ES</language>
     <lastBuildDate>Tue, 01 May 2018 07:39:12 +1000</lastBuildDate>
@@ -13,38 +13,28 @@
     
     <item>
       <title>Aveiro</title>
-      <link>/portugal/proj-11302-aveiro/</link>
+      <link>/proj-11302-aveiro/</link>
       <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
       
-      <guid>/portugal/proj-11302-aveiro/</guid>
+      <guid>/proj-11302-aveiro/</guid>
       <description>Álbum de fotos</description>
     </item>
     
     <item>
       <title>Barcelona</title>
-      <link>/espana/proj-04302-barcelona/</link>
+      <link>/proj-04302-barcelona/</link>
       <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
       
-      <guid>/espana/proj-04302-barcelona/</guid>
+      <guid>/proj-04302-barcelona/</guid>
       <description>Álbum de fotos</description>
     </item>
     
     <item>
-      <title>Berlin: un museo a cielo abierto</title>
-      <link>/alemania/proj-07301-museo-abierto-berlin/</link>
-      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
-      
-      <guid>/alemania/proj-07301-museo-abierto-berlin/</guid>
-      <description>Mientras estuve en Berlin en Uruguay pasaron muchas cosas:
- Otra vez un tipo asesinó a su pareja, otra vez un tipo asesinó a su pareja, otra vez un tipo asesinó a su ex-pareja, otra vez un tipo asesinó a su ex-pareja, otra vez un hombre mató a una mujer solo por el hecho de ser mujer. Solo estuve 6 semanas en Berlin pero durante ese corto tiempo hubieron 5 feminicidios en Uruguay.</description>
-    </item>
-    
-    <item>
       <title>Coimbra</title>
-      <link>/portugal/proj-11303-coimbra/</link>
+      <link>/proj-11303-coimbra/</link>
       <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
       
-      <guid>/portugal/proj-11303-coimbra/</guid>
+      <guid>/proj-11303-coimbra/</guid>
       <description>Álbum de fotos</description>
     </item>
     
@@ -55,6 +45,105 @@
       
       <guid>/posts/proj-000-datos/</guid>
       <description> </description>
+    </item>
+    
+    <item>
+      <title>Dubrovnik</title>
+      <link>/proj-21303-dubrovnik/</link>
+      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
+      
+      <guid>/proj-21303-dubrovnik/</guid>
+      <description>Álbum de fotos</description>
+    </item>
+    
+    <item>
+      <title>Fan ID y entradas</title>
+      <link>/posts/proj-102-fanid-wc/</link>
+      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
+      
+      <guid>/posts/proj-102-fanid-wc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lisboa</title>
+      <link>/proj-11304-lisboa/</link>
+      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
+      
+      <guid>/proj-11304-lisboa/</guid>
+      <description>Álbum de fotos</description>
+    </item>
+    
+    <item>
+      <title>London</title>
+      <link>/proj-25301-london/</link>
+      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
+      
+      <guid>/proj-25301-london/</guid>
+      <description>Álbum de fotos</description>
+    </item>
+    
+    <item>
+      <title>Madrid</title>
+      <link>/proj-04301-madrid/</link>
+      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
+      
+      <guid>/proj-04301-madrid/</guid>
+      <description>Álbum de fotos</description>
+    </item>
+    
+    <item>
+      <title>Recorrido</title>
+      <link>/posts/proj-002-recorrido/</link>
+      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
+      
+      <guid>/posts/proj-002-recorrido/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rīga</title>
+      <link>/proj-26401-riga/</link>
+      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
+      
+      <guid>/proj-26401-riga/</guid>
+      <description>Álbum de fotos</description>
+    </item>
+    
+    <item>
+      <title>Sofia</title>
+      <link>/proj-30401-petersburgo/</link>
+      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
+      
+      <guid>/proj-30401-petersburgo/</guid>
+      <description>Álbum de fotos</description>
+    </item>
+    
+    <item>
+      <title>Trogir</title>
+      <link>/proj-21304-trogir/</link>
+      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
+      
+      <guid>/proj-21304-trogir/</guid>
+      <description>Álbum de fotos</description>
+    </item>
+    
+    <item>
+      <title>Vilnius</title>
+      <link>/proj-25401-vilnus/</link>
+      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
+      
+      <guid>/proj-25401-vilnus/</guid>
+      <description>Álbum de fotos</description>
+    </item>
+    
+    <item>
+      <title>Warszawa</title>
+      <link>/proj-15401-warszawa/</link>
+      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
+      
+      <guid>/proj-15401-warszawa/</guid>
+      <description>Álbum de fotos</description>
     </item>
     
   </channel>

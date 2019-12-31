@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alemania on Mapa Mundi</title>
+    <link>/categories/alemania/</link>
+    <description>Recent content in Alemania on Mapa Mundi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-ES</language>
+    <lastBuildDate>Tue, 01 May 2018 07:39:12 +1000</lastBuildDate>
+    
+	<atom:link href="/categories/alemania/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Augsburg</title>
+      <link>/proj-07305-augsburg/</link>
+      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
+      
+      <guid>/proj-07305-augsburg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Berlin: un museo a cielo abierto</title>
+      <link>/proj-07301-museo-abierto-berlin/</link>
+      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
+      
+      <guid>/proj-07301-museo-abierto-berlin/</guid>
+      <description>Mientras estuve en Berlin en Uruguay pasaron muchas cosas:
+ Otra vez un tipo asesinó a su pareja, otra vez un tipo asesinó a su pareja, otra vez un tipo asesinó a su ex-pareja, otra vez un tipo asesinó a su ex-pareja, otra vez un hombre mató a una mujer solo por el hecho de ser mujer.</description>
+    </item>
+    
+    <item>
+      <title>Dresde</title>
+      <link>/proj-07306-dresde/</link>
+      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
+      
+      <guid>/proj-07306-dresde/</guid>
+      <description>Más parecida a Berlin que a Múnich.</description>
+    </item>
+    
+    <item>
+      <title>Heidelberg</title>
+      <link>/proj-07307-heidelberg/</link>
+      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
+      
+      <guid>/proj-07307-heidelberg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>München</title>
+      <link>/proj-07304-munchen/</link>
+      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
+      
+      <guid>/proj-07304-munchen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Olympiastadion</title>
+      <link>/proj-07302-olympiastadion/</link>
+      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
+      
+      <guid>/proj-07302-olympiastadion/</guid>
+      <description>Un partido de la Bundesliga Estaba en Múnich -Müenchen, en alemán- cuando leí la noticia de que por primera vez una mujer arbitraría a hombres en un partido oficial de primera división en la Bundesliga.</description>
+    </item>
+    
+    <item>
+      <title>El transporte en Berlin</title>
+      <link>/proj-07303-transporte-berlin/</link>
+      <pubDate>Mon, 26 Mar 2018 07:39:12 +1000</pubDate>
+      
+      <guid>/proj-07303-transporte-berlin/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

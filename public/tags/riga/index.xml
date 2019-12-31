@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Riga on Mapa Mundi</title>
+    <title>riga on Mapa Mundi</title>
     <link>/tags/riga/</link>
-    <description>Recent content in Riga on Mapa Mundi</description>
+    <description>Recent content in riga on Mapa Mundi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-ES</language>
     <lastBuildDate>Tue, 01 May 2018 07:39:12 +1000</lastBuildDate>
@@ -13,10 +13,10 @@
     
     <item>
       <title>Rīga</title>
-      <link>/letonia/proj-26401-riga/</link>
+      <link>/proj-26401-riga/</link>
       <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
       
-      <guid>/letonia/proj-26401-riga/</guid>
+      <guid>/proj-26401-riga/</guid>
       <description>Álbum de fotos</description>
     </item>
     

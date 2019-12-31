@@ -1,331 +1,194 @@
-<!DOCTYPE HTML>
-<html>
-	<head>
-		<title>Mapa Mundi</title>
-		<meta charset="utf-8" />
-		<meta name="viewport" content="width=device-width, initial-scale=1" />
-		<meta name="description" content="&#39;Por un mundo donde seamos socialmente iguales, humanamente diferentes y totalmente libres&#39;. (Rosa Luxemburg)">
-		<link rel="alternate" type="application/rss+xml+xml" href="/about/index.xml" title="Mapa Mundi" /><meta name="generator" content="Hugo 0.53" />
-		
-		<meta property="og:title" content="About" />
-<meta property="og:description" content="" />
-<meta property="og:type" content="website" />
-<meta property="og:url" content="/about/" />
-<meta property="og:updated_time" content="2018-05-01T07:39:12&#43;10:00"/><meta property="og:site_name" content="Mapa Mundi" />
+<!DOCTYPE html>
+<html lang="es-ES"><head>
+  <meta charset="utf-8">
+  <title>Mapa Mundi</title>
 
-		<meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="About"/>
-<meta name="twitter:description" content=""/>
-<link rel="stylesheet" href="//use.fontawesome.com/releases/v5.6.0/css/all.css" integrity="sha384-aOkxzJ5uQz7WBObEZcHvV5JvRW3TUc2rNPA7pe3AwnsUohiw1Vj2Rgx2KSOkF5+h" crossorigin="anonymous">
-		<link rel="stylesheet" href="//cdn.plyr.io/3.4.5/plyr.css" integrity="sha384-JqfplAQ7gnCzjJ6j4zjffZi4KkVBkO/+vvvL5Ax4tzvCrQ8sQVBtjoHY3z3WmDDh" crossorigin="anonymous">
-		
-		<link rel="stylesheet" href="//unpkg.com/leaflet@1.3.4/dist/leaflet.css" integrity="sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA==" crossorigin="anonymous"/><!--[if lte IE 8]><script src="/js/ie/html5shiv.min.js"></script><link rel="stylesheet" href="/scss/main.min.css" /><![endif]--><link rel="stylesheet" href="/scss/main.min.fabdd20cc250b2f63135f032318dd2d8316b32f4b31d1834298f5fa45ceeb986.css" integrity="sha256-&#43;r3SDMJQsvYxNfAyMY3S2DFrMvSzHRg0KY9fpFzuuYY=" media="screen" crossorigin="anonymous" /><link rel="stylesheet" href="/example.css"></head>
+  <!-- mobile responsive meta -->
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <meta name="description" content="Un blog de viajes">
+  <meta name="author" content="Gabriela Mathieu">
+  <meta name="generator" content="Hugo 0.59.1" />
 
-<body  >
-  <div id="page-wrapper">
-    <header id="header"  >
-      <h1><a href="/">Mapa Mundi</a></h1>
-
-      <!-- Nav -->
-      <nav id="nav">
-        <ul>
-          
-          
-            
-                <li>
-                    <a href="/">
-                         Home
-                    </a>
-                </li>
-            
-        
-            
-                <li>
-                    <a href="/about">
-                         About
-                    </a>
-                </li>
-            
-        
-            
-                <li>
-                    <a href="#">
-                         Latinoamérica
-                    </a>
-                </li>
-            
-        
-            
-                <li>
-                    <a href="#"><i class="fas fa-angle-down"></i>
-                        Europa
-                    </a>
-                    <ul>
-                      
-                          <li>
-                              <a href="/albania">Albania</a>
-                            </li>
-                      
-                          <li>
-                              <a href="/alemania">Alemania</a>
-                            </li>
-                      
-                          <li>
-                              <a href="/austria">Austria</a>
-                            </li>
-                      
-                          <li>
-                              <a href="/bulgaria">Bulgaria</a>
-                            </li>
-                      
-                          <li>
-                              <a href="/croacia">Croacia</a>
-                            </li>
-                      
-                          <li>
-                              <a href="/eslovenia">Eslovenia</a>
-                            </li>
-                      
-                          <li>
-                              <a href="/espana">España</a>
-                            </li>
-                      
-                          <li>
-                              <a href="/estonia">Estonia</a>
-                            </li>
-                      
-                          <li>
-                              <a href="/grecia">Grecia</a>
-                            </li>
-                      
-                          <li>
-                              <a href="/letonia">Letonia</a>
-                            </li>
-                      
-                          <li>
-                              <a href="/lituania">Lituania</a>
-                            </li>
-                      
-                          <li>
-                              <a href="/montenegro">Montenegro</a>
-                            </li>
-                      
-                          <li>
-                              <a href="/polonia">Polonia</a>
-                            </li>
-                      
-                          <li>
-                              <a href="/portugal">Portugal</a>
-                            </li>
-                      
-                          <li>
-                              <a href="/inglaterra">Inglaterra</a>
-                            </li>
-                      
-                          <li>
-                              <a href="/rusia">Rusia</a>
-                            </li>
-                      
-                          <li>
-                              <a href="/ucrania">Ucrania</a>
-                            </li>
-                      
-                    </ul>
-                  </li>
-            
-        
-            
-                <li>
-                    <a href="#"><i class="fas fa-angle-down"></i>
-                        Temas
-                    </a>
-                    <ul>
-                      
-                          <li>
-                              <a href="/temas">Presupuesto</a>
-                            </li>
-                      
-                          <li>
-                              <a href="/temas">Transporte</a>
-                            </li>
-                      
-                          <li>
-                              <a href="/temas">Alojamiento</a>
-                            </li>
-                      
-                          <li>
-                              <a href="/temas">Tecnología</a>
-                            </li>
-                      
-                          <li>
-                              <a href="/temas">Apps</a>
-                            </li>
-                      
-                          <li>
-                              <a href="/temas">Equipaje</a>
-                            </li>
-                      
-                          <li>
-                              <a href="/temas">Idiomas</a>
-                            </li>
-                      
-                    </ul>
-                  </li>
-            
-        
-            
-                <li>
-                    <a href="/contact">
-                         Contacto
-                    </a>
-                </li>
-            
-        
-            
-                <li>
-                    <a href=""><i class="fas fa-angle-down"></i>
-                        Lugares
-                    </a>
-                    <ul>
-                      
-                          <li>
-                              <a href="/lugares">Estadios</a>
-                            </li>
-                      
-                          <li>
-                              <a href="/lugares">Mercados</a>
-                            </li>
-                      
-                          <li>
-                              <a href="/lugares">Gastronomía</a>
-                            </li>
-                      
-                          <li>
-                              <a href="/lugares">Locomoción</a>
-                            </li>
-                      
-                          <li>
-                              <a href="/lugares">Arte callejero</a>
-                            </li>
-                      
-                          <li>
-                              <a href="#ex-urss">Ex-URSS</a>
-                            </li>
-                      
-                          <li>
-                              <a href="#ex-yugoslavia">Ex-Yugoslavia</a>
-                            </li>
-                      
-                    </ul>
-                  </li>
-            
-        
-        </ul>
-      </nav>
-    </header>
-
-
-
-	<!-- Main -->
-	<section id="main" class="container">
-	  <header>
-	    <h2>Abouts</h2>
-	  </header>
-		  <div class="box">
+  <!-- plugins -->
   
+  <link rel="stylesheet" href="/plugins/bootstrap/bootstrap.min.css ">
   
+  <link rel="stylesheet" href="/plugins/slick/slick.css ">
   
-    
-    <div>
-      <a href="/about/about/">Sobre mi</a>
-      <time class="date-meta">(May 1, 2018)</time>
-      <br>
-      La excusa de hacer este blog es contar y mostrar por los lugares que he estado en este viaje por Europa que inicié a fines de mayo de 2017. No busco hacer una lista de los lugares imperdibles para ver en tal o cual ciudad, si bien gracias a otros blogs fui eligiendo varios de los lugares que visité, muchas cosas las descubrí por caminar de acá para allá y prestar atención en cosas que mucha gente se pasa por alto.
-      
-        <a class="button small alt" href="/about/about/" >
-            Read more<i class="fas fa-angle-double-right"></i>
-        </a>
-       
+  <link rel="stylesheet" href="/plugins/themify-icons/themify-icons.css ">
+  
+
+  <!-- Main Stylesheet -->
+  
+  <link rel="stylesheet" href="/css/style.min.css" media="screen">
+
+  <!--Favicon-->
+  <link rel="shortcut icon" href="/images/favicon.png " type="image/x-icon">
+  <link rel="icon" href="/images/favicon.png " type="image/x-icon">
+
+</head><body>
+<!-- preloader start -->
+<div class="preloader">
+  <div class="loader">
+    <span class="dot"></span>
+    <div class="dots">
+      <span></span>
+      <span></span>
+      <span></span>
     </div>
-    
-    
-   
-  
-
   </div>
-
-	</section>
-
-
-<!-- Footer -->
-  <footer id="footer">
-    <ul class="icons">
-      
-      
-        <li>
-          <a href="//twitter.com/calcita3" target="_blank" ><i class="icon fab fa-twitter"><span class="label">Twitter</span></i></a>
-        </li>
-      
-      
-        <li>
-          <a href="//facebook.com/" target="_blank" ><i class="icon fab fa-instagram"><span class="label">Instagram</span></i></a>
-        </li>
-      
-      
-        <li>
-          <a href="//flickr.com/photos/mapa_mundi/" target="_blank" ><i class="icon fab fa-flickr"><span class="label">Flickr</span></i></a>
-        </li>
-      
-      
-        <li>
-          <a href="//telegram.com/calcita3" target="_blank" ><i class="icon fab fa-telegram"><span class="label">Telegram</span></i></a>
-        </li>
-      
-      
-        <li>
-          <a href="//vimeo.com/user71114775/" target="_blank" ><i class="icon fab fa-vimeo"><span class="label">Vimeo</span></i></a>
-        </li>
-      
-      
-        <li>
-          <a href="calcita" target="_blank" ><i class="icon fab fa-github"><span class="label">github</span></i></a>
-        </li>
-      
-      
-        <li>
-          <a href="mathieugabriela" target="_blank" ><i class="icon fab fa-linkedin"><span class="label">Linkedin</span></i></a>
-        </li>
-       
-    </ul>
-    <ul class="copyright"><li><a href="//creativecommons.org/publicdomain/zero/1.0/">CC-SA-BY 4.0 Internacional</a></li><li>Design: <a href="//html5up.net/alpha">HTML5 UP</a></li><li><a href="//gohugo.io">Hugo Port</a> by <a href="//github.com/calcita">Gabriela Mathieu</a></li></ul>
-  </footer>
-
 </div>
+<!-- preloader end -->
+<header class="navigation">
+  <nav class="navbar navbar-expand-lg navbar-light">
+    <a class="navbar-brand" href="/"><img class="img-fluid" src="/images/logo.png" alt="Mapa Mundi"></a>
+    <button class="navbar-toggler border-0" type="button" data-toggle="collapse" data-target="#navogation"
+      aria-controls="navogation" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse text-center" id="navogation">
+      <ul class="navbar-nav ml-auto">
+        <li class="nav-item">
+          <a class="nav-link text-uppercase text-dark" href="/"> Home </a>
+        </li>
+        
+        
+        <li class="nav-item">
+          <a class="nav-link text-uppercase text-dark" href="/about">About</a>
+        </li>
+        
+        
+        
+        <li class="nav-item">
+          <a class="nav-link text-uppercase text-dark" href="/contact">Contact</a>
+        </li>
+        
+        
+      </ul>
+      
+      <!-- search -->
+      <form class="form-inline position-relative ml-lg-4" action="//search">
+        <input class="form-control px-0 w-100" type="search" placeholder="Search" id="search-query" name="s">
+        <button class="search-icon" type="submit"><i class="ti-search text-dark"></i></button>
+      </form>
+      
+    </div>
+  </nav>
+</header>
+
+<section class="section">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12">
+        <h2 class="mb-4">Sobre mi</h2>
+        <img src="/images/201707_Varna_071_lzn.jpg" alt="Gabriela Mathieu" class="img-fluid w-100 mb-4">
+        <h3 class="font-weight-light">Hello, I’m <span class="font-weight-bold">Gabriela Mathieu</span></h3>
+        <p>La excusa de hacer este blog es contar y mostrar por los lugares que he estado en este viaje por Europa que inicié a fines de mayo de 2017. No busco hacer una lista de los lugares imperdibles para ver en tal o cual ciudad, si bien gracias a otros blogs fui eligiendo varios de los lugares que visité, muchas cosas las descubrí por caminar de acá para allá y prestar atención en cosas que mucha gente se pasa por alto. Por supuesto, yo también me paso muchas cosas por alto por lo que acá simplemente mostraré lo que llamó mi atención o fui buscando.</p>
+
+<p>El nombre del blog lo elegí por que en la época que estaba pensando nombre para el dominio del blog, escuchaba todos los días un hermoso tema del músico brasilero Thiago Pethit llamado <a href="https://www.youtube.com/watch?v=pXBIWw185oY">“Mapa Múndi”</a> y tenía mucho que ver el nombre con viajar y la impronta que quería darle al blog. A su vez, no hacía referencia a mi y eso también me gustaba.</p>
+
+<p>La estructura del blog intenta ser sencilla y evitando el uso de un menú desplegable que te predispone a ver determinadas cosas. Así que para buscar los artículos o fotos sobre determinada ciudad, tenés que buscarla en Tags.</p>
+
+<p>El blog está hecho completamente con el software libre R. Uso el tema Hugo alpha-church. Todo el contenido - texto, fotos, videos, mapas y gráficos- está hecho por mí -salvo que se especifique lo contrario- y bajo licencia <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.es">Creative Commons 4.0 Atribución-CompartirIgual</a> (CC-BY-SA). Esta licencia implica que: podés compartir y/o reutilizar parte o todo el contenido de este blog, siempre y cuando, reconozcas mi autoría de la obra original y las obras derivadas sean licenciadas bajo esta misma licencia.</p>
+
+<p><iframe src="https://giphy.com/embed/vFKqnCdLPNOKc" width="480" height="359" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cat-lol-vFKqnCdLPNOKc"></a></p></p>
+
+      </div>
+    </div>
+  </div>
+</section>
 
 
 
-<!-- Remote Scripts -->
-<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
-<script src="//cdnjs.cloudflare.com/ajax/libs/jquery.dropotron/1.4.3/jquery.dropotron.min.js" integrity="sha256-o7QFslEPuitprNVNQJrtEo/jXNfwgn1BTgVR2BJ5VOI=" crossorigin="anonymous"></script>
-<script src="//cdnjs.cloudflare.com/ajax/libs/skel/3.0.1/skel.min.js" integrity="sha256-3e+NvOq+D/yeJy1qrWpYkEUr6SlOCL5mHpc2nZfX74E=" crossorigin="anonymous"></script>
-<script src="//unpkg.com/leaflet@1.3.4/dist/leaflet.js" integrity="sha512-nMMmRyTVoLYqjP9hrbed9S+FzjZHW5gY1TWCHA5ckwXZBadntCNs8kEqAWdrb9O7rxbCaA4lKTIWjDXZxflOcA==" crossorigin="anonymous"></script>
-<script src="//cdn.plyr.io/3.4.5/plyr.polyfilled.js" integrity="sha384-3Rhs1/DCBHbOtj6pKQvilXNF1pSedRc2uHv00t+RTrXel/1TmLTIOGMU+ISaG3au" crossorigin="anonymous"></script>
+<footer class="bg-secondary">
+  <div class="section">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-3 col-sm-6 mb-4 mb-md-0">
+          <a href="/"><img src="/images/logo.png" alt="Mapa Mundi" class="img-fluid"></a>
+        </div>
+        <div class="col-md-3 col-sm-6 mb-4 mb-md-0">
+          <h6>Address</h6>
+          <ul class="list-unstyled">
+            
+            <li class="font-secondary text-dark">Montevideo</li>
+            
+            <li class="font-secondary text-dark">Uruguay</li>
+            
+          </ul>
+        </div>
+        <div class="col-md-3 col-sm-6 mb-4 mb-md-0">
+          <h6>Contact Info</h6>
+          <ul class="list-unstyled">
+            
+            <li class="font-secondary text-dark"></li>
+            
+            <li class="font-secondary text-dark">Mail: calcita@gmx.li</li>
+            
+          </ul>
+        </div>
+        <div class="col-md-3 col-sm-6 mb-4 mb-md-0">
+          <h6>Follow</h6>
+          <ul class="list-inline d-inline-block">
+            
+            <li class="list-inline-item"><a href="#" class="text-dark"><i class="ti-facebook"></i></a></li>
+            
+            <li class="list-inline-item"><a href="//twitter.com/calcita3" class="text-dark"><i class="ti-twitter-alt"></i></a></li>
+            
+            <li class="list-inline-item"><a href="//lindekin.com/mathieugabriela" class="text-dark"><i class="ti-linkedin"></i></a></li>
+            
+            <li class="list-inline-item"><a href="//github.com/calcita" class="text-dark"><i class="ti-github"></i></a></li>
+            
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="text-center pb-3">
+    <p class="mb-0">Creative-Commons <script>var CurrentYear = new Date().getFullYear()
+    document.write(CurrentYear)</script> <a href="//creativecommons.org/publicdomain/zero/1.0/">CC-SA-BY 4.0 Internacional</a></p>
+  </div>
+</footer>
 
-<!-- Local Scripts -->
+<script>
+  var indexURL = "/index.json"
+</script>
 
+<!-- JS Plugins -->
 
+<script src="/plugins/jQuery/jquery.min.js"></script>
 
+<script src="/plugins/bootstrap/bootstrap.min.js"></script>
 
+<script src="/plugins/slick/slick.min.js"></script>
 
+<script src="/plugins/headroom/headroom.js"></script>
 
+<script src="/plugins/instafeed/instafeed.min.js"></script>
 
-<script src="/js/util.min.1033aa328b44151e12a7fa404ad85c21d675b8931cd31d6f448ee957df277592.js" integrity="sha256-EDOqMotEFR4Sp/pASthcIdZ1uJMc0x1vRI7pV98ndZI=" crossorigin="anonymous"></script>
-<script src="/js/jquery.scrollgress.min.min.70d05352910939022cbde5d34739f1c38da6625f3f8cc8d333023d92fc77574f.js" integrity="sha256-cNBTUpEJOQIsveXTRznxw42mYl8/jMjTMwI9kvx3V08=" crossorigin="anonymous"></script>
+<script src="/plugins/masonry/masonry.js"></script>
 
-<!--[if lte IE 8]><script src=" {{ $ie.RelPermalink }} "></script><![endif]-->
-<script src="/js/main.min.c7bb6e1905879dd8ea45ab5ff6357ee2fb1e7bda3441214d6f9f46e6c3e06fa5.js" integrity="sha256-x7tuGQWHndjqRatf9jV&#43;4vsee9o0QSFNb59G5sPgb6U=" crossorigin="anonymous"></script>
-<script src="/js/osmaps.init.min.bc6651a3ed69c8d014191fbd4c72537d2142c001419e0ffa976e4649d04cdd38.js" integrity="sha256-vGZRo&#43;1pyNAUGR&#43;9THJTfSFCwAFBng/6l25GSdBM3Tg=" crossorigin="anonymous"></script>
-<script src="/js/plyr.init.min.02b821849a4e3b635e8cf24e1e4f65e2d053f18cf3efff35b890e621154e9ae0.js" integrity="sha256-ArghhJpOO2NejPJOHk9l4tBT8Yzz7/81uJDmIRVOmuA=" crossorigin="anonymous"></script>
-</body>
+<script src="/plugins/reading-time/readingTime.min.js"></script>
+
+<script src="/plugins/smooth-scroll/smooth-scroll.js"></script>
+
+<script src="/plugins/search/fuse.min.js"></script>
+
+<script src="/plugins/search/mark.js"></script>
+
+<script src="/plugins/search/search.js"></script>
+
+<!-- Main Script -->
+
+<script src="/js/script.min.js"></script>
+<!-- google analitycs -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'Your ID', 'auto');
+  ga('send', 'pageview');
+</script></body>
 </html>
-

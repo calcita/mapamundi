@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Zagreb on Mapa Mundi</title>
+    <title>zagreb on Mapa Mundi</title>
     <link>/tags/zagreb/</link>
-    <description>Recent content in Zagreb on Mapa Mundi</description>
+    <description>Recent content in zagreb on Mapa Mundi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-ES</language>
     <lastBuildDate>Tue, 01 May 2018 07:39:12 +1000</lastBuildDate>
@@ -13,10 +13,10 @@
     
     <item>
       <title>Zagreb</title>
-      <link>/croacia/proj-21301-zagreb/</link>
+      <link>/proj-21301-zagreb/</link>
       <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
       
-      <guid>/croacia/proj-21301-zagreb/</guid>
+      <guid>/proj-21301-zagreb/</guid>
       <description>Álbum de fotos</description>
     </item>
     

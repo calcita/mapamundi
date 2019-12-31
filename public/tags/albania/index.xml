@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Albania on Mapa Mundi</title>
+    <title>albania on Mapa Mundi</title>
     <link>/tags/albania/</link>
-    <description>Recent content in Albania on Mapa Mundi</description>
+    <description>Recent content in albania on Mapa Mundi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-ES</language>
     <lastBuildDate>Tue, 01 May 2018 07:39:12 +1000</lastBuildDate>
@@ -12,47 +12,11 @@
     
     
     <item>
-      <title>Augsburg</title>
-      <link>/alemania/proj-07305-augsburg/</link>
+      <title>Wien</title>
+      <link>/proj-13304-wien/</link>
       <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
       
-      <guid>/alemania/proj-07305-augsburg/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Deutschlandsberg</title>
-      <link>/austria/proj-13302-deutschlandsberg/</link>
-      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
-      
-      <guid>/austria/proj-13302-deutschlandsberg/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Eltendorf</title>
-      <link>/austria/proj-13303-eltendorf/</link>
-      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
-      
-      <guid>/austria/proj-13303-eltendorf/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Heidelberg</title>
-      <link>/alemania/proj-07307-heidelberg/</link>
-      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
-      
-      <guid>/alemania/proj-07307-heidelberg/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Himarë</title>
-      <link>/albania/proj-22302-himara/</link>
-      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
-      
-      <guid>/albania/proj-22302-himara/</guid>
+      <guid>/proj-13304-wien/</guid>
       <description></description>
     </item>
     

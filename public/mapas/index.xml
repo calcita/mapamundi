@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mapas on Mapa Mundi</title>
@@ -17,10 +17,7 @@
       <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
       
       <guid>/mapas/mapa-copadelmundo/</guid>
-      <description>64 días, 20 ciudades -algunas repetidas-, 6 países, gran parte en ex-países soviéticos. Hacé click sobre las ciudades enumeradas para más información y zoom en el mapa para más detalle.
-Recorrido
- Destinos
- </description>
+      <description>64 días, 20 ciudades -algunas repetidas-, 6 países, gran parte en ex-países soviéticos.</description>
     </item>
     
     <item>
@@ -29,9 +26,7 @@ Recorrido
       <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
       
       <guid>/mapas/mapa-esteeuropa/</guid>
-      <description>52 destinos -algunos repetidos-, 10 países, gran parte en el este de Europa con dos paradas al sur de Austria para ser Wwoofer en granjas orgánicas. Hacé click sobre las ciudades enumeradas para más información y zoom en el mapa para más detalle.
-Recorrido
- </description>
+      <description>52 destinos -algunos repetidos-, 10 países, gran parte en el este de Europa con dos paradas al sur de Austria para ser Wwoofer en granjas orgánicas.</description>
     </item>
     
   </channel>

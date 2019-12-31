@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Europa on Mapa Mundi</title>
+    <title>europa on Mapa Mundi</title>
     <link>/tags/europa/</link>
-    <description>Recent content in Europa on Mapa Mundi</description>
+    <description>Recent content in europa on Mapa Mundi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-ES</language>
     <lastBuildDate>Tue, 01 May 2018 07:39:12 +1000</lastBuildDate>
@@ -12,26 +12,157 @@
     
     
     <item>
-      <title>Copa del mundo</title>
-      <link>/mapas/mapa-copadelmundo/</link>
+      <title>Augsburg</title>
+      <link>/proj-07305-augsburg/</link>
       <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
       
-      <guid>/mapas/mapa-copadelmundo/</guid>
-      <description>64 días, 20 ciudades -algunas repetidas-, 6 países, gran parte en ex-países soviéticos. Hacé click sobre las ciudades enumeradas para más información y zoom en el mapa para más detalle.
-Recorrido
- Destinos
- </description>
+      <guid>/proj-07305-augsburg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Berlin: un museo a cielo abierto</title>
+      <link>/proj-07301-museo-abierto-berlin/</link>
+      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
+      
+      <guid>/proj-07301-museo-abierto-berlin/</guid>
+      <description>Mientras estuve en Berlin en Uruguay pasaron muchas cosas:
+ Otra vez un tipo asesinó a su pareja, otra vez un tipo asesinó a su pareja, otra vez un tipo asesinó a su ex-pareja, otra vez un tipo asesinó a su ex-pareja, otra vez un hombre mató a una mujer solo por el hecho de ser mujer.</description>
+    </item>
+    
+    <item>
+      <title>Copa del mundo</title>
+      <link>/mapa-copadelmundo/</link>
+      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
+      
+      <guid>/mapa-copadelmundo/</guid>
+      <description>64 días, 20 ciudades -algunas repetidas-, 6 países, gran parte en ex-países soviéticos.</description>
+    </item>
+    
+    <item>
+      <title>Deutschlandsberg</title>
+      <link>/proj-13302-deutschlandsberg/</link>
+      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
+      
+      <guid>/proj-13302-deutschlandsberg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dresde</title>
+      <link>/proj-07306-dresde/</link>
+      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
+      
+      <guid>/proj-07306-dresde/</guid>
+      <description>Más parecida a Berlin que a Múnich.</description>
     </item>
     
     <item>
       <title>EE &#43; Wwoofing</title>
-      <link>/mapas/mapa-esteeuropa/</link>
+      <link>/mapa-esteeuropa/</link>
       <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
       
-      <guid>/mapas/mapa-esteeuropa/</guid>
-      <description>52 destinos -algunos repetidos-, 10 países, gran parte en el este de Europa con dos paradas al sur de Austria para ser Wwoofer en granjas orgánicas. Hacé click sobre las ciudades enumeradas para más información y zoom en el mapa para más detalle.
-Recorrido
- </description>
+      <guid>/mapa-esteeuropa/</guid>
+      <description>52 destinos -algunos repetidos-, 10 países, gran parte en el este de Europa con dos paradas al sur de Austria para ser Wwoofer en granjas orgánicas.</description>
+    </item>
+    
+    <item>
+      <title>Eltendorf</title>
+      <link>/proj-13303-eltendorf/</link>
+      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
+      
+      <guid>/proj-13303-eltendorf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Graz</title>
+      <link>/proj-13301-graz/</link>
+      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
+      
+      <guid>/proj-13301-graz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Heidelberg</title>
+      <link>/proj-07307-heidelberg/</link>
+      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
+      
+      <guid>/proj-07307-heidelberg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Himarë</title>
+      <link>/proj-22302-himara/</link>
+      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
+      
+      <guid>/proj-22302-himara/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>München</title>
+      <link>/proj-07304-munchen/</link>
+      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
+      
+      <guid>/proj-07304-munchen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Olympiastadion</title>
+      <link>/proj-07302-olympiastadion/</link>
+      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
+      
+      <guid>/proj-07302-olympiastadion/</guid>
+      <description>Un partido de la Bundesliga Estaba en Múnich -Müenchen, en alemán- cuando leí la noticia de que por primera vez una mujer arbitraría a hombres en un partido oficial de primera división en la Bundesliga.</description>
+    </item>
+    
+    <item>
+      <title>Sarandë</title>
+      <link>/proj-22303-saranda/</link>
+      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
+      
+      <guid>/proj-22303-saranda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tiranë</title>
+      <link>/proj-22301-tirana/</link>
+      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
+      
+      <guid>/proj-22301-tirana/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vlorë</title>
+      <link>/proj-22304-vlora/</link>
+      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
+      
+      <guid>/proj-22304-vlora/</guid>
+      <description>No vayan a Vlora pensando como yo que habría playa -eso decían algunos blogs- y para acortar el viaje entre Himara y Tirana.</description>
+    </item>
+    
+    <item>
+      <title>Wien</title>
+      <link>/proj-13304-wien/</link>
+      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
+      
+      <guid>/proj-13304-wien/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>El transporte en Berlin</title>
+      <link>/proj-07303-transporte-berlin/</link>
+      <pubDate>Mon, 26 Mar 2018 07:39:12 +1000</pubDate>
+      
+      <guid>/proj-07303-transporte-berlin/</guid>
+      <description></description>
     </item>
     
   </channel>

@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Two_column on Mapa Mundi</title>
+    <title>two_column on Mapa Mundi</title>
     <link>/tags/two_column/</link>
-    <description>Recent content in Two_column on Mapa Mundi</description>
+    <description>Recent content in two_column on Mapa Mundi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-ES</language>
     <lastBuildDate>Tue, 01 May 2018 07:39:12 +1000</lastBuildDate>
@@ -31,10 +31,10 @@
     
     <item>
       <title>London</title>
-      <link>/inglaterra/proj-25301-london/</link>
+      <link>/proj-25301-london/</link>
       <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
       
-      <guid>/inglaterra/proj-25301-london/</guid>
+      <guid>/proj-25301-london/</guid>
       <description>Álbum de fotos</description>
     </item>
     
@@ -49,10 +49,19 @@
     
     <item>
       <title>Sofia</title>
-      <link>/bulgaria/proj-23001-sofia/</link>
+      <link>/proj-30401-petersburgo/</link>
       <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
       
-      <guid>/bulgaria/proj-23001-sofia/</guid>
+      <guid>/proj-30401-petersburgo/</guid>
+      <description>Álbum de fotos</description>
+    </item>
+    
+    <item>
+      <title>Warszawa</title>
+      <link>/proj-15401-warszawa/</link>
+      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
+      
+      <guid>/proj-15401-warszawa/</guid>
       <description>Álbum de fotos</description>
     </item>
     

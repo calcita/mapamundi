@@ -1,492 +1,129 @@
-# Site settings
-baseurl = "http://mapamundi.me/"
+baseURL = "http://mapamundi.me/"
 languageCode = "es-ES"
 title = "Mapa Mundi"
-theme = "alpha-church"
-themesDir = "themes"
-pluralizeListTitles = false
-disableKinds = ["section","taxonomy", "taxonomyTerm"]
+theme = "parsa-hugo"
+summaryLength = "10"
+paginate = 6
 
-rssLimit = 5
+[outputs]
+  home = ["HTML", "AMP", "RSS", "JSON"]
+  page = ["HTML"]
 
-enableEmoji = true
+# Plugins
+[params.plugins]
 
-# Enter your tracking code to enable Google Analytics
-googleAnalytics = ""
+  # CSS Plugins
+  [[params.plugins.css]]
+  URL = "plugins/bootstrap/bootstrap.min.css"
+  [[params.plugins.css]]
+  URL = "plugins/slick/slick.css"
+  [[params.plugins.css]]
+  URL = "plugins/themify-icons/themify-icons.css"
 
-[taxonomies]
- # tag = "tags"
+  # JS Plugins
+  [[params.plugins.js]]
+  URL = "plugins/jQuery/jquery.min.js"
+  [[params.plugins.js]]
+  URL = "plugins/bootstrap/bootstrap.min.js"
+  [[params.plugins.js]]
+  URL = "plugins/slick/slick.min.js"
+  [[params.plugins.js]]
+  URL = "plugins/headroom/headroom.js"
+  [[params.plugins.js]]
+  URL = "plugins/instafeed/instafeed.min.js"
+  [[params.plugins.js]]
+  URL = "plugins/masonry/masonry.js"
+  [[params.plugins.js]]
+  URL = "plugins/reading-time/readingTime.min.js"
+  [[params.plugins.js]]
+  URL = "plugins/smooth-scroll/smooth-scroll.js"
+  [[params.plugins.js]]
+  URL = "plugins/search/fuse.min.js"
+  [[params.plugins.js]]
+  URL = "plugins/search/mark.js"
+  [[params.plugins.js]]
+  URL = "plugins/search/search.js"
   
-#This theme can generate a multi-level menu.
-#Use weight= to specify the order of menu items, and parent= to create a submenu item.
+
+  
+# navigation
 [menu]
-  [[menu.main]]
-    name = "Home"
-    url = "/"
-    weight = 1
-
-  [[menu.main]]
-    name = "About"
-    url = "/about"
-    weight = 2
-
-  [[menu.main]]
-    name = "Latinoamérica"
-    url = "#"
-    weight = 4
-
-  [[menu.main]]
-    name = "Europa"
-    url = "#"
-    weight = 5
-
-[[menu.main]]
-    name = "Albania"
-    url = "/albania"
-    parent = "Europa"
-    weight = 1
     
   [[menu.main]]
-    name = "Alemania"
-    url = "/alemania"
-    parent = "Europa"
-    weight = 2
-
-    [[menu.main]]
-    name = "Austria"
-    url = "/austria"
-    parent = "Europa"
-    weight = 3
-
-    [[menu.main]]
-    name = "Bulgaria"
-    url = "/bulgaria"
-    parent = "Europa"
-    weight = 4
-    
-    [[menu.main]]
-    name = "Croacia"
-    url = "/croacia"
-    parent = "Europa"
-    weight = 5
-    
-    [[menu.main]]
-    name = "Eslovenia"
-    url = "/eslovenia"
-    parent = "Europa"
-    weight = 6
-    
-    [[menu.main]]
-    name = "España"
-    url = "/espana"
-    parent = "Europa"
-    weight = 7
-    
-    [[menu.main]]
-    name = "Estonia"
-    url = "/estonia"
-    parent = "Europa"
-    weight = 8
-    
-    [[menu.main]]
-    name = "Grecia"
-    url = "/grecia"
-    parent = "Europa"
-    weight = 9
-    
-    [[menu.main]]
-    name = "Letonia"
-    url = "/letonia"
-    parent = "Europa"
-    weight = 10
-    
-    [[menu.main]]
-    name = "Lituania"
-    url = "/lituania"
-    parent = "Europa"
-    weight = 11
-    
-    [[menu.main]]
-    name = "Montenegro"
-    url = "/montenegro"
-    parent = "Europa"
-    weight = 12
-    
-    [[menu.main]]
-    name = "Polonia"
-    url = "/polonia"
-    parent = "Europa"
-    weight = 13
-    
-    [[menu.main]]
-    name = "Portugal"
-    url = "/portugal"
-    parent = "Europa"
-    weight = 14
-    
-    [[menu.main]]
-    name = "Inglaterra"
-    url = "/inglaterra"
-    parent = "Europa"
-    weight = 15
-    
-    [[menu.main]]
-    name = "Rusia"
-    url = "/rusia"
-    parent = "Europa"
-    weight = 16
-    
-    [[menu.main]]
-    name = "Ucrania"
-    url = "/ucrania"
-    parent = "Europa"
-    weight = 17
-    
-[[menu.main]]
-    name = "Temas"
-    url = "#"
-    weight = 6
-
-  [[menu.main]]
-    name = "Presupuesto"
-    url = "/temas"
-    parent = "Temas"
-    weight = 1
-    
-    [[menu.main]]
-    name = "Transporte"
-    url = "/temas"
-    parent = "Temas"
-    weight = 2
-
-  [[menu.main]]
-    name = "Alojamiento"
-    url = "/temas"
-    parent = "Temas"
-    weight = 3
-    
-    [[menu.main]]
-    name = "Tecnología"
-    url = "/temas"
-    parent = "Temas"
-    weight = 4
-    
-    [[menu.main]]
-    name = "Apps"
-    url = "/temas"
-    parent = "Temas"
-    weight = 5
-    
-    [[menu.main]]
-    name = "Equipaje"
-    url = "/temas"
-    parent = "Temas"
-    weight = 6
-    
-    [[menu.main]]
-    name = "Idiomas"
-    url = "/temas"
-    parent = "Temas"
-    weight = 7
-
-[[menu.main]]
-    name = "Ex-URSS"
-    url = "#ex-urss"
-    parent = "Lugares"
-    weight = 7
-
-    
-    #[[menu.main]]
-    #name = "Europa del Este + Wwoofing"
-    #url = "/mapas"
-    #parent = "Mapas"
-    #weight = 1
-    
-    #[[menu.main]]
-    #name = "Copa del Mundo"
-    #url = "/mapas"
-    #parent = "Mapas"
-    #weight = 2
-    
-    
-[[menu.main]]
-    name = "Estadios"
-    url = "/lugares"
-    parent = "Lugares"
-    weight = 1
-
-[[menu.main]]
-    name = "Mercados"
-    url = "/lugares"
-    parent = "Lugares"
-    weight = 2
+  name = "About"
+  URL = "about"
+  weight = 2
   
-[[menu.main]]
-    name = "Gastronomía"
-    url = "/lugares"
-    parent = "Lugares"
-    weight = 3
-  
-[[menu.main]]
-    name = "Locomoción"
-    url = "/lugares"
-    parent = "Lugares"
-    weight = 4
-
-[[menu.main]]
-    name = "Arte callejero"
-    url = "/lugares"
-    parent = "Lugares"
-    weight = 5
-
-[[menu.main]]
-    name = "Ex-URSS"
-    url = "#ex-urss"
-    parent = "Lugares"
-    weight = 6
-
-[[menu.main]]
-    name = "Ex-Yugoslavia"
-    url = "#ex-yugoslavia"
-    parent = "Lugares"
-    weight = 7
-    
   [[menu.main]]
-    name = "Contacto"
-    url = "/contact"
-    weight = 8
+  name = "Contact"
+  URL = "contact"
+  weight = 3
 
-# Paramaters for the whole site
+
 [params]
-  title = "Mapa Mundi"
-  subtitle = "'Por un mundo donde seamos socialmente iguales, humanamente diferentes y totalmente libres'. (Rosa Luxemburg)"
-  author = "Gabriela Mathieu"
+logo = "images/logo.png"
+home = "Home"
+# hompage layout ( two layout is available,  you can set the another layout by change the value of homeLayoutToggle "true" to "false")
+homeLayoutToggle = true
+# Meta data
+description = "'Por un mundo donde seamos socialmente iguales, humanamente diferentes y totalmente libres'. (Rosa Luxemburg)"
+# about author
+author = "Gabriela Mathieu"
+authorImage = "images/header-bg.jpg"
+shortDescription = "El contenido de este blog, las fotos, videos, mapas, gráficos y textos están elaborados por [mi](//linkedin.com/in/mathieugabriela) -salvo que mencione lo contrario- y publicado bajo una licencia [*Creative Commons - Atribución - Compartir Igual 4.0 Internacional* (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/). El sitio lo elaboré utilizando el software libre  [*R*](//r-project.org/) y el tema de [Hugo](//gohugo.io/) ['Parsa']([themefisher.com](themefisher.com). Las fotos las alojé en [Flickr](//flickr.com/photos/mapa_mundi/) y los videos en [Vimeo](//vimeo.com/user71114775/). Utilizo un lenguaje no sexista porque lo que no se nombra no existe -incluyo una 'x' siempre que sea necesario-. ![](img/cc-by-sa.png)"
+# Contact Form Action
+contactFormAction = "#"
+# Google Analitycs
+googleAnalitycsID = "Your ID"
+# copyright
+copyright = "[CC-SA-BY 4.0 Internacional](//creativecommons.org/publicdomain/zero/1.0/)"
 
-  customCSS = ["example.css"]
+  # Preloader
+  [params.preloader]
+  enable = true
+  
+  # search
+  [params.search]
+  enable = true
 
+  # Instagram feed
+  [params.instafeed]
+  enable = false
+  userID = ""
+  accessToken = ""
 
-# [params.podcast]
-  #   title = "Listen to Alpha Church"
-  #  subtitle = ""
-  #  summary = "Alpha-Church sermons, talks, messages—podcasted."
-  #  email = "test@example.com"
-  #  copyright = "Podcast: [CC0 (public domain)](//creativecommons.org/publicdomain/zero/1.0/)"
-  #  image = "img/podcast-cover.jpg"
-  #  category = "Religion & Spirituality"
-  #  sub_category = "Christianity"
-  #  iTunes = "https://itunes.apple.com/us/podcast/tgc-word-of-the-week/id1034013280"
-  #  feed = "https://www.thegospelcoalition.org/podcasts/word-of-the-week/feed/?feed=podcast"
+  # footer
+  [params.footer]
 
-  [params.map]
-    # For Open Street Map widgets
-    #latitude = "-34.9032784"
-    #longitude = "-56.1881599"
-    #zoom = "5"
-
-  [params.contact]
-    #Use this section to automate contact form.
-    #Set service to either "netlify" or "formspree"
-    #For formspree, please setup an account at https://formspree.io/
-    #For netlify, please read https://www.netlify.com/docs/form-handling/
-    #
-    #If you use netlify, you'll need to set the confirm_page value (or elase users will see a generic netlify response)
-    #If you use formspree, you'll need to set your formspree email address.
-    service = "netlify"
-    confirm_page = "/contact_thanks"
-    # formspree_email=""
-
-  #Paramaters for the home/landing page
-  [params.landing]
-
-    [params.landing.banner]
-      image = "img/banner.jpg"
-
-    [[params.landing.banner.button]]
-       url = "/contact"
-       text = "Get in touch"
-       type = "special"
-
-       # [[params.landing.banner.button]]
-      #  url = "#feature-icons"
-      #  text = "Find out more"
-
-    #Details for the box below the banner
-    [params.landing.services]
-      title = "blog"
-      text = "El contenido de este blog, las fotos, videos, mapas, gráficos y textos están elaborados por [mi](//linkedin.com/in/mathieugabriela) -salvo que mencione lo contrario- y publicado bajo una licencia [*Creative Commons - Atribución - Compartir Igual 4.0 Internacional* (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/). El sitio lo elaboré utilizando el software libre  [*R*](//r-project.org/) y el tema de [Hugo](//gohugo.io/) ['Artists'](//github.com/digitalcraftsman/hugo-artists-theme/). Las fotos las alojé en [Flickr](//flickr.com/photos/mapa_mundi/) y los videos en [Vimeo](//vimeo.com/user71114775/). Utilizo un lenguaje no sexista porque lo que no se nombra no existe -incluyo una 'x' siempre que sea necesario-. ![](img/cc-by-sa.png)"
-    #  map_location = "Cathédrale Notre-Dame de Paris"
-
-   
-    [params.landing.feature_images]
-      #These feature images look best if there's an even number of them.
-      enable = false
-
-      [[params.landing.feature_images.tile]]
-        image = "img/201707_Varna_069_lzn.jpg"
-        title = "Europa del Este"
-        text = "La magia de los países del este europeo reside en la autenticidad."
-        url = "/alemania/proj-007-transporte-berlin"
-        button_text = "+"
-
-      [[params.landing.feature_images.tile]]
-        image = "img/201706_Deutschlandsberg_001_lzn.jpg"
-        title = "Wwoofing"
-        text = "Te cuento mi experiencia trabajando en granjas orgánicas en Austria a cambio de alojamiento y comida"
-        url = "/alemania/proj-001-museo-abierto-berlin"
-        button_text="Lee más"
-
-      [[params.landing.feature_images.tile]]
-        image = "img/IMG_20170713_184050_lzn.jpg"
-        title = "Wwoofing"
-        text = "Te cuento mi experiencia trabajando en granjas orgánicas en Austria a cambio de alojamiento y comida"
-        url = "/sermons/institutes-2-11"
-        button_text="Lee más"
-        
-      [[params.landing.feature_images.tile]]
-        image = "img/IMG_20170713_184050_lzn.jpg"
-        title = "Wwoofing"
-        text = "algo"
-        url = "/proj-000-datos"
-        button_text="Lee más"
-        
-        [[params.landing.feature_images.tile]]
-        image = "img/IMG_20170713_184050_lzn.jpg"
-        title = "Wwoofing"
-        text = "algo"
-        url = "/proj-001-museo-abierto-berlin"
-        button_text="Lee más"
-        
-    [[params.landing.feature_images.tile]]
-        image = "img/IMG_20170713_184050_lzn.jpg"
-        title = "Wwoofing"
-        text = "algo"
-        url = "/proj-002-recorrido"
-        button_text="Lee más"
-        
-        
-    [[params.landing.feature_images.tile]]
-        image = "img/IMG_20170713_184050_lzn.jpg"
-        title = "Wwoofing"
-        text = "algo"
-        url = "/proj-003-sofia"
-        button_text="Lee más"
-        
-    [[params.landing.feature_images.tile]]
-        image = "img/IMG_20170713_184050_lzn.jpg"
-        title = "Wwoofing"
-        text = "algo"
-        url = "/proj-004-london"
-        button_text="Lee más"
-        
-        
-    [[params.landing.feature_images.tile]]
-        image = "img/IMG_20170713_184050_lzn.jpg"
-        title = "Wwoofing"
-        text = "algo"
-        url = "/proj-005-thessaloniki"
-        button_text="Lee más"
-        
-        
-    [[params.landing.feature_images.tile]]
-        image = "img/IMG_20170713_184050_lzn.jpg"
-        title = "Wwoofing"
-        text = "algo"
-        url = "/proj-006-olympiastadion"
-        button_text="Lee más"
-        
-        
-    [[params.landing.feature_images.tile]]
-        image = "img/IMG_20170713_184050_lzn.jpg"
-        title = "Wwoofing"
-        text = "algo"
-        url = "/proj-007-transporte-berlin"
-        button_text="Lee más"
-        
-    [[params.landing.feature_images.tile]]
-        image = "img/IMG_20170713_184050_lzn.jpg"
-        title = "Wwoofing"
-        text = "algo"
-        url = "/proj-100-preparativos-wc"
-        button_text="Lee más"
-        
-        
-      [[params.landing.feature_images.tile]]
-        image = "img/IMG_20170713_184050_lzn.jpg"
-        title = "Wwoofing"
-        text = "algo"
-        url = "/proj-101-equipaje-wc"
-        button_text="Lee más"
-        
-        
-      [[params.landing.feature_images.tile]]
-        image = "img/IMG_20170713_184050_lzn.jpg"
-        title = "Wwoofing"
-        text = "algo"
-        url = "/proj-102-fanid-wc"
-        button_text="Lee más"
-        
-      [[params.landing.feature_images.tile]]
-        image = "img/IMG_20170713_184050_lzn.jpg"
-        title = "Wwoofing"
-        text = "algo"
-        url = "/"
-        button_text="Lee más"
-        
-     [[params.landing.feature_images.tile]]
-        image = "img/201708_Burgenland_049_lzn.jpg"
-        title = "Ruta"
-        text = "A dónde fui, cuánto gasté, en que medio de transporte me moví..."
-        url = "#"
-        button_text="Lee más"
+    #address
+    [[params.footer.addresses]]
+    address = "Montevideo"
     
-    [params.landing.CTA]
-      heading = "Escribime!"
-      message = "¿Estás planeando viajar?"
+    [[params.footer.addresses]]
+    address = "Uruguay"
 
-    [params.footer]
-      copyright = ["[CC-SA-BY 4.0 Internacional](//creativecommons.org/publicdomain/zero/1.0/)",
-                   "Design: [HTML5 UP](//html5up.net/alpha)",
-                   "[Hugo Port](//gohugo.io) by [Gabriela Mathieu](//github.com/calcita)"
-                  ]
+    
+    #contact information
+    [[params.footer.contacts]]
+    contactInfo = ""
+    
+    [[params.footer.contacts]]
+    contactInfo = "Mail: calcita@gmx.li"
 
-    [[params.links]]
-      service = "Twitter"
-      icon = "fa-twitter"
-      icon_pack = "fab"
-      link = "//twitter.com/calcita3"
 
-    [[params.links]]
-      service = "Instagram"
-      icon = "fa-instagram"
-      icon_pack = "fab"
-      link = "//facebook.com/"
-
-    [[params.links]]
-      service = "Flickr"
-      icon = "fa-flickr"
-      icon_pack = "fab"
-      link = "//flickr.com/photos/mapa_mundi/"
-
-    [[params.links]]
-      service = "Telegram"
-      icon = "fa-telegram"
-      icon_pack = "fab"
-      link = "//telegram.com/calcita3"
-
- [[params.links]]
-      service = "Vimeo"
-      icon = "fa-vimeo"
-      icon_pack = "fab"
-      link = "//vimeo.com/user71114775/"
-      
-[[params.links]]
-      service = "github"
-      icon = "fa-github"
-      icon_pack = "fab"
-      link = "calcita"
-
-[[params.links]]
-      service = "Linkedin"
-      icon = "fa-linkedin"
-      icon_pack = "fab"
-      link = "mathieugabriela"
+  # social site
+  [[params.social]]
+  icon = "ti-facebook"
+  URL = "#"
+  
+  [[params.social]]
+  icon = "ti-twitter-alt"
+  URL = "//twitter.com/calcita3"
+  
+  [[params.social]]
+  icon = "ti-linkedin"
+  URL = "//lindekin.com/mathieugabriela"
+  
+  [[params.social]]
+  icon = "ti-github"
+  URL = "//github.com/calcita"

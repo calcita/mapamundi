@@ -1,14 +1,51 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Mapa Mundi</title>
     <link>/categories/</link>
     <description>Recent content in Categories on Mapa Mundi</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>es-ES</language>
+    <lastBuildDate>Tue, 01 May 2018 07:39:12 +1000</lastBuildDate>
     
 	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Albania</title>
+      <link>/categories/albania/</link>
+      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
+      
+      <guid>/categories/albania/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alemania</title>
+      <link>/categories/alemania/</link>
+      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
+      
+      <guid>/categories/alemania/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Austria</title>
+      <link>/categories/austria/</link>
+      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
+      
+      <guid>/categories/austria/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bulgaria</title>
+      <link>/categories/bulgaria/</link>
+      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
+      
+      <guid>/categories/bulgaria/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

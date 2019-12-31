@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ex Urss on Mapa Mundi</title>
+    <title>ex-urss on Mapa Mundi</title>
     <link>/tags/ex-urss/</link>
-    <description>Recent content in Ex Urss on Mapa Mundi</description>
+    <description>Recent content in ex-urss on Mapa Mundi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-ES</language>
     <lastBuildDate>Tue, 01 May 2018 07:39:12 +1000</lastBuildDate>
@@ -13,37 +13,37 @@
     
     <item>
       <title>Kyiv</title>
-      <link>/ucrania/proj-29402-kyiv/</link>
+      <link>/proj-29402-kyiv/</link>
       <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
       
-      <guid>/ucrania/proj-29402-kyiv/</guid>
+      <guid>/proj-29402-kyiv/</guid>
       <description>Álbum de fotos</description>
     </item>
     
     <item>
       <title>Lwów</title>
-      <link>/ucrania/proj-29401-lviv/</link>
+      <link>/proj-29401-lviv/</link>
       <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
       
-      <guid>/ucrania/proj-29401-lviv/</guid>
+      <guid>/proj-29401-lviv/</guid>
       <description>Álbum de fotos</description>
     </item>
     
     <item>
       <title>Tallinn</title>
-      <link>/estonia/proj-27402-tallin/</link>
+      <link>/proj-27402-tallin/</link>
       <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
       
-      <guid>/estonia/proj-27402-tallin/</guid>
+      <guid>/proj-27402-tallin/</guid>
       <description>Álbum de fotos</description>
     </item>
     
     <item>
       <title>Tartu</title>
-      <link>/estonia/proj-27401-tartu/</link>
+      <link>/proj-27401-tartu/</link>
       <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
       
-      <guid>/estonia/proj-27401-tartu/</guid>
+      <guid>/proj-27401-tartu/</guid>
       <description>Álbum de fotos</description>
     </item>
     

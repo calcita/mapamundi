@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Madrid on Mapa Mundi</title>
+    <title>madrid on Mapa Mundi</title>
     <link>/tags/madrid/</link>
-    <description>Recent content in Madrid on Mapa Mundi</description>
+    <description>Recent content in madrid on Mapa Mundi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-ES</language>
     <lastBuildDate>Tue, 01 May 2018 07:39:12 +1000</lastBuildDate>
@@ -13,10 +13,10 @@
     
     <item>
       <title>Madrid</title>
-      <link>/espana/proj-04301-madrid/</link>
+      <link>/proj-04301-madrid/</link>
       <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
       
-      <guid>/espana/proj-04301-madrid/</guid>
+      <guid>/proj-04301-madrid/</guid>
       <description>Álbum de fotos</description>
     </item>
     

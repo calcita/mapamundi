@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Portugal on Mapa Mundi</title>
+    <title>Portugals on Mapa Mundi</title>
     <link>/portugal/</link>
-    <description>Recent content in Portugal on Mapa Mundi</description>
+    <description>Recent content in Portugals on Mapa Mundi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-ES</language>
     <lastBuildDate>Tue, 01 May 2018 07:39:12 +1000</lastBuildDate>
@@ -17,6 +17,24 @@
       <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
       
       <guid>/portugal/proj-11302-aveiro/</guid>
+      <description>Álbum de fotos</description>
+    </item>
+    
+    <item>
+      <title>Cabo da Roca</title>
+      <link>/portugal/proj-11307-cabodaroca/</link>
+      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
+      
+      <guid>/portugal/proj-11307-cabodaroca/</guid>
+      <description>Álbum de fotos</description>
+    </item>
+    
+    <item>
+      <title>Cascais</title>
+      <link>/portugal/proj-11305-cascais/</link>
+      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
+      
+      <guid>/portugal/proj-11305-cascais/</guid>
       <description>Álbum de fotos</description>
     </item>
     
@@ -48,11 +66,11 @@
     </item>
     
     <item>
-      <title>Sofia</title>
-      <link>/portugal/proj-11305-cascais/</link>
+      <title>Sintra</title>
+      <link>/portugal/proj-11306-sintra/</link>
       <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
       
-      <guid>/portugal/proj-11305-cascais/</guid>
+      <guid>/portugal/proj-11306-sintra/</guid>
       <description>Álbum de fotos</description>
     </item>
     

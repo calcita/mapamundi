@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Burgas on Mapa Mundi</title>
@@ -13,10 +13,10 @@
     
     <item>
       <title>Burgas</title>
-      <link>/bulgaria/proj-23003-burgas/</link>
+      <link>/proj-23003-burgas/</link>
       <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
       
-      <guid>/bulgaria/proj-23003-burgas/</guid>
+      <guid>/proj-23003-burgas/</guid>
       <description>Álbum de fotos</description>
     </item>
     

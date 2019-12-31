@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Saranda on Mapa Mundi</title>
+    <link>/tags/saranda/</link>
+    <description>Recent content in Saranda on Mapa Mundi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-ES</language>
+    <lastBuildDate>Tue, 01 May 2018 07:39:12 +1000</lastBuildDate>
+    
+	<atom:link href="/tags/saranda/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sarandë</title>
+      <link>/proj-22303-saranda/</link>
+      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
+      
+      <guid>/proj-22303-saranda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vlorë</title>
+      <link>/proj-22304-vlora/</link>
+      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
+      
+      <guid>/proj-22304-vlora/</guid>
+      <description>No vayan a Vlora pensando como yo que habría playa -eso decían algunos blogs- y para acortar el viaje entre Himara y Tirana.</description>
+    </item>
+    
+  </channel>
+</rss>

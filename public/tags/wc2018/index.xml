@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Wc2018 on Mapa Mundi</title>
+    <title>WC2018 on Mapa Mundi</title>
     <link>/tags/wc2018/</link>
-    <description>Recent content in Wc2018 on Mapa Mundi</description>
+    <description>Recent content in WC2018 on Mapa Mundi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-ES</language>
     <lastBuildDate>Tue, 01 May 2018 07:39:12 +1000</lastBuildDate>
@@ -13,10 +13,10 @@
     
     <item>
       <title>Ekaterimburg</title>
-      <link>/rusia/proj-30403-ekaterimburg/</link>
+      <link>/proj-30403-ekaterimburg/</link>
       <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
       
-      <guid>/rusia/proj-30403-ekaterimburg/</guid>
+      <guid>/proj-30403-ekaterimburg/</guid>
       <description>Álbum de fotos</description>
     </item>
     
@@ -26,25 +26,24 @@
       <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
       
       <guid>/posts/proj-101-equipaje-wc/</guid>
-      <description>Viajar lo más liviana posible ha sido mi lema, no siempre logré porque con el objetivo de ahorrar y comer sano la mayoría de las veces me
- condimentos: un churna, romero, hojas de laurel un puñadito de algas marinas: son un gran alimento y super livianas y ocupan muy poco espacio frutos secos yerba mate café aceite de oliva* algún producto no perecedero que no termino de comer en una ciudad y me lo llevo a la siguiente: arroz o fideos.</description>
+      <description>Viajar lo más liviana posible ha sido mi lema, no siempre logré porque con el objetivo de ahorrar y comer sano la mayoría de las veces me</description>
     </item>
     
     <item>
       <title>Moskvá</title>
-      <link>/rusia/proj-30402-moscu/</link>
+      <link>/proj-30402-moscu/</link>
       <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
       
-      <guid>/rusia/proj-30402-moscu/</guid>
+      <guid>/proj-30402-moscu/</guid>
       <description>Álbum de fotos</description>
     </item>
     
     <item>
       <title>Nizhny Novgorod</title>
-      <link>/rusia/proj-30408-nizhnynovgorod/</link>
+      <link>/proj-30408-nizhnynovgorod/</link>
       <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
       
-      <guid>/rusia/proj-30408-nizhnynovgorod/</guid>
+      <guid>/proj-30408-nizhnynovgorod/</guid>
       <description>Álbum de fotos</description>
     </item>
     
@@ -54,7 +53,43 @@
       <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
       
       <guid>/posts/proj-100-preparativos-wc/</guid>
-      <description>A unos 5 meses de haber desempacado la mochila luego de recorrer parte de Europa, estoy armando la lista de que llevar a un viaje de dos meses por Polonia, Ucrania, Bielorrusia, Lituania, Letonia, Estonia y finalmente Rusia para vivir la Copa del Mundo. Por lo que además de lo propio de un viaje tiene el agregado de los trámites que hay que hacer para ir al Mundial como espectadora y que ya me han dado más de un dolor de cabeza, cosa que contaré en otro post.</description>
+      <description>A unos 5 meses de haber desempacado la mochila luego de recorrer parte de Europa, estoy armando la lista de que llevar a un viaje de dos meses por Polonia, Ucrania, Bielorrusia, Lituania, Letonia, Estonia y finalmente Rusia para vivir la Copa del Mundo.</description>
+    </item>
+    
+    <item>
+      <title>Rostov on Don</title>
+      <link>/proj-30404-rostovondon/</link>
+      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
+      
+      <guid>/proj-30404-rostovondon/</guid>
+      <description>Álbum de fotos</description>
+    </item>
+    
+    <item>
+      <title>Samara</title>
+      <link>/proj-30405-samara/</link>
+      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
+      
+      <guid>/proj-30405-samara/</guid>
+      <description>Álbum de fotos</description>
+    </item>
+    
+    <item>
+      <title>Saransk</title>
+      <link>/proj-30406-saransk/</link>
+      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
+      
+      <guid>/proj-30406-saransk/</guid>
+      <description>Álbum de fotos</description>
+    </item>
+    
+    <item>
+      <title>Sochi</title>
+      <link>/proj-30407-sochi/</link>
+      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
+      
+      <guid>/proj-30407-sochi/</guid>
+      <description>Álbum de fotos</description>
     </item>
     
   </channel>

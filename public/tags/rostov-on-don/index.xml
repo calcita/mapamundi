@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Rostov on Don on Mapa Mundi</title>
+    <title>rostov-on-don on Mapa Mundi</title>
     <link>/tags/rostov-on-don/</link>
-    <description>Recent content in Rostov on Don on Mapa Mundi</description>
+    <description>Recent content in rostov-on-don on Mapa Mundi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-ES</language>
     <lastBuildDate>Tue, 01 May 2018 07:39:12 +1000</lastBuildDate>
@@ -13,10 +13,10 @@
     
     <item>
       <title>Rostov on Don</title>
-      <link>/rusia/proj-30404-rostovondon/</link>
+      <link>/proj-30404-rostovondon/</link>
       <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
       
-      <guid>/rusia/proj-30404-rostovondon/</guid>
+      <guid>/proj-30404-rostovondon/</guid>
       <description>Álbum de fotos</description>
     </item>
     

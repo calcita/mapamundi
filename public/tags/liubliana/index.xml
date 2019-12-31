@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Liubliana on Mapa Mundi</title>
+    <title>liubliana on Mapa Mundi</title>
     <link>/tags/liubliana/</link>
-    <description>Recent content in Liubliana on Mapa Mundi</description>
+    <description>Recent content in liubliana on Mapa Mundi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-ES</language>
     <lastBuildDate>Tue, 01 May 2018 07:39:12 +1000</lastBuildDate>
@@ -13,10 +13,10 @@
     
     <item>
       <title>Ljubljana</title>
-      <link>/eslovenia/proj-20301-ljubljana/</link>
+      <link>/proj-20301-ljubljana/</link>
       <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
       
-      <guid>/eslovenia/proj-20301-ljubljana/</guid>
+      <guid>/proj-20301-ljubljana/</guid>
       <description>Álbum de fotos</description>
     </item>
     

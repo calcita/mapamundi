@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Lviv on Mapa Mundi</title>
+    <title>lviv on Mapa Mundi</title>
     <link>/tags/lviv/</link>
-    <description>Recent content in Lviv on Mapa Mundi</description>
+    <description>Recent content in lviv on Mapa Mundi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-ES</language>
     <lastBuildDate>Tue, 01 May 2018 07:39:12 +1000</lastBuildDate>
@@ -13,10 +13,10 @@
     
     <item>
       <title>Lwów</title>
-      <link>/ucrania/proj-29401-lviv/</link>
+      <link>/proj-29401-lviv/</link>
       <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
       
-      <guid>/ucrania/proj-29401-lviv/</guid>
+      <guid>/proj-29401-lviv/</guid>
       <description>Álbum de fotos</description>
     </item>
     

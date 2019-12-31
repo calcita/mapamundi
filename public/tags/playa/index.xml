@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Playa on Mapa Mundi</title>
+    <title>playa on Mapa Mundi</title>
     <link>/tags/playa/</link>
-    <description>Recent content in Playa on Mapa Mundi</description>
+    <description>Recent content in playa on Mapa Mundi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-ES</language>
     <lastBuildDate>Tue, 01 May 2018 07:39:12 +1000</lastBuildDate>
@@ -13,37 +13,55 @@
     
     <item>
       <title>Burgas</title>
-      <link>/bulgaria/proj-23003-burgas/</link>
+      <link>/proj-23003-burgas/</link>
       <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
       
-      <guid>/bulgaria/proj-23003-burgas/</guid>
+      <guid>/proj-23003-burgas/</guid>
       <description>Álbum de fotos</description>
     </item>
     
     <item>
-      <title>Split</title>
-      <link>/croacia/proj-21302-split/</link>
+      <title>Himarë</title>
+      <link>/proj-22302-himara/</link>
       <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
       
-      <guid>/croacia/proj-21302-split/</guid>
+      <guid>/proj-22302-himara/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sarandë</title>
+      <link>/proj-22303-saranda/</link>
+      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
+      
+      <guid>/proj-22303-saranda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Split</title>
+      <link>/proj-21302-split/</link>
+      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
+      
+      <guid>/proj-21302-split/</guid>
       <description>Álbum de fotos</description>
     </item>
     
     <item>
       <title>Thessaloniki &amp; Posidi</title>
-      <link>/grecia/proj-12301-thessaloniki/</link>
+      <link>/proj-12301-thessaloniki/</link>
       <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
       
-      <guid>/grecia/proj-12301-thessaloniki/</guid>
+      <guid>/proj-12301-thessaloniki/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Varna</title>
-      <link>/bulgaria/proj-23002-varna/</link>
+      <link>/proj-23002-varna/</link>
       <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
       
-      <guid>/bulgaria/proj-23002-varna/</guid>
+      <guid>/proj-23002-varna/</guid>
       <description>Álbum de fotos</description>
     </item>
     
