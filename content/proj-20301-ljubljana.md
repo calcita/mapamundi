@@ -1,10 +1,16 @@
 ---
 title: "Ljubljana"
-subtitle: "Ministry with Children"
 date: 2018-05-01T07:39:12+10:00
-images: [/img/proj/ljubljana/201707_Ljubljana_168_lzn.jpg]
-tags: ["liubliana"]
-draft: false
+description: ""
+type: "post"
+image: "imgaes/eslovenia/201707_Ljubljana_168_lzn.jpg"
+categories: 
+  - "Eslovenia"
+tags:
+  - "Liubiana"
+  - "Europa"
+  - "Europa del Este"
+  - "Ex-Yugoslavia"
 ---
 
 

@@ -1,15 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ex-urss on Mapa Mundi</title>
+    <title>Ex-URSS on Mapa Mundi</title>
     <link>/tags/ex-urss/</link>
-    <description>Recent content in ex-urss on Mapa Mundi</description>
+    <description>Recent content in Ex-URSS on Mapa Mundi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-ES</language>
     <lastBuildDate>Tue, 01 May 2018 07:39:12 +1000</lastBuildDate>
     
 	<atom:link href="/tags/ex-urss/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Ekaterimburg</title>
+      <link>/proj-30403-ekaterimburg/</link>
+      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
+      
+      <guid>/proj-30403-ekaterimburg/</guid>
+      <description>Álbum de fotos</description>
+    </item>
     
     <item>
       <title>Kyiv</title>
@@ -30,6 +39,78 @@
     </item>
     
     <item>
+      <title>Moskvá</title>
+      <link>/proj-30402-moscu/</link>
+      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
+      
+      <guid>/proj-30402-moscu/</guid>
+      <description>Álbum de fotos</description>
+    </item>
+    
+    <item>
+      <title>Nizhny Novgorod</title>
+      <link>/proj-30408-nizhnynovgorod/</link>
+      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
+      
+      <guid>/proj-30408-nizhnynovgorod/</guid>
+      <description>Álbum de fotos</description>
+    </item>
+    
+    <item>
+      <title>Rostov on Don</title>
+      <link>/proj-30404-rostovondon/</link>
+      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
+      
+      <guid>/proj-30404-rostovondon/</guid>
+      <description>Álbum de fotos</description>
+    </item>
+    
+    <item>
+      <title>Rīga</title>
+      <link>/proj-26401-riga/</link>
+      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
+      
+      <guid>/proj-26401-riga/</guid>
+      <description>Álbum de fotos</description>
+    </item>
+    
+    <item>
+      <title>Samara</title>
+      <link>/proj-30405-samara/</link>
+      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
+      
+      <guid>/proj-30405-samara/</guid>
+      <description>Álbum de fotos</description>
+    </item>
+    
+    <item>
+      <title>Sankt Peterburg</title>
+      <link>/proj-30401-petersburgo/</link>
+      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
+      
+      <guid>/proj-30401-petersburgo/</guid>
+      <description>Álbum de fotos</description>
+    </item>
+    
+    <item>
+      <title>Saransk</title>
+      <link>/proj-30406-saransk/</link>
+      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
+      
+      <guid>/proj-30406-saransk/</guid>
+      <description>Álbum de fotos</description>
+    </item>
+    
+    <item>
+      <title>Sochi</title>
+      <link>/proj-30407-sochi/</link>
+      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
+      
+      <guid>/proj-30407-sochi/</guid>
+      <description>Álbum de fotos</description>
+    </item>
+    
+    <item>
       <title>Tallinn</title>
       <link>/proj-27402-tallin/</link>
       <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
@@ -44,6 +125,15 @@
       <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
       
       <guid>/proj-27401-tartu/</guid>
+      <description>Álbum de fotos</description>
+    </item>
+    
+    <item>
+      <title>Vilnius</title>
+      <link>/proj-25401-vilnus/</link>
+      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
+      
+      <guid>/proj-25401-vilnus/</guid>
       <description>Álbum de fotos</description>
     </item>
     

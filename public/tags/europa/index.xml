@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Europa on Mapa Mundi</title>
+    <title>europa on Mapa Mundi</title>
     <link>/tags/europa/</link>
-    <description>Recent content in Europa on Mapa Mundi</description>
+    <description>Recent content in europa on Mapa Mundi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-ES</language>
     <lastBuildDate>Tue, 01 May 2018 07:39:12 +1000</lastBuildDate>
@@ -21,6 +21,24 @@
     </item>
     
     <item>
+      <title>Aveiro</title>
+      <link>/proj-11302-aveiro/</link>
+      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
+      
+      <guid>/proj-11302-aveiro/</guid>
+      <description>Álbum de fotos</description>
+    </item>
+    
+    <item>
+      <title>Barcelona</title>
+      <link>/proj-04302-barcelona/</link>
+      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
+      
+      <guid>/proj-04302-barcelona/</guid>
+      <description>Álbum de fotos</description>
+    </item>
+    
+    <item>
       <title>Berlin: un museo a cielo abierto</title>
       <link>/proj-07301-museo-abierto-berlin/</link>
       <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
@@ -28,6 +46,33 @@
       <guid>/proj-07301-museo-abierto-berlin/</guid>
       <description>Mientras estuve en Berlin en Uruguay pasaron muchas cosas:
  Otra vez un tipo asesinó a su pareja, otra vez un tipo asesinó a su pareja, otra vez un tipo asesinó a su ex-pareja, otra vez un tipo asesinó a su ex-pareja, otra vez un hombre mató a una mujer solo por el hecho de ser mujer.</description>
+    </item>
+    
+    <item>
+      <title>Cabo da Roca</title>
+      <link>/proj-11307-cabodaroca/</link>
+      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
+      
+      <guid>/proj-11307-cabodaroca/</guid>
+      <description>Álbum de fotos</description>
+    </item>
+    
+    <item>
+      <title>Cascais</title>
+      <link>/proj-11305-cascais/</link>
+      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
+      
+      <guid>/proj-11305-cascais/</guid>
+      <description>Álbum de fotos</description>
+    </item>
+    
+    <item>
+      <title>Coimbra</title>
+      <link>/proj-11303-coimbra/</link>
+      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
+      
+      <guid>/proj-11303-coimbra/</guid>
+      <description>Álbum de fotos</description>
     </item>
     
     <item>
@@ -58,12 +103,30 @@
     </item>
     
     <item>
+      <title>Dubrovnik</title>
+      <link>/proj-21303-dubrovnik/</link>
+      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
+      
+      <guid>/proj-21303-dubrovnik/</guid>
+      <description>Álbum de fotos</description>
+    </item>
+    
+    <item>
       <title>EE &#43; Wwoofing</title>
       <link>/mapa-esteeuropa/</link>
       <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
       
       <guid>/mapa-esteeuropa/</guid>
       <description>52 destinos -algunos repetidos-, 10 países, gran parte en el este de Europa con dos paradas al sur de Austria para ser Wwoofer en granjas orgánicas.</description>
+    </item>
+    
+    <item>
+      <title>Ekaterimburg</title>
+      <link>/proj-30403-ekaterimburg/</link>
+      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
+      
+      <guid>/proj-30403-ekaterimburg/</guid>
+      <description>Álbum de fotos</description>
     </item>
     
     <item>
@@ -103,12 +166,102 @@
     </item>
     
     <item>
+      <title>Kotor</title>
+      <link>/proj-23301-kotor/</link>
+      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
+      
+      <guid>/proj-23301-kotor/</guid>
+      <description>Álbum de fotos</description>
+    </item>
+    
+    <item>
+      <title>Kyiv</title>
+      <link>/proj-29402-kyiv/</link>
+      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
+      
+      <guid>/proj-29402-kyiv/</guid>
+      <description>Álbum de fotos</description>
+    </item>
+    
+    <item>
+      <title>Lisboa</title>
+      <link>/proj-11304-lisboa/</link>
+      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
+      
+      <guid>/proj-11304-lisboa/</guid>
+      <description>Álbum de fotos</description>
+    </item>
+    
+    <item>
+      <title>Ljubljana</title>
+      <link>/proj-20301-ljubljana/</link>
+      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
+      
+      <guid>/proj-20301-ljubljana/</guid>
+      <description>Álbum de fotos</description>
+    </item>
+    
+    <item>
+      <title>London</title>
+      <link>/proj-25301-london/</link>
+      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
+      
+      <guid>/proj-25301-london/</guid>
+      <description>Álbum de fotos</description>
+    </item>
+    
+    <item>
+      <title>Lwów</title>
+      <link>/proj-29401-lviv/</link>
+      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
+      
+      <guid>/proj-29401-lviv/</guid>
+      <description>Álbum de fotos</description>
+    </item>
+    
+    <item>
+      <title>Madrid</title>
+      <link>/proj-04301-madrid/</link>
+      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
+      
+      <guid>/proj-04301-madrid/</guid>
+      <description>Álbum de fotos</description>
+    </item>
+    
+    <item>
+      <title>Maribor</title>
+      <link>/proj-20302-maribor/</link>
+      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
+      
+      <guid>/proj-20302-maribor/</guid>
+      <description>Álbum de fotos</description>
+    </item>
+    
+    <item>
+      <title>Moskvá</title>
+      <link>/proj-30402-moscu/</link>
+      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
+      
+      <guid>/proj-30402-moscu/</guid>
+      <description>Álbum de fotos</description>
+    </item>
+    
+    <item>
       <title>München</title>
       <link>/proj-07304-munchen/</link>
       <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
       
       <guid>/proj-07304-munchen/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Nizhny Novgorod</title>
+      <link>/proj-30408-nizhnynovgorod/</link>
+      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
+      
+      <guid>/proj-30408-nizhnynovgorod/</guid>
+      <description>Álbum de fotos</description>
     </item>
     
     <item>
@@ -121,11 +274,119 @@
     </item>
     
     <item>
+      <title>Porto</title>
+      <link>/proj-11301-porto/</link>
+      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
+      
+      <guid>/proj-11301-porto/</guid>
+      <description>Álbum de fotos</description>
+    </item>
+    
+    <item>
+      <title>Rostov on Don</title>
+      <link>/proj-30404-rostovondon/</link>
+      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
+      
+      <guid>/proj-30404-rostovondon/</guid>
+      <description>Álbum de fotos</description>
+    </item>
+    
+    <item>
+      <title>Rīga</title>
+      <link>/proj-26401-riga/</link>
+      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
+      
+      <guid>/proj-26401-riga/</guid>
+      <description>Álbum de fotos</description>
+    </item>
+    
+    <item>
+      <title>Samara</title>
+      <link>/proj-30405-samara/</link>
+      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
+      
+      <guid>/proj-30405-samara/</guid>
+      <description>Álbum de fotos</description>
+    </item>
+    
+    <item>
+      <title>Sankt Peterburg</title>
+      <link>/proj-30401-petersburgo/</link>
+      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
+      
+      <guid>/proj-30401-petersburgo/</guid>
+      <description>Álbum de fotos</description>
+    </item>
+    
+    <item>
       <title>Sarandë</title>
       <link>/proj-22303-saranda/</link>
       <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
       
       <guid>/proj-22303-saranda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Saransk</title>
+      <link>/proj-30406-saransk/</link>
+      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
+      
+      <guid>/proj-30406-saransk/</guid>
+      <description>Álbum de fotos</description>
+    </item>
+    
+    <item>
+      <title>Sintra</title>
+      <link>/proj-11306-sintra/</link>
+      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
+      
+      <guid>/proj-11306-sintra/</guid>
+      <description>Álbum de fotos</description>
+    </item>
+    
+    <item>
+      <title>Sochi</title>
+      <link>/proj-30407-sochi/</link>
+      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
+      
+      <guid>/proj-30407-sochi/</guid>
+      <description>Álbum de fotos</description>
+    </item>
+    
+    <item>
+      <title>Split</title>
+      <link>/proj-21302-split/</link>
+      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
+      
+      <guid>/proj-21302-split/</guid>
+      <description>Álbum de fotos</description>
+    </item>
+    
+    <item>
+      <title>Tallinn</title>
+      <link>/proj-27402-tallin/</link>
+      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
+      
+      <guid>/proj-27402-tallin/</guid>
+      <description>Álbum de fotos</description>
+    </item>
+    
+    <item>
+      <title>Tartu</title>
+      <link>/proj-27401-tartu/</link>
+      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
+      
+      <guid>/proj-27401-tartu/</guid>
+      <description>Álbum de fotos</description>
+    </item>
+    
+    <item>
+      <title>Thessaloniki &amp; Posidi</title>
+      <link>/proj-12301-thessaloniki/</link>
+      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
+      
+      <guid>/proj-12301-thessaloniki/</guid>
       <description></description>
     </item>
     
@@ -139,6 +400,24 @@
     </item>
     
     <item>
+      <title>Trogir</title>
+      <link>/proj-21304-trogir/</link>
+      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
+      
+      <guid>/proj-21304-trogir/</guid>
+      <description>Álbum de fotos</description>
+    </item>
+    
+    <item>
+      <title>Vilnius</title>
+      <link>/proj-25401-vilnus/</link>
+      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
+      
+      <guid>/proj-25401-vilnus/</guid>
+      <description>Álbum de fotos</description>
+    </item>
+    
+    <item>
       <title>Vlorë</title>
       <link>/proj-22304-vlora/</link>
       <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
@@ -148,12 +427,30 @@
     </item>
     
     <item>
+      <title>Warszawa</title>
+      <link>/proj-15401-warszawa/</link>
+      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
+      
+      <guid>/proj-15401-warszawa/</guid>
+      <description>Álbum de fotos</description>
+    </item>
+    
+    <item>
       <title>Wien</title>
       <link>/proj-13304-wien/</link>
       <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
       
       <guid>/proj-13304-wien/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Zagreb</title>
+      <link>/proj-21301-zagreb/</link>
+      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
+      
+      <guid>/proj-21301-zagreb/</guid>
+      <description>Álbum de fotos</description>
     </item>
     
     <item>

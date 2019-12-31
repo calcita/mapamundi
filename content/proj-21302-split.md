@@ -1,10 +1,17 @@
 ---
 title: "Split"
-subtitle: "Ministry with Children"
 date: 2018-05-01T07:39:12+10:00
-images: [/img/proj/split/201708_Split_048_lzn.jpg]
-tags: ["split","playa", "yugoslavia"]
-draft: false
+description: ""
+type: "post"
+image: "imgaes/croacia/201708_Split_048_lzn.jpg"
+categories: 
+  - "Croacia"
+tags:
+  - "Split"
+  - "Europa"
+  - "Europa del Este"
+  - "Ex-Yugoslavia"
+  - "Playa"
 ---
 
 **Álbum de fotos**

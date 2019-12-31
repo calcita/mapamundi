@@ -1,10 +1,16 @@
 ---
 title: "Lwów"
-subtitle: "Lviv"
 date: 2018-05-01T07:39:12+10:00
-images: [/img/proj/lwów/201805_Lwow_0044_lzn.jpg]
-tags: ["lviv","ex-urss"]
-draft: false
+description: ""
+type: "post"
+image: "imgaes/ucrania/201805_Lwow_0044_lzn.jpg"
+categories: 
+  - "Ucrania"
+tags:
+  - "Lviv"
+  - "Europa"
+  - "Europa del Este"
+  - "Ex-URSS"
 ---
 
 

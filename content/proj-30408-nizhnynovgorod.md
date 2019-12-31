@@ -1,10 +1,18 @@
 ---
 title: "Nizhny Novgorod"
-subtitle: "Copa del Mundo"
 date: 2018-05-01T07:39:12+10:00
-images: [/img/proj/nizhny/201807_NizhnyNovgorod_0015_lzn.jpg]
-tags: ["nizhny-novgorod","WC2018"]
-draft: false
+description: "Copa del Mundo"
+type: "post"
+image: "imgaes/rusia/201807_NizhnyNovgorod_0015_lzn.jpg"
+categories: 
+  - "Rusia"
+tags:
+  - "Nizhny Novgorod"
+  - "Europa"
+  - "Europa del Este"
+  - "Ex-URSS"
+  - "Fútbol"
+  - "WC2018"
 ---
 
 **Álbum de fotos**

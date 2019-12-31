@@ -1,10 +1,16 @@
 ---
 title: "Zagreb"
-subtitle: "Cuadros rojos y blancos"
 date: 2018-05-01T07:39:12+10:00
-images: [/img/proj/zagreb/201707_Zagreb_135_lzn.jpg]
-tags: ["zagreb", "yugoslavia"]
-draft: false
+description: "Cuadros rojos y blancos"
+type: "post"
+image: "imgaes/croacia/201707_Zagreb_135_lzn.jpg"
+categories: 
+  - "Croacia"
+tags:
+  - "Split"
+  - "Europa"
+  - "Europa del Este"
+  - "Ex-Yugoslavia"
 ---
 
 **Álbum de fotos**

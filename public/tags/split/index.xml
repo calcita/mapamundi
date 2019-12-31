@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>split on Mapa Mundi</title>
+    <title>Split on Mapa Mundi</title>
     <link>/tags/split/</link>
-    <description>Recent content in split on Mapa Mundi</description>
+    <description>Recent content in Split on Mapa Mundi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-ES</language>
     <lastBuildDate>Tue, 01 May 2018 07:39:12 +1000</lastBuildDate>
@@ -17,6 +17,15 @@
       <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
       
       <guid>/proj-21302-split/</guid>
+      <description>Álbum de fotos</description>
+    </item>
+    
+    <item>
+      <title>Zagreb</title>
+      <link>/proj-21301-zagreb/</link>
+      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
+      
+      <guid>/proj-21301-zagreb/</guid>
       <description>Álbum de fotos</description>
     </item>
     

@@ -1,10 +1,18 @@
 ---
 title: "Rostov on Don"
-subtitle: "Copa del Mundo"
 date: 2018-05-01T07:39:12+10:00
-images: [/img/proj/rostov/201806_RostovOnDon_0072_lzn.jpg]
-tags: ["rostov-on-don","WC2018"]
-draft: false
+description: "Copa del Mundo"
+type: "post"
+image: "imgaes/rusia/201806_RostovOnDon_0072_lzn.jpg"
+categories: 
+  - "Rusia"
+tags:
+  - "Rostov del Don"
+  - "Europa"
+  - "Europa del Este"
+  - "Ex-URSS"
+  - "Fútbol"
+  - "WC2018"
 ---
 
 **Álbum de fotos**

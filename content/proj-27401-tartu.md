@@ -1,10 +1,16 @@
 ---
 title: "Tartu"
-subtitle: "Ministry with Children"
 date: 2018-05-01T07:39:12+10:00
-images: [/img/proj/tartu/201806_Tartu_0057_lzn.jpg]
-tags: ["tartu","ex-urss"]
-draft: false
+description: ""
+type: "post"
+image: "images/estonia/201806_Tartu_0057_lzn.jpg"
+categories: 
+  - "Estonia"
+tags:
+  - "Tartu"
+  - "Europa"
+  - "Arte Callejero"
+  - "Ex-URSS"
 ---
 
 **Álbum de fotos**

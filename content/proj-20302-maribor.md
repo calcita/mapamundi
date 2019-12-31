@@ -1,10 +1,16 @@
 ---
 title: "Maribor"
-subtitle: "Ministry with Children"
 date: 2018-05-01T07:39:12+10:00
-images: [/img/proj/maribor/201706_Maribor_013_lzn.jpg]
-tags: ["maribor","yugoslavia"]
-draft: false
+description: ""
+type: "post"
+image: "imgaes/eslovenia/201706_Maribor_013_lzn.jpg"
+categories: 
+  - "Eslovenia"
+tags:
+  - "Maribor"
+  - "Europa"
+  - "Europa del Este"
+  - "Ex-Yugoslavia"
 ---
 
 **Álbum de fotos**

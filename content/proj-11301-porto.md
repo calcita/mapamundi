@@ -1,10 +1,15 @@
 ---
 title: "Porto"
-subtitle: "Aromas"
 date: 2018-05-01T07:39:12+10:00
-images: [/img/freely-10057.jpg]
-tags: ["porto"]
-draft: false
+description: "Aromas y azulejos"
+type: "post"
+image: "imgaes/portugal/.jpg"
+categories: 
+  - "Portugal"
+tags:
+  - "Porto"
+  - "Europa"
+
 ---
 
 

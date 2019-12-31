@@ -1,10 +1,14 @@
 ---
 title: "London"
-subtitle: "Ministry with Children"
 date: 2018-05-01T07:39:12+10:00
-images: [/img/proj/london/201710_London_339_lzn.jpg]
-tags: ["two_column","ministry"]
-draft: false
+description: ""
+type: "post"
+image: "imgaes/inglaterra/201710_London_339_lzn.jpg"
+categories: 
+  - "Inglaterra"
+tags:
+  - "Londres"
+  - "Europa"
 ---
 
 **Álbum de fotos**

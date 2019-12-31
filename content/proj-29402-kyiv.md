@@ -1,10 +1,16 @@
 ---
 title: "Kyiv"
-subtitle: "Kiev"
 date: 2018-05-01T07:39:12+10:00
-images: [/img/proj/kyiv/201805_Kiev_0191_lzn.jpg]
-tags: ["kiev","ex-urss"]
-draft: false
+description: ""
+type: "post"
+image: "imgaes/ucrania/201805_Kiev_0191_lzn.jpg"
+categories: 
+  - "Ucrania"
+tags:
+  - "Kiev"
+  - "Europa"
+  - "Europa del Este"
+  - "Ex-URSS"
 ---
 
 

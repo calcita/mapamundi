@@ -23,6 +23,11 @@
   </url>
   
   <url>
+    <loc>/tags/arte-callejero/</loc>
+    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/proj-07305-augsburg/</loc>
     <lastmod>2018-05-01T07:39:12+10:00</lastmod>
   </url>
@@ -38,22 +43,22 @@
   </url>
   
   <url>
-    <loc>/proj-11302-aveiro/</loc>
-    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/aveiro/</loc>
     <lastmod>2018-05-01T07:39:12+10:00</lastmod>
   </url>
   
   <url>
-    <loc>/proj-04302-barcelona/</loc>
+    <loc>/proj-11302-aveiro/</loc>
     <lastmod>2018-05-01T07:39:12+10:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/barcelona/</loc>
+    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/proj-04302-barcelona/</loc>
     <lastmod>2018-05-01T07:39:12+10:00</lastmod>
   </url>
   
@@ -83,7 +88,17 @@
   </url>
   
   <url>
+    <loc>/tags/cabo-da-roca/</loc>
+    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/proj-11307-cabodaroca/</loc>
+    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/cascais/</loc>
     <lastmod>2018-05-01T07:39:12+10:00</lastmod>
   </url>
   
@@ -98,12 +113,12 @@
   </url>
   
   <url>
-    <loc>/proj-11303-coimbra/</loc>
+    <loc>/tags/coimbra/</loc>
     <lastmod>2018-05-01T07:39:12+10:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/coimbra/</loc>
+    <loc>/proj-11303-coimbra/</loc>
     <lastmod>2018-05-01T07:39:12+10:00</lastmod>
   </url>
   
@@ -113,7 +128,17 @@
   </url>
   
   <url>
+    <loc>/categories/croacia/</loc>
+    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/posts/proj-000-datos/</loc>
+    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/deutschlandsberg/</loc>
     <lastmod>2018-05-01T07:39:12+10:00</lastmod>
   </url>
   
@@ -133,12 +158,12 @@
   </url>
   
   <url>
-    <loc>/proj-21303-dubrovnik/</loc>
+    <loc>/tags/dubrovnik/</loc>
     <lastmod>2018-05-01T07:39:12+10:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/dubrovnik/</loc>
+    <loc>/proj-21303-dubrovnik/</loc>
     <lastmod>2018-05-01T07:39:12+10:00</lastmod>
   </url>
   
@@ -169,6 +194,21 @@
   
   <url>
     <loc>/posts/proj-101-equipaje-wc/</loc>
+    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/eslovenia/</loc>
+    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/espa%C3%B1a/</loc>
+    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/estonia/</loc>
     <lastmod>2018-05-01T07:39:12+10:00</lastmod>
   </url>
   
@@ -213,7 +253,7 @@
   </url>
   
   <url>
-    <loc>/tags/grecia/</loc>
+    <loc>/categories/grecia/</loc>
     <lastmod>2018-05-01T07:39:12+10:00</lastmod>
   </url>
   
@@ -238,12 +278,12 @@
   </url>
   
   <url>
-    <loc>/tags/kiev/</loc>
+    <loc>/categories/inglaterra/</loc>
     <lastmod>2018-05-01T07:39:12+10:00</lastmod>
   </url>
   
   <url>
-    <loc>/proj-23301-kotor/</loc>
+    <loc>/tags/kiev/</loc>
     <lastmod>2018-05-01T07:39:12+10:00</lastmod>
   </url>
   
@@ -253,12 +293,17 @@
   </url>
   
   <url>
+    <loc>/proj-23301-kotor/</loc>
+    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/proj-29402-kyiv/</loc>
     <lastmod>2018-05-01T07:39:12+10:00</lastmod>
   </url>
   
   <url>
-    <loc>/proj-11304-lisboa/</loc>
+    <loc>/categories/letonia/</loc>
     <lastmod>2018-05-01T07:39:12+10:00</lastmod>
   </url>
   
@@ -268,7 +313,17 @@
   </url>
   
   <url>
-    <loc>/tags/liubliana/</loc>
+    <loc>/proj-11304-lisboa/</loc>
+    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/lituania/</loc>
+    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/liubiana/</loc>
     <lastmod>2018-05-01T07:39:12+10:00</lastmod>
   </url>
   
@@ -283,6 +338,11 @@
   </url>
   
   <url>
+    <loc>/tags/londres/</loc>
+    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tags/lviv/</loc>
     <lastmod>2018-05-01T07:39:12+10:00</lastmod>
   </url>
@@ -293,12 +353,12 @@
   </url>
   
   <url>
-    <loc>/proj-04301-madrid/</loc>
+    <loc>/tags/madrid/</loc>
     <lastmod>2018-05-01T07:39:12+10:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/madrid/</loc>
+    <loc>/proj-04301-madrid/</loc>
     <lastmod>2018-05-01T07:39:12+10:00</lastmod>
   </url>
   
@@ -313,17 +373,22 @@
   </url>
   
   <url>
-    <loc>/proj-20302-maribor/</loc>
-    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/maribor/</loc>
     <lastmod>2018-05-01T07:39:12+10:00</lastmod>
   </url>
   
   <url>
+    <loc>/proj-20302-maribor/</loc>
+    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tags/ministry/</loc>
+    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/montenegro/</loc>
     <lastmod>2018-05-01T07:39:12+10:00</lastmod>
   </url>
   
@@ -348,12 +413,12 @@
   </url>
   
   <url>
-    <loc>/proj-30408-nizhnynovgorod/</loc>
+    <loc>/tags/nizhny-novgorod/</loc>
     <lastmod>2018-05-01T07:39:12+10:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/nizhny-novgorod/</loc>
+    <loc>/proj-30408-nizhnynovgorod/</loc>
     <lastmod>2018-05-01T07:39:12+10:00</lastmod>
   </url>
   
@@ -368,12 +433,22 @@
   </url>
   
   <url>
-    <loc>/proj-11301-porto/</loc>
+    <loc>/categories/polonia/</loc>
     <lastmod>2018-05-01T07:39:12+10:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/porto/</loc>
+    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/proj-11301-porto/</loc>
+    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/portugal/</loc>
     <lastmod>2018-05-01T07:39:12+10:00</lastmod>
   </url>
   
@@ -398,12 +473,12 @@
   </url>
   
   <url>
-    <loc>/proj-30404-rostovondon/</loc>
+    <loc>/tags/rostov-del-don/</loc>
     <lastmod>2018-05-01T07:39:12+10:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/rostov-on-don/</loc>
+    <loc>/proj-30404-rostovondon/</loc>
     <lastmod>2018-05-01T07:39:12+10:00</lastmod>
   </url>
   
@@ -413,12 +488,32 @@
   </url>
   
   <url>
+    <loc>/categories/rusia/</loc>
+    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/proj-26401-riga/</loc>
     <lastmod>2018-05-01T07:39:12+10:00</lastmod>
   </url>
   
   <url>
+    <loc>/tags/samara/</loc>
+    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/proj-30405-samara/</loc>
+    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/san-petersburgo/</loc>
+    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/proj-30401-petersburgo/</loc>
     <lastmod>2018-05-01T07:39:12+10:00</lastmod>
   </url>
   
@@ -433,12 +528,17 @@
   </url>
   
   <url>
+    <loc>/tags/saransk/</loc>
+    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/proj-30406-saransk/</loc>
     <lastmod>2018-05-01T07:39:12+10:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/saransk/</loc>
+    <loc>/tags/sintra/</loc>
     <lastmod>2018-05-01T07:39:12+10:00</lastmod>
   </url>
   
@@ -453,12 +553,12 @@
   </url>
   
   <url>
-    <loc>/proj-30407-sochi/</loc>
+    <loc>/tags/sochi/</loc>
     <lastmod>2018-05-01T07:39:12+10:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/sochi/</loc>
+    <loc>/proj-30407-sochi/</loc>
     <lastmod>2018-05-01T07:39:12+10:00</lastmod>
   </url>
   
@@ -473,17 +573,12 @@
   </url>
   
   <url>
-    <loc>/proj-30401-petersburgo/</loc>
+    <loc>/tags/split/</loc>
     <lastmod>2018-05-01T07:39:12+10:00</lastmod>
   </url>
   
   <url>
     <loc>/proj-21302-split/</loc>
-    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/split/</loc>
     <lastmod>2018-05-01T07:39:12+10:00</lastmod>
   </url>
   
@@ -503,12 +598,17 @@
   </url>
   
   <url>
+    <loc>/tags/tartu/</loc>
+    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/proj-27401-tartu/</loc>
     <lastmod>2018-05-01T07:39:12+10:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/tartu/</loc>
+    <loc>/tags/tesal%C3%B3nica/</loc>
     <lastmod>2018-05-01T07:39:12+10:00</lastmod>
   </url>
   
@@ -528,12 +628,12 @@
   </url>
   
   <url>
-    <loc>/proj-21304-trogir/</loc>
+    <loc>/tags/trogir/</loc>
     <lastmod>2018-05-01T07:39:12+10:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/trogir/</loc>
+    <loc>/proj-21304-trogir/</loc>
     <lastmod>2018-05-01T07:39:12+10:00</lastmod>
   </url>
   
@@ -543,7 +643,17 @@
   </url>
   
   <url>
+    <loc>/categories/ucrania/</loc>
+    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/proj-23002-varna/</loc>
+    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/varsovia/</loc>
     <lastmod>2018-05-01T07:39:12+10:00</lastmod>
   </url>
   
@@ -583,17 +693,7 @@
   </url>
   
   <url>
-    <loc>/tags/yugoslavia/</loc>
-    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/proj-21301-zagreb/</loc>
-    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/zagreb/</loc>
     <lastmod>2018-05-01T07:39:12+10:00</lastmod>
   </url>
   

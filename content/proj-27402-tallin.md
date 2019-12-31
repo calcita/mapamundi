@@ -1,10 +1,16 @@
 ---
 title: "Tallinn"
-subtitle: "Ministry with Children"
 date: 2018-05-01T07:39:12+10:00
-images: [/img/proj/tallinn/201806_Tallin_0114_lzn.jpg]
-tags: ["tallin","ex-urss"]
-draft: false
+description: ""
+type: "post"
+image: "images/estonia/201806_Tallin_0114_lzn.jpg"
+categories: 
+  - "Estonia"
+tags:
+  - "Tallin"
+  - "Europa"
+  - "Arte Callejero"
+  - "Ex-URSS"
 ---
 
 

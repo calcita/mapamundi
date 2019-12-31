@@ -1,10 +1,14 @@
 ---
 title: "Barcelona"
-subtitle: "Ministry with Children"
 date: 2018-05-01T07:39:12+10:00
-images: [/img/proj/barcelona/201706_Barcelona_040_lzn.jpg]
-tags: ["barcelona","ministry"]
-draft: false
+description: ""
+type: "post"
+image: "imgaes/espana/201706_Barcelona_040_lzn.jpg"
+categories: 
+  - "España"
+tags:
+  - "Barcelona"
+  - "Europa"
 ---
 
 

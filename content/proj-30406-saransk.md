@@ -1,10 +1,18 @@
 ---
 title: "Saransk"
-subtitle: "Copa del Mundo"
 date: 2018-05-01T07:39:12+10:00
-images: [/img/proj/saransk/201806_Saransk_0020_lzn.jpg]
-tags: ["saransk","WC2018"]
-draft: false
+description: "Copa del Mundo"
+type: "post"
+image: "imgaes/rusia/201806_Saransk_0020_lzn.jpg"
+categories: 
+  - "Rusia"
+tags:
+  - "Saransk"
+  - "Europa"
+  - "Europa del Este"
+  - "Ex-URSS"
+  - "Fútbol"
+  - "WC2018"
 ---
 
 **Álbum de fotos**

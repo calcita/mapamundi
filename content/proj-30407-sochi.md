@@ -1,10 +1,18 @@
 ---
 title: "Sochi"
-subtitle: "Copa del Mundo"
 date: 2018-05-01T07:39:12+10:00
-images: [/img/proj/sochi/201806_Sochi_0012_lzn.jpg]
-tags: ["sochi","WC2018"]
-draft: false
+description: "Copa del Mundo"
+type: "post"
+image: "imgaes/rusia/201806_Sochi_0012_lzn.jpg"
+categories: 
+  - "Rusia"
+tags:
+  - "Sochi"
+  - "Europa"
+  - "Europa del Este"
+  - "Ex-URSS"
+  - "Fútbol"
+  - "WC2018"
 ---
 
 **Álbum de fotos**

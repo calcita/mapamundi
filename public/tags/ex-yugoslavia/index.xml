@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ex-yugoslavia on Mapa Mundi</title>
+    <title>Ex-Yugoslavia on Mapa Mundi</title>
     <link>/tags/ex-yugoslavia/</link>
-    <description>Recent content in ex-yugoslavia on Mapa Mundi</description>
+    <description>Recent content in Ex-Yugoslavia on Mapa Mundi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-ES</language>
     <lastBuildDate>Tue, 01 May 2018 07:39:12 +1000</lastBuildDate>
@@ -12,11 +12,65 @@
     
     
     <item>
+      <title>Dubrovnik</title>
+      <link>/proj-21303-dubrovnik/</link>
+      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
+      
+      <guid>/proj-21303-dubrovnik/</guid>
+      <description>Álbum de fotos</description>
+    </item>
+    
+    <item>
       <title>Kotor</title>
       <link>/proj-23301-kotor/</link>
       <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
       
       <guid>/proj-23301-kotor/</guid>
+      <description>Álbum de fotos</description>
+    </item>
+    
+    <item>
+      <title>Ljubljana</title>
+      <link>/proj-20301-ljubljana/</link>
+      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
+      
+      <guid>/proj-20301-ljubljana/</guid>
+      <description>Álbum de fotos</description>
+    </item>
+    
+    <item>
+      <title>Maribor</title>
+      <link>/proj-20302-maribor/</link>
+      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
+      
+      <guid>/proj-20302-maribor/</guid>
+      <description>Álbum de fotos</description>
+    </item>
+    
+    <item>
+      <title>Split</title>
+      <link>/proj-21302-split/</link>
+      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
+      
+      <guid>/proj-21302-split/</guid>
+      <description>Álbum de fotos</description>
+    </item>
+    
+    <item>
+      <title>Trogir</title>
+      <link>/proj-21304-trogir/</link>
+      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
+      
+      <guid>/proj-21304-trogir/</guid>
+      <description>Álbum de fotos</description>
+    </item>
+    
+    <item>
+      <title>Zagreb</title>
+      <link>/proj-21301-zagreb/</link>
+      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
+      
+      <guid>/proj-21301-zagreb/</guid>
       <description>Álbum de fotos</description>
     </item>
     

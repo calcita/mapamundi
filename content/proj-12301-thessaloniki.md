@@ -1,10 +1,15 @@
 ---
 title: "Thessaloniki & Posidi"
-subtitle: "Ministry with Children"
 date: 2018-05-01T07:39:12+10:00
-images: [/img/proj/thessaloniki/201707_Thessaloniki_186_lzn.jpg]
-tags: ["grecia","playa"]
-draft: false
+description: ""
+type: "post"
+image: "imgaes/grecia/201707_Thessaloniki_186_lzn.jpg"
+categories: 
+  - "Grecia"
+tags:
+  - "Tesalónica"
+  - "Europa"
+  - "Playa"
 ---
 
 ![Thessaloniki & Posidi](img/work/proj-005/thumb.jpg)

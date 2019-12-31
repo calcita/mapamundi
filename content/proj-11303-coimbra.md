@@ -1,10 +1,14 @@
 ---
 title: "Coimbra"
-subtitle: "Fado"
 date: 2018-05-01T07:39:12+10:00
-images: [/img/freely-10057.jpg]
-tags: ["coimbra","ministry"]
-draft: false
+description: "Fado"
+type: "post"
+image: "imgaes/portugal/.jpg"
+categories: 
+  - "Portugal"
+tags:
+  - "Coimbra"
+  - "Europa"
 ---
 
 **Álbum de fotos**

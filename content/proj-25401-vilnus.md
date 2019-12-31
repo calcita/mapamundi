@@ -1,10 +1,16 @@
 ---
 title: "Vilnius"
-subtitle: "Vilna"
 date: 2018-05-01T07:39:12+10:00
-images: [/img/proj/vilnius/201805_Vilnus_0019_lzn.jpg]
-tags: ["vilna","ministry"]
-draft: false
+description: ""
+type: "post"
+image: "images/lituania/201805_Vilnus_0020_lzn.jpg"
+categories: 
+  - "Lituania"
+tags:
+  - "Vilna"
+  - "Europa"
+  - "Europa del Este"
+  - "Ex-URSS"
 ---
 
 

@@ -1,10 +1,17 @@
 ---
 title: "Moskvá"
-subtitle: "Copa del Mundo"
 date: 2018-05-01T07:39:12+10:00
-images: [/img/proj/moskvá/201806_Moskva_0161_lzn.jpg]
-tags: ["moscú","WC2018"]
-draft: false
+description: "Copa del Mundo"
+type: "post"
+image: "imgaes/rusia/201806_Moskva_0161_lzn.jpg"
+categories: 
+  - "Rusia"
+tags:
+  - "Moscú"
+  - "Europa"
+  - "Europa del Este"
+  - "Ex-URSS"
+  - "Fútbol"
 ---
 
 **Álbum de fotos**

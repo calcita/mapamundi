@@ -1,10 +1,17 @@
 ---
 title: "Dubrovnik"
-subtitle: "Ministry with Children"
 date: 2018-05-01T07:39:12+10:00
-images: [/img/proj/dubrovnik/201708_Dubrovnik_047_lzn.jpg]
-tags: ["dubrovnik","ministry"]
-draft: false
+description: ""
+type: "post"
+image: "imgaes/croacia/201708_Dubrovnik_047_lzn.jpg"
+categories: 
+  - "Croacia"
+tags:
+  - "Dubrovnik"
+  - "Europa"
+  - "Europa del Este"
+  - "Ex-Yugoslavia"
+  - "Playa"
 ---
 
 

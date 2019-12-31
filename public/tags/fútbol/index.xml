@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Fútbol on Mapa Mundi</title>
+    <title>fútbol on Mapa Mundi</title>
     <link>/tags/f%C3%BAtbol/</link>
-    <description>Recent content in Fútbol on Mapa Mundi</description>
+    <description>Recent content in fútbol on Mapa Mundi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-ES</language>
     <lastBuildDate>Tue, 01 May 2018 07:39:12 +1000</lastBuildDate>
@@ -18,6 +18,33 @@
       
       <guid>/mapa-copadelmundo/</guid>
       <description>64 días, 20 ciudades -algunas repetidas-, 6 países, gran parte en ex-países soviéticos.</description>
+    </item>
+    
+    <item>
+      <title>Ekaterimburg</title>
+      <link>/proj-30403-ekaterimburg/</link>
+      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
+      
+      <guid>/proj-30403-ekaterimburg/</guid>
+      <description>Álbum de fotos</description>
+    </item>
+    
+    <item>
+      <title>Moskvá</title>
+      <link>/proj-30402-moscu/</link>
+      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
+      
+      <guid>/proj-30402-moscu/</guid>
+      <description>Álbum de fotos</description>
+    </item>
+    
+    <item>
+      <title>Nizhny Novgorod</title>
+      <link>/proj-30408-nizhnynovgorod/</link>
+      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
+      
+      <guid>/proj-30408-nizhnynovgorod/</guid>
+      <description>Álbum de fotos</description>
     </item>
     
     <item>
@@ -36,6 +63,42 @@
       
       <guid>/posts/proj-100-preparativos-wc/</guid>
       <description>A unos 5 meses de haber desempacado la mochila luego de recorrer parte de Europa, estoy armando la lista de que llevar a un viaje de dos meses por Polonia, Ucrania, Bielorrusia, Lituania, Letonia, Estonia y finalmente Rusia para vivir la Copa del Mundo.</description>
+    </item>
+    
+    <item>
+      <title>Rostov on Don</title>
+      <link>/proj-30404-rostovondon/</link>
+      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
+      
+      <guid>/proj-30404-rostovondon/</guid>
+      <description>Álbum de fotos</description>
+    </item>
+    
+    <item>
+      <title>Samara</title>
+      <link>/proj-30405-samara/</link>
+      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
+      
+      <guid>/proj-30405-samara/</guid>
+      <description>Álbum de fotos</description>
+    </item>
+    
+    <item>
+      <title>Saransk</title>
+      <link>/proj-30406-saransk/</link>
+      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
+      
+      <guid>/proj-30406-saransk/</guid>
+      <description>Álbum de fotos</description>
+    </item>
+    
+    <item>
+      <title>Sochi</title>
+      <link>/proj-30407-sochi/</link>
+      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
+      
+      <guid>/proj-30407-sochi/</guid>
+      <description>Álbum de fotos</description>
     </item>
     
   </channel>

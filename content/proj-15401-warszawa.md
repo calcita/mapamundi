@@ -1,10 +1,15 @@
 ---
 title: "Warszawa"
-subtitle: "Varsovia"
 date: 2018-05-01T07:39:12+10:00
-images: [/img/proj/warszawa/201805_Warszawa_0035_lzn.jpg]
-tags: ["two_column","ministry"]
-draft: false
+description: ""
+type: "post"
+image: "imgaes/polonia/201805_Warszawa_0035_lzn.jpg"
+categories: 
+  - "Polonia"
+tags:
+  - "Varsovia"
+  - "Europa"
+  - "Europa del Este"
 ---
 
 

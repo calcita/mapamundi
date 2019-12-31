@@ -1,10 +1,14 @@
 ---
 title: "Lisboa"
-subtitle: "Ministry with Children"
 date: 2018-05-01T07:39:12+10:00
-images: [/img/freely-10057.jpg]
-tags: ["lisboa","ministry"]
-draft: false
+description: ""
+type: "post"
+image: "imgaes/portugal/.jpg"
+categories: 
+  - "Portugal"
+tags:
+  - "Lisboa"
+  - "Europa"
 ---
 
 

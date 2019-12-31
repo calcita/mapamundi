@@ -1,10 +1,16 @@
 ---
 title: "Trogir"
-subtitle: "Ministry with Children"
 date: 2018-05-01T07:39:12+10:00
-images: [/img/proj/trogir/201708_Trogir_015_lzn.jpg]
-tags: ["trogir","ministry"]
-draft: false
+description: ""
+type: "post"
+image: "imgaes/croacia/201708_Trogir_015_lzn.jpg"
+categories: 
+  - "Croacia"
+tags:
+  - "Trogir"
+  - "Europa"
+  - "Europa del Este"
+  - "Ex-Yugoslavia"
 ---
 
 

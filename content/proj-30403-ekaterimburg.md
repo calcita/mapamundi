@@ -1,10 +1,18 @@
 ---
 title: "Ekaterimburg"
-subtitle: "Copa del Mundo"
 date: 2018-05-01T07:39:12+10:00
-images: [/img/proj/ekaterimburg/201806_Ekaterimburg_0057_lzn.jpg]
-tags: ["ekaterimburgo","WC2018"]
-draft: false
+description: "Copa del Mundo"
+type: "post"
+image: "imgaes/rusia/201806_Ekaterimburg_0057_lzn.jpg"
+categories: 
+  - "Rusia"
+tags:
+  - "Ekaterimburgo"
+  - "Europa"
+  - "Europa del Este"
+  - "Ex-URSS"
+  - "Fútbol"
+  - "WC2018"
 ---
 
 **Álbum de fotos**

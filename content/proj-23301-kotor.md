@@ -1,10 +1,15 @@
 ---
 title: "Kotor"
-subtitle: "Ministry with Children"
 date: 2018-05-01T07:39:12+10:00
-images: [/img/proj/kotor/201708_Kotor_038_lzn.jpg]
-tags: ["kotor","ex-yugoslavia"]
-draft: false
+description: ""
+type: "post"
+image: "imgaes/montenegro/201708_Kotor_038_lzn.jpg"
+categories: 
+  - "Montenegro"
+tags:
+  - "Kotor"
+  - "Europa"
+  - "Ex-Yugoslavia" 
 ---
 
 **Álbum de fotos**

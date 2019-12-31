@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Croacia on Mapa Mundi</title>
+    <link>/categories/croacia/</link>
+    <description>Recent content in Croacia on Mapa Mundi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-ES</language>
+    <lastBuildDate>Tue, 01 May 2018 07:39:12 +1000</lastBuildDate>
+    
+	<atom:link href="/categories/croacia/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Dubrovnik</title>
+      <link>/proj-21303-dubrovnik/</link>
+      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
+      
+      <guid>/proj-21303-dubrovnik/</guid>
+      <description>Álbum de fotos</description>
+    </item>
+    
+    <item>
+      <title>Split</title>
+      <link>/proj-21302-split/</link>
+      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
+      
+      <guid>/proj-21302-split/</guid>
+      <description>Álbum de fotos</description>
+    </item>
+    
+    <item>
+      <title>Trogir</title>
+      <link>/proj-21304-trogir/</link>
+      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
+      
+      <guid>/proj-21304-trogir/</guid>
+      <description>Álbum de fotos</description>
+    </item>
+    
+    <item>
+      <title>Zagreb</title>
+      <link>/proj-21301-zagreb/</link>
+      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
+      
+      <guid>/proj-21301-zagreb/</guid>
+      <description>Álbum de fotos</description>
+    </item>
+    
+  </channel>
+</rss>

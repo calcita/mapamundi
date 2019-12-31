@@ -7,7 +7,7 @@ image: "images/austria/201706_Deutschlandsberg_001_lzn.jpg"
 categories: 
   - "Austria"
 tags:
-  - "Graz"
+  - "Deutschlandsberg"
   - "Europa"
 ---
 
