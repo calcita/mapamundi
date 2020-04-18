@@ -1,4 +1,4 @@
-baseURL = "http://mapamundi.me/"
+baseURL = "https://mapamundi.me/"
 languageCode = "es-ES"
 title = "Mapa Mundi"
 theme = "parsa-hugo"
