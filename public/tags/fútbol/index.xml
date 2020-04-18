@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Fútbol on Mapa Mundi</title>
+    <title>fútbol on Mapa Mundi</title>
     <link>/tags/f%C3%BAtbol/</link>
-    <description>Recent content in Fútbol on Mapa Mundi</description>
+    <description>Recent content in fútbol on Mapa Mundi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-ES</language>
     <lastBuildDate>Tue, 01 May 2018 07:39:12 +1000</lastBuildDate>
@@ -27,6 +27,24 @@
       
       <guid>/proj-30403-ekaterimburg/</guid>
       <description>Álbum de fotos</description>
+    </item>
+    
+    <item>
+      <title>Equipaje</title>
+      <link>/posts/proj-101-equipaje-wc/</link>
+      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
+      
+      <guid>/posts/proj-101-equipaje-wc/</guid>
+      <description>Viajar lo más liviana posible ha sido mi lema, no siempre logré porque con el objetivo de ahorrar y comer sano la mayoría de las veces me</description>
+    </item>
+    
+    <item>
+      <title>Fan ID y entradas</title>
+      <link>/posts/proj-102-fanid-wc/</link>
+      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
+      
+      <guid>/posts/proj-102-fanid-wc/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -57,7 +75,7 @@
     </item>
     
     <item>
-      <title>Preparativos para ir a Rusia ⚽</title>
+      <title>Preparativos para ir a Rusia</title>
       <link>/posts/proj-100-preparativos-wc/</link>
       <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
       

@@ -1,13 +1,17 @@
 ---
 title: "Equipaje"
-subtitle: "Ministry with Children"
 date: 2018-05-01T07:39:12+10:00
-images: [/img/freely-10057.jpg]
-tags: ["WC2018","Rusia"]
-draft: false
+description: "Sin sobrepeso"
+type: "post"
+image: "images/.jpg"
+categories: 
+  - "Rusia"
+tags:
+  - "WC2018"
+  - "Europa"
+  - "Fútbol"
 ---
 
-![](img/work/proj-006/wrench.svg)
 Viajar lo más liviana posible ha sido mi lema, no siempre logré porque con el objetivo de ahorrar y comer sano la mayoría de las veces me 
 
 - condimentos: un churna, romero, hojas de laurel
