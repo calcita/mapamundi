@@ -3,7 +3,7 @@ title: "Madrid"
 date: 2018-05-01T07:39:12+10:00
 description: ""
 type: "post"
-image: "imgaes/espana/201705_Madrid_137_lzn.jpg"
+image: "images/espana/201705_Madrid_137_lzn.jpg"
 categories: 
   - "España"
 tags:

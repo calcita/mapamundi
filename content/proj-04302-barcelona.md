@@ -3,7 +3,7 @@ title: "Barcelona"
 date: 2018-05-01T07:39:12+10:00
 description: ""
 type: "post"
-image: "imgaes/espana/201706_Barcelona_040_lzn.jpg"
+image: "images/espana/201706_Barcelona_040_lzn.jpg"
 categories: 
   - "España"
 tags:
