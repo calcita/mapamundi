@@ -3,7 +3,7 @@ title: "EE + Wwoofing"
 date: 2018-05-01T07:39:12+10:00
 description: "Wwoofing en granjas orgánicas"
 type: "post"
-image: "images/.jpg"
+image: "images/Deutschlandsberg_20170629_144626.jpg"
 categories: 
   - ""
 tags:
