@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Infos on Mapa Mundi</title>
+    <link>/info/</link>
+    <description>Recent content in Infos on Mapa Mundi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-ES</language>
+    <lastBuildDate>Tue, 01 May 2018 07:39:12 +1000</lastBuildDate>
+    
+	<atom:link href="/info/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Copa del mundo</title>
+      <link>/info/mapa-copadelmundo/</link>
+      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
+      
+      <guid>/info/mapa-copadelmundo/</guid>
+      <description>64 días, 20 ciudades -algunas repetidas-, 6 países, gran parte en ex-países soviéticos.</description>
+    </item>
+    
+    <item>
+      <title>Datos y presupuesto</title>
+      <link>/info/proj-000-datos/</link>
+      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
+      
+      <guid>/info/proj-000-datos/</guid>
+      <description> </description>
+    </item>
+    
+    <item>
+      <title>EE &#43; Wwoofing</title>
+      <link>/info/mapa-esteeuropa/</link>
+      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
+      
+      <guid>/info/mapa-esteeuropa/</guid>
+      <description>52 destinos -algunos repetidos-, 10 países, gran parte en el este de Europa con dos paradas al sur de Austria para ser Wwoofer en granjas orgánicas.</description>
+    </item>
+    
+    <item>
+      <title>Equipaje</title>
+      <link>/info/proj-101-equipaje-wc/</link>
+      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
+      
+      <guid>/info/proj-101-equipaje-wc/</guid>
+      <description>Viajar lo más liviana posible ha sido mi lema, no siempre logré porque con el objetivo de ahorrar y comer sano la mayoría de las veces me</description>
+    </item>
+    
+    <item>
+      <title>Fan ID y entradas</title>
+      <link>/info/proj-102-fanid-wc/</link>
+      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
+      
+      <guid>/info/proj-102-fanid-wc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Preparativos para ir a Rusia</title>
+      <link>/info/proj-100-preparativos-wc/</link>
+      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
+      
+      <guid>/info/proj-100-preparativos-wc/</guid>
+      <description>A unos 5 meses de haber desempacado la mochila luego de recorrer parte de Europa, estoy armando la lista de que llevar a un viaje de dos meses por Polonia, Ucrania, Bielorrusia, Lituania, Letonia, Estonia y finalmente Rusia para vivir la Copa del Mundo.</description>
+    </item>
+    
+    <item>
+      <title>Recorrido</title>
+      <link>/info/proj-002-recorrido/</link>
+      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
+      
+      <guid>/info/proj-002-recorrido/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

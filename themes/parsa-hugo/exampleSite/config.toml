@@ -55,9 +55,14 @@ paginate = 6
   weight = 2
   
   [[menu.main]]
-  name = "Contact"
-  URL = "contact"
+  name = "Info"
+  URL = "info"
   weight = 3
+  
+  [[menu.main]]
+  name = "Contacto"
+  URL = "contact"
+  weight = 4
 
 
 [params]

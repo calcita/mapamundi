@@ -12,6 +12,15 @@
     
     
     <item>
+      <title>Copa del mundo</title>
+      <link>/info/mapa-copadelmundo/</link>
+      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
+      
+      <guid>/info/mapa-copadelmundo/</guid>
+      <description>64 días, 20 ciudades -algunas repetidas-, 6 países, gran parte en ex-países soviéticos.</description>
+    </item>
+    
+    <item>
       <title>Ekaterimburg</title>
       <link>/proj-30403-ekaterimburg/</link>
       <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
@@ -22,10 +31,10 @@
     
     <item>
       <title>Equipaje</title>
-      <link>/posts/proj-101-equipaje-wc/</link>
+      <link>/info/proj-101-equipaje-wc/</link>
       <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
       
-      <guid>/posts/proj-101-equipaje-wc/</guid>
+      <guid>/info/proj-101-equipaje-wc/</guid>
       <description>Viajar lo más liviana posible ha sido mi lema, no siempre logré porque con el objetivo de ahorrar y comer sano la mayoría de las veces me</description>
     </item>
     

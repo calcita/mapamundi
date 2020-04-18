@@ -12,20 +12,11 @@
     
     
     <item>
-      <title>Copa del mundo</title>
-      <link>/mapa-copadelmundo/</link>
-      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
-      
-      <guid>/mapa-copadelmundo/</guid>
-      <description>64 días, 20 ciudades -algunas repetidas-, 6 países, gran parte en ex-países soviéticos.</description>
-    </item>
-    
-    <item>
       <title>EE &#43; Wwoofing</title>
-      <link>/mapa-esteeuropa/</link>
+      <link>/info/mapa-esteeuropa/</link>
       <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
       
-      <guid>/mapa-esteeuropa/</guid>
+      <guid>/info/mapa-esteeuropa/</guid>
       <description>52 destinos -algunos repetidos-, 10 países, gran parte en el este de Europa con dos paradas al sur de Austria para ser Wwoofer en granjas orgánicas.</description>
     </item>
     

@@ -1,10 +1,15 @@
 ---
 title: "Copa del mundo"
-subtitle: "Fútbol"
 date: 2018-05-01T07:39:12+10:00
-images: [/img/201708_Burgenland_037.jpg]
-tags: ["mapa","europa", "fútbol"]
-draft: false
+description: "Rusia en tren"
+type: "post"
+image: "images/.jpg"
+categories: 
+  - "Rusia"
+tags:
+  - "WC2018"
+  - "Europa"
+  - "Fútbol"
 ---
 
 64 días, 20 ciudades -algunas repetidas-, 6 países, gran parte en ex-países soviéticos. Hacé click sobre las ciudades enumeradas para más información y zoom en el mapa para más detalle.

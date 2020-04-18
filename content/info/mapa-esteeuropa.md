@@ -1,10 +1,14 @@
 ---
 title: "EE + Wwoofing"
-subtitle: "Wwoofing en granjas orgánicas"
 date: 2018-05-01T07:39:12+10:00
-images: [/img/201708_Burgenland_037.jpg]
-tags: ["mapa","europa"]
-draft: false
+description: "Wwoofing en granjas orgánicas"
+type: "post"
+image: "images/.jpg"
+categories: 
+  - ""
+tags:
+  - "Europa"
+  - "Wwoofing"
 ---
 
 52 destinos -algunos repetidos-, 10 países, gran parte en el este de Europa con dos paradas al sur de Austria para ser Wwoofer en granjas orgánicas. Hacé click sobre las ciudades enumeradas para más información y zoom en el mapa para más detalle.

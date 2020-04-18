@@ -55,9 +55,14 @@ paginate = 6
   weight = 2
   
   [[menu.main]]
+  name = "Info"
+  URL = "info"
+  weight = 3
+  
+  [[menu.main]]
   name = "Contact"
   URL = "contact"
-  weight = 3
+  weight = 4
 
 
 [params]
@@ -67,6 +72,8 @@ home = "Home"
 homeLayoutToggle = true
 # Meta data
 description = "'Por un mundo donde seamos socialmente iguales, humanamente diferentes y totalmente libres'. (Rosa Luxemburg)"
+# info
+#info = "Info"
 # about author
 author = "Gabriela Mathieu"
 authorImage = "images/header-bg.jpg"

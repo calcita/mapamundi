@@ -123,7 +123,7 @@
   </url>
   
   <url>
-    <loc>/mapa-copadelmundo/</loc>
+    <loc>/info/mapa-copadelmundo/</loc>
     <lastmod>2018-05-01T07:39:12+10:00</lastmod>
   </url>
   
@@ -133,7 +133,7 @@
   </url>
   
   <url>
-    <loc>/posts/proj-000-datos/</loc>
+    <loc>/info/proj-000-datos/</loc>
     <lastmod>2018-05-01T07:39:12+10:00</lastmod>
   </url>
   
@@ -168,7 +168,7 @@
   </url>
   
   <url>
-    <loc>/mapa-esteeuropa/</loc>
+    <loc>/info/mapa-esteeuropa/</loc>
     <lastmod>2018-05-01T07:39:12+10:00</lastmod>
   </url>
   
@@ -193,7 +193,7 @@
   </url>
   
   <url>
-    <loc>/posts/proj-101-equipaje-wc/</loc>
+    <loc>/info/proj-101-equipaje-wc/</loc>
     <lastmod>2018-05-01T07:39:12+10:00</lastmod>
   </url>
   
@@ -233,7 +233,7 @@
   </url>
   
   <url>
-    <loc>/posts/proj-102-fanid-wc/</loc>
+    <loc>/info/proj-102-fanid-wc/</loc>
     <lastmod>2018-05-01T07:39:12+10:00</lastmod>
   </url>
   
@@ -274,6 +274,11 @@
   
   <url>
     <loc>/proj-22302-himara/</loc>
+    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/info/</loc>
     <lastmod>2018-05-01T07:39:12+10:00</lastmod>
   </url>
   
@@ -363,11 +368,6 @@
   </url>
   
   <url>
-    <loc>/tags/mapa/</loc>
-    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/</loc>
     <lastmod>2018-05-01T07:39:12+10:00</lastmod>
   </url>
@@ -448,12 +448,7 @@
   </url>
   
   <url>
-    <loc>/posts/</loc>
-    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/posts/proj-100-preparativos-wc/</loc>
+    <loc>/info/proj-100-preparativos-wc/</loc>
     <lastmod>2018-05-01T07:39:12+10:00</lastmod>
   </url>
   
@@ -463,7 +458,7 @@
   </url>
   
   <url>
-    <loc>/posts/proj-002-recorrido/</loc>
+    <loc>/info/proj-002-recorrido/</loc>
     <lastmod>2018-05-01T07:39:12+10:00</lastmod>
   </url>
   
@@ -679,6 +674,11 @@
   
   <url>
     <loc>/proj-13304-wien/</loc>
+    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/wwoofing/</loc>
     <lastmod>2018-05-01T07:39:12+10:00</lastmod>
   </url>
   
