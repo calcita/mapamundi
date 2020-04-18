@@ -8,6 +8,11 @@
   </url>
   
   <url>
+    <loc>/info/</loc>
+    <lastmod>2019-05-14T14:46:10+06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/search/</loc>
     <lastmod>2019-05-14T14:46:10+06:00</lastmod>
   </url>
@@ -274,11 +279,6 @@
   
   <url>
     <loc>/proj-22302-himara/</loc>
-    <lastmod>2018-05-01T07:39:12+10:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/info/</loc>
     <lastmod>2018-05-01T07:39:12+10:00</lastmod>
   </url>
   
