@@ -3,7 +3,7 @@ title: "Thessaloniki & Posidi"
 date: 2018-05-01T07:39:12+10:00
 description: ""
 type: "post"
-image: "imgaes/grecia/201707_Thessaloniki_186_lzn.jpg"
+image: "images/grecia/201707_Thessaloniki_186_lzn.jpg"
 categories: 
   - "Grecia"
 tags:

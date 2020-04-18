@@ -3,7 +3,7 @@ title: "Lwów"
 date: 2018-05-01T07:39:12+10:00
 description: ""
 type: "post"
-image: "imgaes/ucrania/201805_Lwow_0044_lzn.jpg"
+image: "images/ucrania/201805_Lwow_0044_lzn.jpg"
 categories: 
   - "Ucrania"
 tags:

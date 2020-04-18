@@ -3,7 +3,7 @@ title: "Zagreb"
 date: 2018-05-01T07:39:12+10:00
 description: "Cuadros rojos y blancos"
 type: "post"
-image: "imgaes/croacia/201707_Zagreb_135_lzn.jpg"
+image: "images/croacia/201707_Zagreb_135_lzn.jpg"
 categories: 
   - "Croacia"
 tags:

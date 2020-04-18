@@ -3,7 +3,7 @@ title: "Maribor"
 date: 2018-05-01T07:39:12+10:00
 description: ""
 type: "post"
-image: "imgaes/eslovenia/201706_Maribor_013_lzn.jpg"
+image: "images/eslovenia/201706_Maribor_013_lzn.jpg"
 categories: 
   - "Eslovenia"
 tags:

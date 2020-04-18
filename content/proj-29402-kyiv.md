@@ -3,7 +3,7 @@ title: "Kyiv"
 date: 2018-05-01T07:39:12+10:00
 description: ""
 type: "post"
-image: "imgaes/ucrania/201805_Kiev_0191_lzn.jpg"
+image: "images/ucrania/201805_Kiev_0191_lzn.jpg"
 categories: 
   - "Ucrania"
 tags:

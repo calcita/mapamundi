@@ -3,7 +3,7 @@ title: "Moskvá"
 date: 2018-05-01T07:39:12+10:00
 description: "Copa del Mundo"
 type: "post"
-image: "imgaes/rusia/201806_Moskva_0161_lzn.jpg"
+image: "images/rusia/201806_Moskva_0161_lzn.jpg"
 categories: 
   - "Rusia"
 tags:

@@ -3,7 +3,7 @@ title: "London"
 date: 2018-05-01T07:39:12+10:00
 description: ""
 type: "post"
-image: "imgaes/inglaterra/201710_London_339_lzn.jpg"
+image: "images/inglaterra/201710_London_339_lzn.jpg"
 categories: 
   - "Inglaterra"
 tags:

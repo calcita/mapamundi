@@ -3,7 +3,7 @@ title: "Warszawa"
 date: 2018-05-01T07:39:12+10:00
 description: ""
 type: "post"
-image: "imgaes/polonia/201805_Warszawa_0035_lzn.jpg"
+image: "images/polonia/201805_Warszawa_0035_lzn.jpg"
 categories: 
   - "Polonia"
 tags:

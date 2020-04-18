@@ -3,7 +3,7 @@ title: "Kotor"
 date: 2018-05-01T07:39:12+10:00
 description: ""
 type: "post"
-image: "imgaes/montenegro/201708_Kotor_038_lzn.jpg"
+image: "images/montenegro/201708_Kotor_038_lzn.jpg"
 categories: 
   - "Montenegro"
 tags:

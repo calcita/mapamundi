@@ -3,7 +3,7 @@ title: "Ekaterimburg"
 date: 2018-05-01T07:39:12+10:00
 description: "Copa del Mundo"
 type: "post"
-image: "imgaes/rusia/201806_Ekaterimburg_0057_lzn.jpg"
+image: "images/rusia/201806_Ekaterimburg_0057_lzn.jpg"
 categories: 
   - "Rusia"
 tags:

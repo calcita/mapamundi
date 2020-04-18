@@ -3,7 +3,7 @@ title: "Sankt Peterburg"
 date: 2018-05-01T07:39:12+10:00
 description: ""
 type: "post"
-image: "imgaes/rusia/201806_SanktPetersburg_0367_lzn.jpg"
+image: "images/rusia/201806_SanktPetersburg_0367_lzn.jpg"
 categories: 
   - "Rusia"
 tags:

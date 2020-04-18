@@ -3,7 +3,7 @@ title: "Porto"
 date: 2018-05-01T07:39:12+10:00
 description: "Aromas y azulejos"
 type: "post"
-image: "imgaes/portugal/.jpg"
+image: "images/portugal/.jpg"
 categories: 
   - "Portugal"
 tags:

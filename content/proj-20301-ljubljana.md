@@ -3,7 +3,7 @@ title: "Ljubljana"
 date: 2018-05-01T07:39:12+10:00
 description: ""
 type: "post"
-image: "imgaes/eslovenia/201707_Ljubljana_168_lzn.jpg"
+image: "images/eslovenia/201707_Ljubljana_168_lzn.jpg"
 categories: 
   - "Eslovenia"
 tags:

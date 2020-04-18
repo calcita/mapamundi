@@ -3,7 +3,7 @@ title: "Split"
 date: 2018-05-01T07:39:12+10:00
 description: ""
 type: "post"
-image: "imgaes/croacia/201708_Split_048_lzn.jpg"
+image: "images/croacia/201708_Split_048_lzn.jpg"
 categories: 
   - "Croacia"
 tags:
