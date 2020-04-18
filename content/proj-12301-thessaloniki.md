@@ -12,4 +12,6 @@ tags:
   - "Playa"
 ---
 
+**Álbum de fotos**
+
 <a data-flickr-embed="true" data-header="true" data-footer="true"  href="https://www.flickr.com/photos/mapa_mundi/albums/72157663804570078" title="Thessaloniki"><img src="https://farm5.staticflickr.com/4596/24299014137_c9c757f258_o.jpg" width="1024" height="683" alt="Thessaloniki"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
