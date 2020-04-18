@@ -3,7 +3,7 @@ title: "Coimbra"
 date: 2018-05-01T07:39:12+10:00
 description: "Fado"
 type: "post"
-image: "imgaes/portugal/.jpg"
+image: "imgaes/portugal/201711_Coimbra_129_lzn.jpg"
 categories: 
   - "Portugal"
 tags:
